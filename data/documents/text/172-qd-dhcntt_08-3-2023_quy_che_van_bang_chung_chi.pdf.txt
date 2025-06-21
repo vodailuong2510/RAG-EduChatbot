@@ -1,0 +1,1353 @@
+              ĐẠI HỌC QUỐC GIA TP.HCM              CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                  TRƯỜNG ĐẠI HỌC                       Độc lập -Tự do - Hạnh phúc
+                CÔNG NGHỆ THÔNG TIN
+                Số:  172/QĐ‑ĐHCNTT              Tp. Hồ Chí Minh, ngày 08 tháng 3 năm 2023
+                                         QUYẾT ĐỊNH
+                       Về việc ban hành Quy chế văn bằng, chứng chỉ của
+                             Trường Đại học Công nghệ Thông tin
+                       HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+              Căn cứ  Quyết định số 134/2006/QĐ-TTg ngày 08 tháng 6 năm 2006 của Thủ
+      tướng Chính phủ về việc thành lập Trường Đại học Công nghệ Thông tin thuộc Đại
+          học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM);
+             Căn cứ Quyết định số 867/QĐ-ĐHQG ngày 17 tháng 08 năm 2016 của Giám đốc
+    ĐHQG-HCM về việc ban hành Quy định tổ chức và hoạt động của trường đại học thành
+         viên và khoa trực thuộc ĐHQG-HCM;
+              Căn cứ  Thông tư số 21/2019/TT-BGDĐT ngày 29  tháng 10 năm 2019 của Bộ
+          Giáo dục và Đào tạo về việc ban hành Quy chế quản lý bằng tốt nghiệp trung học cơ
+sở, bằng tốt nghiệp trung học phổ thông, bằng tốt nghiệp trung cấp sư phạm, bằng tốt
+   nghiệp cao đẳng sư phạm, văn bằng giáo dục đại học và chứng chỉ của hệ thống giáo
+          dục quốc dân;
+              Căn cứ  Thông tư số 27/2019/TT-BGDĐT ngày 30  tháng 12 năm 2019 của Bộ
+          Giáo dục và Đào tạo về việc Quy định nội dung chính ghi trên văn bằng và phụ lục văn
+          bằng giáo dục đại học;
+                Căn cứ Quyết định số 1372/QĐ-ĐHQG ngày 10 tháng 10 năm 2022 của Giám
+          đốc ĐHQG-HCM về việc ban hành Quy chế văn bằng, chứng chỉ;
+                Căn cứ Quyết định số 1379/QĐ-ĐHQG ngày 12 tháng 10 năm 2022 của Giám
+          đốc ĐHQG-HCM về việc ban hành mẫu bằng đại học;
+              Theo đề nghị của Trưởng phòng Đào tạo Sau Đại học & Khoa học Công nghệ
+          và  Trưởng phòng Đào tạo Đại học.
+                                       QUYẾT ĐỊNH:
+          Điều 1. Ban hành kèm theo Quyết định này  Quy chế  văn bằng, chứng chỉ của
+         Trường Đại học Công nghệ Thông tin.
+               Điều 2. Quyết định có hiệu lực thi hành kể từ ngày ký.
+             Quyết định này thay thế cho Quyết định số 284/QĐ‑ĐHCNTT ngày 24 tháng 5
+      năm 2017 về việc ban hành Quy định văn bằng, chứng chỉ của Trường Đại học Công
+         nghệ Thông tin .
+             Quyết định này thay thế cho Quyết định số 43/QĐ‑ĐHCNTT ngày 15 tháng 01
+  năm 2018 về việc ban hành Quy định hình thức và nội dung in trên văn bằng đại học,
+         chứng chỉ.
+---
+       Điều 3. Các Ông/Bà Trưởng các Phòng, Ban, Khoa có liên quan chịu trách nhiệm
+thi hành Quyết định này./.
+  Nơi nhận:                                                  HIỆU TRƯỞNG
+  ‑ Như Điều 3;
+  ‑ Lưu: VT, ĐTĐH (Nh).                                        (đã ký)
+                                                         Nguyễn Hoàng Tú Anh
+---
+             ĐẠI HỌC QUỐC GIA TP.HCM            CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                 TRƯỜNG ĐẠI HỌC                     Độc lập – Tự do – Hạnh phúc
+           CÔNG NGHỆ THÔNG TIN
+                                             Tp. Hồ Chí Minh, ngày 08 tháng 3 năm 2023
+                                          QUY CHẾ
+                    Văn bằng, chứng chỉ của Trường Đại học Công nghệ Thông tin
+             (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                         của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+                                            Chương I
+                                         QUY ĐỊNH CHUNG
+         Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+   1. Quy chế này quy định về việc quản lý văn bằng giáo dục đại học, sau đại học và các
+         loại chứng chỉ (sau đây gọi tắt là văn bằng, chứng chỉ) của Trường Đại học Công nghệ Thông
+         tin (ĐHCNTT); gồm: quản lý văn bằng, chứng chỉ; nội dung, ngôn ngữ, phương thức ghi
+         trong văn bằng, chứng chỉ; cấp phát, chỉnh sửa, thu hồi, hủy bỏ văn bằng, chứng chỉ; cấp bản
+         sao văn bằng từ sổ gốc; kiểm tra, thanh tra, xử lý vi phạm.
+2.  Quy  chế  này  áp  dụng đối  với  tất  cả  các đơn vị, cá nhân trong và ngoài Trường
+         ĐHCNTT có liên quan đến công  tác quản lý, cấp phát, sử dụng văn bằng, chứng chỉ của
+         Trường ĐHCNTT.
+         Điều 2. Nguyên tắc quản lý, cấp phát văn bằng, chứng chỉ
+       1. Văn bằng, chứng chỉ của Trường ĐHCNTT phát hành thuộc hệ thống văn bằng, chứng
+         chỉ giáo dục quốc dân.
+      2. Văn bằng, chứng chỉ được quản lý thống nhất, thực hiện phân cấp quản lý bảo đảm
+         quyền và trách nhiệm của các đơn vị trong Trường.
+             3. Văn bằng, chứng chỉ được cấp một lần trừ trường hợp quy định tại Điều 15 của Quy
+         chế này.
+             4. Nghiêm cấm mọi hành vi gian lận trong cấp phát và sử dụng văn bằng, chứng chỉ.
+             5. Bảo đảm công khai, minh bạch trong cấp phát văn bằng, chứng chỉ.
+         Điều 3. Trách nhiệm của các đơn vị, cá nhân trong việc quản lý văn bằng, chứng chỉ
+      1. Hiệu trưởng chịu trách nhiệm chung trong việc quản lý, cấp phát văn bằng, chứng
+         chỉ.
+      2. Phòng Đào tạo Đại học (PĐTĐH) có trách nhiệm quản lý việc cấp văn bằng đại học,
+         chứng chỉ; thực hiện các thủ tục đề nghị cấp phôi bằng đại học, chứng chỉ từ ĐHQG‑HCM,
+         quản lý phôi, thông tin in lên phôi và tổ chức thực hiện công tác lưu trữ, cấp phát, thu hồi,
+         hủy bỏ  bằng đại  học,  chứng chỉ; bản sao bằng tốt nghiệp đại học, chứng chỉ của Trường
+         ĐHCNTT.
+---
+                                             2
+         3. Phòng Đào tạo Sau đại học & Khoa học Công nghệ (PĐTSĐH‑KHCN) có trách nhiệm
+   quản lý việc cấp văn bằng thạc sĩ, tiến sĩ; thực hiện các thủ  tục đề  nghị cấp phôi bằng từ
+   ĐHQG‑HCM, quản lý phôi, thông tin in lên phôi và tổ chức thực hiện công tác lưu trữ, cấp
+   phát, thu hồi, hủy bỏ bằng thạc sĩ, tiến sĩ; bản sao bằng thạc sĩ, tiến sĩ của Trường ĐHCNTT.
+        4.  Phòng  Tổ  chức  Hành  chính  (PTCHC)  có  trách  nhiệm  phối  hợp  với PĐTĐH và
+   PĐTSĐH‑KHCN trong việc in thông tin cấp bằng lên phôi văn bằng theo danh sách người
+   học tốt nghiệp đính kèm Quyết định công nhận tốt nghiệp của Hiệu trưởng Trường ĐHCNTT
+   theo đúng mẫu tương ứng; trình Hiệu trưởng ký và đóng dấu văn bằng, chứng chỉ; in các loại
+   phôi chứng chỉ thuộc thẩm quyền của Trường theo quy định.
+5. Các đơn vị trực thuộc Trường có đào tạo, cấp chứng chỉ chịu trách nhiệm quản lý việc
+   in thông tin lên phôi và cấp phát chứng chỉ cho người học.
+         6. Phòng Thanh tra ‑ Pháp chế ‑ Đảm bảo Chất lượng (PTTPC‑ĐBCL) có trách nhiệm
+   thực hiện công tác thanh tra, kiểm tra việc thực hiện các quy định về văn bằng, chứng chỉ.
+        7. Các đơn vị được phân công quản lý việc cấp văn bằng, chứng chỉ có trách nhiệm:
+ a) Kiểm tra, đối chiếu và ghi chính xác, đầy đủ các thông tin ghi trên văn bằng, chứng
+   chỉ. Cung cấp các thông tin dự kiến ghi trên văn bằng, chứng chỉ cho người học để người học
+   kiểm tra tính chính xác của các thông tin trước khi ghi trên văn bằng, chứng chỉ; yêu cầu
+   người học xác nhận về việc đã kiểm tra thông tin, ký xác nhận các yêu cầu chỉnh sửa thông
+   tin và cung cấp các căn cứ yêu cầu chỉnh sửa thông tin. Các thông tin liên quan đến khai sinh
+   của người học ghi trên văn bằng, chứng chỉ phải căn cứ vào giấy khai sinh hợp lệ và hồ sơ
+   trúng tuyển của người học;
+       b) Tổ chức in, cấp văn bằng, chứng chỉ đúng thẩm quyền và đúng thời hạn theo quy
+   định tại Điều 14 của Quy chế này.
+     c) Lập đầy đủ hồ sơ làm căn cứ để cấp phát, quản lý văn bằng, chứng chỉ và lưu trữ
+   vĩnh viễn.
+   d) Bảo đảm tính chính xác và chịu trách nhiệm về các thông tin trong hồ sơ, trong sổ
+   gốc cấp văn bằng, chứng chỉ.
+         đ) Cung cấp thông tin trong sổ gốc cấp văn bằng, chứng chỉ và thông tin trong hồ sơ
+   tốt nghiệp để người được cấp văn bằng, chứng chỉ có căn cứ đề  nghị chỉnh sửa văn bằng,
+   chứng chỉ.
+     e) Chỉnh sửa nội dung văn bằng, chứng chỉ theo quy định tại Điều 18, Điều 19, Điều
+   20, Điều 21 của Quy chế này.
+      g) Bảo quản, lưu giữ văn bằng, chứng chỉ trong trường hợp người học chưa đến nhận
+   văn bằng, chứng chỉ.
+         h) Đảm bảo cơ sở vật chất, trang thiết bị in, phòng chống cháy nổ để bảo quản phôi,
+   văn bằng, chứng chỉ.
+         i) Thu hồi, hủy bỏ văn bằng, chứng chỉ theo quy định tại Điều 22 của Quy chế này.
+---
+                                            3
+        k) Cấp bản sao văn bằng, chứng chỉ từ sổ gốc theo quy định tại Chương V của Quy chế
+  này.
+  l) Khi cấp văn bằng, chứng chỉ cho người học phải lập sổ gốc văn bằng, chứng chỉ theo
+  mẫu quy định của ĐHQG‑HCM.
+    m) Đối với phôi văn bằng, chứng chỉ bị hư hỏng, viết sai, chất lượng không bảo đảm,
+  chưa sử dụng do thay đổi mẫu phôi thì lập hội đồng hủy phôi bằng, có biên bản ghi rõ số
+  lượng, số hiệu và tình trạng văn bằng, chứng chỉ trước khi hủy. Quy định này cũng áp dụng
+  đối với văn bằng, chứng chỉ bị ghi sai và đã được người có thẩm quyền cấp văn bằng, chứng
+  chỉ ký, đóng dấu nhưng người được cấp văn bằng, chứng chỉ chưa ký nhận.
+    n) Trường hợp phôi văn bằng, chứng chỉ bị mất thì phải có trách nhiệm lập biên bản,
+  báo cáo lên Hiệu trưởng, thông báo ngay với cơ quan công an nơi gần nhất và ĐHQG‑HCM
+  để xử lý kịp thời.
+  Điều 4. Quyền và nghĩa vụ của người được cấp văn bằng, chứng chỉ
+       1.  Người được cấp văn bằng, chứng chỉ có các quyền sau đây:
+       a) Yêu cầu Trường cấp bản sao, chứng thực văn bằng, chứng chỉ khi có nhu cầu.
+       b) Yêu cầu Trường cấp văn bằng, chứng chỉ đúng thời hạn quy định tại Điều 14; ghi
+  chính xác, đầy đủ các thông tin trên văn bằng, chứng chỉ; chỉnh sửa các nội dung ghi trên văn
+  bằng, chứng chỉ theo quy định tại Quy chế này.
+     c) Yêu cầu Trường cung cấp thông tin trong sổ gốc cấp văn bằng, chứng chỉ và thông
+  tin trong hồ sơ tốt nghiệp để có căn cứ đề nghị chỉnh sửa văn bằng, chứng chỉ.
+       2.  Người được cấp văn bằng, chứng chỉ có các nghĩa vụ sau đây:
+  a) Cung cấp chính xác, đầy đủ các thông tin cần thiết để ghi trong nội dung văn bằng,
+  chứng chỉ.
+b) Kiểm tra tính chính xác các thông tin ghi trên văn bằng, chứng chỉ trước khi ký nhận
+  văn bằng, chứng chỉ.
+        c) Phải có giấy ủy quyền theo quy định của pháp luật khi không trực tiếp đến nhận văn
+  bằng, chứng chỉ.
+   d) Giữ gìn, bảo quản văn bằng, chứng chỉ; không được tẩy xóa, chỉnh sửa các nội dung
+  trên văn bằng, chứng chỉ; không được cho người khác sử dụng văn bằng, chứng chỉ.
+        đ) Sử dụng Quyết định chỉnh sửa văn bằng, chứng chỉ kèm theo văn bằng, chứng chỉ
+  sau khi được chỉnh sửa văn bằng, chứng chỉ.
+        e) Trình báo cho Trường  và cơ quan công an nơi gần nhất khi bị mất bản chính văn
+  bằng, chứng chỉ.
+        g) Nộp lại văn bằng, chứng chỉ cho Trường trong thời hạn 30 ngày, kể từ ngày nhận
+  được Quyết định thu hồi văn bằng, chứng chỉ.
+  Điều 5. Công bố thông tin về cấp văn bằng, chứng chỉ trên trang thông tin điện tử
+ 1. Việc công bố thông tin về cấp văn bằng, chứng chỉ trên trang thông tin điện tử nhằm
+  công khai, minh bạch hoạt động đào tạo và cấp văn bằng, chứng chỉ của Trường; giúp cho
+---
+                                          4
+các cơ quan, tổ chức, cá nhân kiểm tra, giám sát hoạt động cấp văn bằng, chứng chỉ một cách
+thuận lợi; hạn chế tình trạng gian lận và tiêu cực trong việc cấp văn bằng, chứng chỉ.
+     2. PĐTĐH, PĐTSĐH‑KHCN phối hợp với Phòng Dữ liệu và Công nghệ Thông tin có
+trách nhiệm công bố công khai thông tin về cấp văn bằng, chứng chỉ trên trang thông tin điện
+tử của Trường chậm nhất sau 30 ngày kể từ ngày cấp văn bằng, chứng chỉ.
+     3. Thông tin về cấp văn bằng, chứng chỉ được công bố công khai phải đảm bảo chính
+xác và đầy đủ các nội dung như sổ gốc văn bằng, chứng chỉ quy định tại Quy chế này; phải
+được cập nhật và lưu trữ thường xuyên trên trang thông tin điện tử của Trường; đảm bảo dễ
+quản lý, truy cập, tìm kiếm.
+4. Trường hợp văn bằng, chứng chỉ được chỉnh sửa, thu hồi, hủy bỏ thì cũng phải được
+công bố công khai trên trang thông tin điện tử của Trường.
+ Việc công bố công khai thông tin về cấp, chỉnh sửa, thu hồi, hủy bỏ văn bằng, chứng
+chỉ trên trang thông tin điện tử được thực hiện cả đối với các văn bằng, chứng chỉ đã được
+cấp trước ngày Quy chế này có hiệu lực thi hành.
+                                      Chương II
+                  NỘI DUNG, NGÔN NGỮ GHI TRONG VĂN BẰNG, CHỨNG CHỈ
+Điều 6. Quy định chung về nội dung văn bằng, chứng chỉ
+      Nội dung chung của các văn bằng, chứng chỉ gồm:
+     1. Tiêu đề:
+                           CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                               Độc lập - Tự do - Hạnh phúc
+     2. Tên của Trường.
+     3. Tên văn bằng, chứng chỉ được quy định như sau:
+     a) Văn bằng:
+     ‑ Bằng đại học;
+     Bằng tốt nghiệp đại học ngành kỹ thuật được gọi là bằng kỹ sư; của các ngành khoa học
+cơ bản được gọi là bằng cử nhân;
+     ‑ Bằng thạc sĩ;
+     ‑ Bằng tiến sĩ.
+     b) Chứng chỉ:
+     ‑ Chứng chỉ thực hành: chứng chỉ ngoại ngữ; chứng chỉ ứng dụng công nghệ thông tin.
+     ‑ Chứng chỉ các môn học, bồi dưỡng; chứng chỉ  kỹ thuật viên và các loại chứng chỉ
+khác có giá trị tương ứng được Giám đốc ĐHQG‑HCM giao nhiệm vụ đào tạo.
+     4. Ngành đào tạo (đối với văn bằng), chương trình đào tạo, bồi dưỡng nếu có (đối với
+chứng chỉ).
+     5. Họ, chữ đệm, tên; ngày tháng năm sinh của người được cấp văn bằng, chứng chỉ.
+     6. Hạng tốt nghiệp/xếp loại tốt nghiệp.
+     7. Số hiệu và số vào sổ gốc cấp văn bằng, chứng chỉ.
+---
+                                         5
+     8. Địa danh: Thành phố Hồ Chí Minh; ngày tháng năm cấp văn bằng, chứng chỉ.
+     9. Chức danh, chữ ký, họ, chữ đệm, tên của người có thẩm quyền cấp văn bằng, chứng
+chỉ và đóng dấu theo quy định.
+     10. Biểu tượng, hoa văn:
+     a) Đối với văn bằng: Biểu tượng là biểu tượng của ĐHQG‑HCM, của Trường; hoa văn
+in trên văn bằng là biểu tượng của ĐHQG‑HCM.
+     b) Đối với chứng chỉ do ĐHQG‑HCM in phôi: Biểu tượng là biểu tượng của ĐHQG‑
+HCM; hoa văn in trên chứng chỉ là biểu tượng của ĐHQG‑HCM.
+     c) Đối với chứng chỉ do Trường in phôi: Biểu tượng là biểu tượng của Trường; hoa văn
+in trên văn bằng là biểu tượng của Trường.
+Điều 7.  Các nội dung khác ghi trên chứng chỉ
+     Ngoài các nội dung quy định tại Điều 6 của Quy chế này, Trường có thể bổ sung các
+nội dung khác trên chứng chỉ phù hợp với quyền tự chủ về in phôi chứng chỉ.
+Điều 8. Ngôn ngữ ghi trên văn bằng, chứng chỉ
+     Ngôn ngữ chính ghi trên văn bằng, chứng chỉ là tiếng Việt. Đối với các văn bằng, chứng
+chỉ có ghi thêm tiếng nước ngoài, thì tiếng nước ngoài phải được ghi chính xác và phù hợp
+với nội dung tiếng Việt, kích cỡ chữ nước ngoài không lớn hơn kích cỡ chữ tiếng Việt.
+Điều 9. Mẫu văn bằng, chứng chỉ
+     1. Mẫu từng loại văn bằng, chứng chỉ theo đúng mẫu văn bằng, chứng chỉ tương ứng
+với các trình độ đào tạo do ĐHQG‑HCM, Bộ GD&ĐT ban hành.
+     2. Đối với chứng chỉ được tự in phôi, Hiệu trưởng ký quyết định ban hành mẫu chứng
+chỉ theo đề nghị của Trưởng phòng PĐTĐH.
+---
+                                             6
+                                        Chương III
+                     IN VÀ QUẢN LÝ PHÔI VĂN BẰNG, CHỨNG CHỈ
+    Điều 10. Trách nhiệm in, quản lý phôi văn bằng, chứng chỉ
+              1. Trường ĐHCNTT thống nhất sử  dụng phôi văn bằng do ĐHQG‑HCM in và phát
+    hành. Đối với chứng chỉ thực hành Trường và các đơn vị trực thuộc có thể dùng phôi do
+    ĐHQG‑HCM hoặc Bộ GD&ĐT in và phát hành. PĐTĐH và PĐTSĐH‑KHCN chuẩn bị hồ
+    sơ và thực hiện thủ tục đề nghị ĐHQG‑HCM hoặc Bộ GD&ĐT cấp phôi chứng chỉ thực hành
+    theo đúng quy định.
+         2. Đối với loại phôi chứng chỉ do Trường phát hành: Hiệu trưởng Trường phê duyệt
+    mẫu phôi chứng chỉ; gửi mẫu phôi chứng chỉ về Bộ GD&ĐT, ĐHQG‑HCM, cơ quan công
+    an địa phương nơi đóng trụ sở chính để báo cáo; chịu trách nhiệm về nội dung in trên phôi
+    chứng chỉ và tổ chức in phôi chứng chỉ theo nhu cầu.
+  3. Việc in phôi chứng chỉ phải đảm bảo chặt chẽ, an toàn, bảo mật và phải được lập sổ
+    quản lý.
+    Điều 11. Quy định lập số hiệu, số vào sổ cấp văn bằng, chứng chỉ
+1. Số hiệu ghi trên phôi chứng chỉ được lập liên tục theo thứ tự số tự nhiên từ nhỏ đến
+    lớn trong toàn bộ quá trình hoạt động của Trường từ khi thực hiện việc tự in phôi chứng chỉ;
+    đảm bảo phân biệt được số hiệu của từng loại chứng chỉ và xác định được Trường ĐHCNTT.
+  2. Số vào sổ cấp văn bằng, chứng chỉ được lập liên tục theo thứ tự số tự nhiên từ nhỏ
+    đến lớn theo từng năm từ ngày 01/01 đến hết ngày 31/12; đảm bảo phân biệt được số vào sổ
+    gốc của từng loại văn bằng, chứng chỉ, năm cấp và Trường ĐHCNTT (quy định chi tiết tại
+    Phụ lục 1 kèm theo Quy chế này).
+---
+                                         7
+                                     Chương IV
+             CẤP PHÁT, CẤP LẠI, CHỈNH SỬA, THU HỒI, HỦY BỎ
+                                VĂN BẰNG, CHỨNG CHỈ
+Điều 12. Thẩm quyền cấp văn bằng, chứng chỉ
+     1. Thẩm quyền cấp văn bằng: Bằng tốt nghiệp đại học, bằng thạc sĩ, bằng tiến sĩ do
+Hiệu trưởng Trường cấp.
+     2. Thẩm quyền cấp chứng chỉ: Hiệu trưởng Trường cấp hoặc ủy quyền cho thủ trưởng
+đơn vị trực thuộc cấp theo quy định.
+Điều 13. Điều kiện cấp văn bằng, chứng chỉ
+     Người học được cấp văn bằng, chứng chỉ khi đảm bảo các điều kiện sau:
+     1. Văn bằng được cấp sau khi người học hoàn thành chương trình giáo dục, chương
+trình đào tạo theo cấp học, trình độ đào tạo và đạt các điều kiện khác theo quy định của quy
+chế đào tạo đại học, thạc sĩ, tiến sĩ.
+     2. Chứng chỉ:
+     a) Được cấp sau khi người học hoàn thành chương trình đào tạo hoặc bồi dưỡng nâng
+cao trình độ học vấn, nghề nghiệp theo chương trình do Bộ GD&ĐT quy định hoặc ban hành.
+     b) Được cấp cho cá nhân có nhu cầu được đánh giá năng lực sử dụng CNTT hoặc có
+nhu cầu được cấp chứng chỉ ứng dụng CNTT theo quy định của Bộ GD&ĐT.
+     3. Không đang trong thời gian bị truy cứu trách nhiệm hình sự.
+Điều 14. Thời hạn cấp văn bằng, chứng chỉ
+     1. Hiệu trưởng Trường ĐHCNTT có trách nhiệm cấp văn bằng cho người học trong
+thời hạn:
+      a) 30 ngày kể từ ngày có quyết định công nhận tốt nghiệp đại học.
+      b) 30 ngày kể từ ngày có quyết định công nhận tốt nghiệp và cấp bằng thạc sĩ.
+      c) 30 ngày kể từ ngày có quyết định công nhận học vị tiến sĩ và cấp bằng tiến sĩ.
+     2. Hiệu trưởng hoặc thủ trưởng đơn vị trực thuộc được ủy quyền có trách nhiệm cấp
+chứng chỉ cho người học chậm nhất là 30 ngày kể từ ngày kết thúc khóa đào tạo, bồi dưỡng
+nâng cao trình độ học vấn, nghề nghiệp.
+      3. Trong thời gian chờ cấp văn bằng, người học đã tốt nghiệp được Hiệu trưởng Trường
+ĐHCNTT cấp giấy chứng nhận tốt nghiệp tạm thời (theo mẫu Phụ lục 7, 8 kèm theo Quy chế
+này).
+Điều 15. Cấp lại văn bằng, chứng chỉ
+     1. Trường hợp văn bằng, chứng chỉ đã cấp nhưng phát hiện bị in sai do lỗi của Trường
+thì Trường có trách nhiệm cấp lại bản chính văn bằng, chứng chỉ.
+     2. Hiệu trưởng hoặc thủ trưởng đơn vị được ủy quyền cấp chứng chỉ có thẩm quyền cấp
+lại văn bằng, chứng chỉ.
+     3. Thủ tục cấp lại văn bằng, chứng chỉ như sau:
+---
+                                              8
+   a) Người có yêu cầu cấp lại văn bằng, chứng chỉ gửi trực tiếp hoặc qua đường bưu điện
+     cho cơ quan có thẩm quyền cấp lại văn bằng, chứng chỉ một bộ hồ sơ gồm: đơn đề nghị cấp
+     lại văn bằng, chứng chỉ; văn bằng, chứng chỉ đề nghị cấp lại; giấy tờ chứng minh cơ quan có
+     thẩm quyền cấp văn bằng, chứng chỉ in sai văn bằng, chứng chỉ.
+          b) Trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có
+     thẩm quyền cấp lại văn bằng, chứng chỉ xem xét quyết định việc cấp lại văn bằng, chứng chỉ;
+     nếu không cấp lại thì phải trả lời bằng văn bản và nêu rõ lý do.
+          c) Trường hợp mẫu văn bằng, chứng chỉ tại thời điểm cấp lại văn bằng, chứng chỉ đã
+     thay đổi, cơ quan có thẩm quyền cấp văn bằng, chứng chỉ sử dụng mẫu văn bằng, chứng chỉ
+     hiện hành để cấp cho người được cấp lại văn bằng, chứng chỉ.
+     Điều 16. Sổ gốc văn bằng, chứng chỉ
+          1. Sổ gốc cấp văn bằng, chứng chỉ là tài liệu do Trường ĐHCNTT lập ra khi thực hiện
+     việc cấp bản chính văn bằng, chứng chỉ trong đó có ghi chép đầy đủ những nội dung tiếng
+     Việt như bản chính đã cấp.
+          2. Sổ gốc cấp văn bằng, chứng chỉ phải được ghi chép chính xác, đánh số trang, đóng
+     dấu giáp lai, không được tẩy xóa, đảm bảo quản lý chặt chẽ và lưu trữ vĩnh viễn.
+      3. Mẫu sổ gốc văn bằng, chứng chỉ được quy định tại Phụ lục 9, 10, 11, 14 kèm theo
+     Quy chế này.
+     Điều 17. Ký, đóng dấu văn bằng, chứng chỉ
+      1. Hiệu trưởng hoặc thủ trưởng đơn vị được ủy quyền cấp chứng chỉ phải ký theo mẫu
+     chữ ký đã đăng ký với cơ quan có thẩm quyền và ghi rõ, đủ họ tên, chức danh.
+   2. Việc ký thay Hiệu trưởng phải theo đúng các quy định về công tác văn thư hiện hành
+     và có văn bản báo cáo ĐHQG‑HCM trước khi ký.
+     3. Trong trường hợp thật cần thiết, do khối lượng văn bằng, chứng chỉ ký quá nhiều,
+     không thể ký trực tiếp thì Hiệu trưởng hoặc thủ trưởng đơn vị được ủy quyền cấp chứng chỉ
+     phải được ĐHQG‑HCM cho phép mới được sử dụng dấu chữ ký đóng lên văn bằng, chứng
+     chỉ.
+       4. Việc đóng dấu trên chữ ký của Hiệu trưởng hoặc thủ trưởng đơn vị được ủy quyền
+     cấp chứng chỉ thực hiện theo quy định về công tác văn thư hiện hành.
+     Điều 18. Thẩm quyền quyết định chỉnh sửa nội dung văn bằng, chứng chỉ
+Người  có  thẩm  quyền  quyết định  chỉnh  sửa  nội dung văn bằng,  chứng  chỉ  là  Hiệu
+     trưởng hoặc thủ trưởng đơn vị được ủy quyền cấp chứng chỉ.  Trường hợp Trường đã sáp
+     nhập, chia, tách, giải thể hoặc có sự điều chỉnh về thẩm quyền thì người có thẩm quyền quyết
+     định chỉnh sửa nội dung văn bằng, chứng chỉ là thủ trưởng cơ quan đang quản lý sổ gốc cấp
+     văn bằng, chứng chỉ.
+     Điều 19. Các trường hợp chỉnh sửa nội dung văn bằng, chứng chỉ
+          Người được cấp văn bằng, chứng chỉ có quyền yêu cầu chỉnh sửa nội dung ghi trên văn
+     bằng, chứng chỉ trong các trường hợp sau:
+---
+                                           9
+     1. Được cơ quan có thẩm quyền xác nhận thay đổi hoặc cải chính hộ tịch.
+     2. Được xác định lại dân tộc, xác định lại giới tính.
+     3. Được bổ sung hộ tịch, điều chỉnh hộ tịch.
+     4. Được đăng ký khai sinh quá hạn, đăng ký lại việc sinh.
+Điều 20. Hồ sơ, trình tự, thủ tục chỉnh sửa nội dung văn bằng, chứng chỉ
+      1. Hồ sơ đề nghị chỉnh sửa văn bằng, chứng chỉ:
+      a) Đơn đề nghị chỉnh sửa văn bằng, chứng chỉ có chữ ký của người được cấp;
+      b) Văn bằng, chứng chỉ đề nghị chỉnh sửa;
+      c) Trích lục hoặc quyết định thay đổi hoặc cải chính hộ tịch, xác định lại dân tộc, xác
+định lại giới tính đối với trường hợp chỉnh sửa văn bằng, chứng chỉ do thay đổi hoặc cải chính
+hộ tịch, xác định lại dân tộc, xác định lại giới tính;
+      d) Giấy khai sinh đối với trường hợp chỉnh sửa văn bằng, chứng chỉ do bổ sung hộ
+tịch, điều chỉnh hộ tịch, đăng ký lại việc sinh, đăng ký khai sinh quá hạn;
+     đ) Giấy chứng minh thư nhân dân hoặc căn cước công dân hoặc hộ chiếu hoặc giấy tờ
+tùy thân hợp pháp khác có ảnh của người được cấp văn bằng, chứng chỉ. Thông tin ghi trên
+các giấy tờ này phải phù hợp với đề nghị chỉnh sửa nội dung văn bằng, chứng chỉ. Các tài
+liệu trong hồ sơ đề nghị chỉnh sửa văn bằng, chứng chỉ quy định tại các điểm b, c, d, đ khoản
+1 Điều này có thể là bản sao từ sổ gốc hoặc bản sao được chứng thực từ bản chính.
+  Nếu tài liệu trong hồ sơ đề nghị chỉnh sửa văn bằng, chứng chỉ quy định tại các điểm
+b, c, d, đ khoản 1 Điều này là bản sao không có chứng thực thì người đề nghị chỉnh sửa văn
+bằng, chứng chỉ phải xuất trình bản chính để người tiếp nhận hồ sơ đối chiếu; người tiếp nhận
+hồ sơ phải ký xác nhận và ghi rõ họ tên vào bản sao và chịu trách nhiệm về tính chính xác
+của bản sao so với bản chính.
+      2. Trình tự chỉnh sửa văn bằng, chứng chỉ:
+      a) Người đề nghị chỉnh sửa văn bằng, chứng chỉ nộp trực tiếp hoặc gửi qua đường bưu
+điện cho Trường 01 (một) bộ hồ sơ theo quy định tại khoản 1 Điều này;
+      b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ, Trường xem xét
+quyết định việc chỉnh sửa; nếu không chỉnh sửa thì Trường phải trả lời bằng văn bản và nêu
+rõ lý do;
+      c) Việc chỉnh sửa nội dung văn bằng, chứng chỉ được thực hiện bằng cách ban hành
+quyết định chỉnh sửa; không chỉnh sửa trực tiếp trên văn bằng, chứng chỉ. Quyết định chỉnh
+sửa phải được lưu trong hồ sơ cấp văn bằng, chứng chỉ.
+      d) Căn cứ quyết định chỉnh sửa, cơ quan có thẩm quyền cấp văn bằng, chứng chỉ ghi
+đầy đủ thông tin về văn bằng, chứng chỉ, các nội dung được chỉnh sửa của văn bằng, chứng
+chỉ vào Phụ lục sổ gốc cấp văn bằng, chứng chỉ (theo mẫu phụ lục 16, 17 kèm theo Quy chế
+này).
+---
+                                           10
+  Điều 21. Nội dung chính của quyết định chỉnh sửa và áp dụng việc chỉnh sửa văn bằng,
+  chứng chỉ
+         1. Quyết định chỉnh sửa văn bằng, chứng chỉ gồm các nội dung chính sau:
+         a) Họ, chữ đệm, tên; ngày tháng năm sinh của người có văn bằng, chứng chỉ được
+  chỉnh sửa;
+         b) Tên, số hiệu, ngày tháng năm cấp của văn bằng, chứng chỉ được chỉnh sửa;
+         c) Nội dung chỉnh sửa;
+         d) Lý do chỉnh sửa;
+         đ) Hiệu lực và trách nhiệm thi hành quyết định.
+         2. Việc chỉnh sửa nội dung ghi trên văn bằng, chứng chỉ  được áp  dụng cả  đối  với
+  những văn bằng, chứng chỉ được cấp trước ngày Quy chế này có hiệu lực thi hành.
+  Điều 22. Thu hồi, hủy bỏ văn bằng, chứng chỉ
+       1. Văn bằng, chứng chỉ bị thu hồi trong các trường hợp sau đây:
+         a) Có hành vi gian lận trong tuyển sinh, học tập, thi cử, bảo vệ đồ án, khóa luận tốt
+  nghiệp, luận văn, luận án hoặc gian lận trong việc làm hồ sơ để được cấp văn bằng, chứng
+  chỉ.
+         b) Cấp cho người không đủ điều kiện.
+         c) Do người không có thẩm quyền cấp.
+         d) Bị tẩy xóa, sửa chữa.
+         đ) Để cho người khác sử dụng.
+         e) Do lỗi của Trường.
+        2. Trường ĐHCNTT có trách nhiệm thu hồi và hủy bỏ văn bằng, chứng chỉ.
+Trường hợp Trường đã sáp nhập, chia, tách, giải thể thì cơ quan có thẩm quyền thu hồi,
+  hủy bỏ văn bằng, chứng chỉ là cơ quan đang quản lý sổ gốc cấp văn bằng, chứng chỉ.
+  3. Trường ra quyết định thu hồi, hủy bỏ văn bằng, chứng chỉ. Nội dung của quyết định
+  ghi rõ lý do thu hồi, hủy bỏ. Quyết định được đăng tải trên cổng thông tin điện tử của cơ quan
+  có thẩm quyền thu hồi, hủy bỏ văn bằng, chứng chỉ; được gửi đến người bị thu hồi văn bằng,
+  chứng chỉ.
+                                        Chương V
+                 CẤP BẢN SAO VĂN BẰNG, CHỨNG CHỈ TỪ SỔ GỐC
+  Điều 23. Cấp bản sao văn bằng, chứng chỉ từ sổ gốc
+        1. Cấp bản sao văn bằng, chứng chỉ từ sổ gốc là việc cơ quan đang quản lý sổ gốc căn
+  cứ vào sổ gốc để cấp bản sao.
+        2. Trường hợp mẫu bản sao văn bằng, chứng chỉ tại thời điểm cấp bản sao đã thay đổi,
+  cơ quan đang quản lý sổ gốc sử dụng mẫu bản sao văn bằng, chứng chỉ hiện hành để cấp cho
+  người học.
+        3. Các nội dung ghi trong bản sao văn bằng, chứng chỉ phải chính xác so với sổ gốc.
+---
+                                            11
+    Điều 24. Giá trị pháp lý của bản sao văn bằng, chứng chỉ từ sổ gốc
+1. Bản sao văn bằng, chứng chỉ từ sổ gốc có giá trị pháp lý sử dụng thay cho bản chính
+    trong các giao dịch, trừ trường hợp pháp luật có quy định khác.
+   2. Trường hợp có căn cứ bản sao giả mạo, không hợp pháp, cơ quan, tổ chức tiếp nhận
+    bản sao văn bằng, chứng chỉ yêu cầu người có bản sao văn bằng, chứng chỉ xuất trình bản
+    chính để đối chiếu hoặc tiến hành xác minh.
+    Điều 25. Thẩm quyền và trách nhiệm cấp bản sao văn bằng, chứng chỉ từ sổ gốc
+   Đơn vị đang quản lý sổ gốc văn bằng, chứng chỉ có trách nhiệm cấp bản sao văn bằng,
+    chứng chỉ. Việc cấp bản sao văn bằng, chứng chỉ từ sổ gốc được thực hiện đồng thời với việc
+    cấp bản chính hoặc sau thời điểm cấp bản chính (mẫu bản sao được quy định tại Phụ lục 5, 6
+    kèm theo Quy chế này).
+    Điều 26. Người có quyền yêu cầu cấp bản sao văn bằng, chứng chỉ từ sổ gốc
+         Những người sau đây có quyền yêu cầu cấp bản sao văn bằng, chứng chỉ từ sổ gốc:
+         1. Người được cấp bản chính văn bằng, chứng chỉ.
+ 2. Người đại diện theo pháp luật, người đại diện theo ủy quyền của người được cấp bản
+    chính văn bằng, chứng chỉ.
+  3. Cha, mẹ, con; vợ, chồng; anh, chị, em ruột; người thừa kế khác của người được cấp
+    bản chính văn bằng, chứng chỉ trong trường hợp người đó đã chết.
+    Điều 27. Thủ tục cấp bản sao văn bằng, chứng chỉ từ sổ gốc
+          1. Hồ sơ cấp bản sao từ sổ gốc bao gồm:
+    a) Đơn đề nghị cấp bản sao từ sổ gốc, trong đó cung cấp các thông tin về văn bằng,
+    chứng chỉ đã được cấp.
+        b) Bản chính hoặc bản sao có chứng thực giấy chứng minh nhân dân hoặc căn cước
+    công dân hoặc hộ chiếu còn giá trị sử dụng của người đề nghị.
+   c) Trường hợp người yêu cầu cấp bản sao văn bằng, chứng chỉ từ sổ gốc là người được
+    quy định tại khoản 2 Điều 26 của Quy chế  này thì phải xuất trình giấy ủy quyền (đối với
+    người được ủy quyền) hoặc giấy tờ chứng minh quan hệ với người được cấp bản chính văn
+    bằng, chứng chỉ.
+     d) Trường hợp người yêu cầu cấp bản sao văn bằng, chứng chỉ từ sổ gốc gửi yêu cầu
+    qua đường bưu điện  thì phải gửi bản sao có chứng thực giấy tờ quy định tại điểm a, b, c,
+    khoản này kèm theo 01 (một) phong bì có dán tem ghi rõ họ tên, địa chỉ người nhận cho cơ
+    quan cấp bản sao văn bằng, chứng chỉ từ sổ gốc.
+          2. Trình tự cấp bản sao văn bằng, chứng chỉ từ sổ gốc được quy định như sau:
+     a) Người đề nghị cấp bản sao văn bằng, chứng chỉ nộp trực tiếp hoặc gửi qua đường
+    bưu điện 01 (một) bộ hồ sơ quy định tại khoản 1 Điều này cho cơ quan có thẩm quyền cấp
+    bản sao văn bằng, chứng chỉ từ sổ gốc.
+     b) Ngay trong ngày tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo (nếu tiếp
+    nhận yêu cầu sau 15 giờ), cơ quan có thẩm quyền cấp bản sao từ sổ gốc phải cấp bản sao cho
+---
+                                        12
+người có yêu cầu. Trong trường hợp yêu cầu cấp bản sao từ sổ gốc được gửi qua bưu điện thì
+thời hạn được xác định từ thời điểm cơ quan có thẩm quyền cấp bản sao từ sổ gốc nhận đủ
+hồ sơ hợp lệ theo dấu bưu điện đến.
+       c) Đối với trường hợp cùng một lúc yêu cầu chứng thực bản sao từ nhiều sổ gốc, yêu
+cầu số lượng nhiều bản sao, nội dung văn bằng phức tạp khó kiểm tra, đối chiếu mà cơ quan
+có thẩm quyền cấp bản sao từ sổ gốc không thể đáp ứng được thời hạn quy định tại điểm b
+khoản này thì thời hạn cấp bản sao được kéo dài thêm không quá 02 (hai) ngày làm việc hoặc
+có thể dài hơn theo thỏa thuận bằng văn bản với người yêu cầu cấp bản sao.
+       3. Cơ quan có thẩm quyền cấp bản sao văn bằng, chứng chỉ từ sổ gốc căn cứ sổ gốc để
+cấp bản sao có nội dung đúng như trong sổ gốc. Trường hợp không còn lưu giữ được sổ gốc
+hoặc trong sổ gốc không có thông tin về nội dung yêu cầu cấp bản sao hoặc không cấp bản
+sao cho người yêu cầu thì cơ quan tiếp nhận có trách nhiệm trả lời bằng văn bản cho người
+yêu cầu và nêu rõ lý do theo thời hạn quy định tại điểm b khoản 2 Điều này.
+Điều 28. Sổ cấp bản sao và quản lý việc cấp bản sao văn bằng, chứng chỉ từ sổ gốc
+       1. Sổ cấp bản sao văn bằng, chứng chỉ từ sổ gốc là tài liệu do cơ quan có thẩm quyền
+quy định tại Điều 25 Quy chế này lập ra khi thực hiện việc cấp bản sao văn bằng, chứng chỉ
+từ sổ gốc trong đó ghi chép đầy đủ những nội dung như bản sao mà đơn vị đã cấp.
+       Sổ cấp bản sao văn bằng, chứng chỉ từ sổ gốc phải được ghi chép chính xác, đánh số
+trang, đóng dấu giáp lai, không được tẩy xóa, đảm bảo quản lý chặt chẽ và lưu trữ vĩnh viễn.
+       2. Cơ quan có thẩm quyền quy định tại Điều 25 Quy chế này mỗi lần cấp bản sao văn
+bằng, chứng chỉ từ sổ gốc đều phải ghi vào sổ cấp bản sao văn bằng, chứng chỉ từ sổ gốc;
+phải lập số vào sổ cấp bản sao của từng loại văn bằng, chứng chỉ và năm cấp bản sao văn
+bằng, chứng chỉ từ sổ gốc.
+       Mẫu sổ cấp bản sao văn bằng, chứng chỉ từ sổ gốc được quy định tại Phụ lục 12, 13,
+15 kèm theo Quy chế này.
+       Cách đánh số vào sổ cấp bản sao văn bằng, chứng chỉ từ sổ gốc được quy định tại Phụ
+lục 1 kèm theo Quy chế này.
+                                     Chương VI
+                  KIỂM TRA, THANH TRA, KHEN THƯỞNG, XỬ LÝ VI PHẠM
+Điều 29. Kiểm tra, thanh tra
+     1. Theo kế hoạch được Hiệu trưởng phê duyệt, định kỳ hoặc đột xuất, PTTPC‑ĐBCL
+sẽ tiến hành thanh tra, kiểm tra việc in, quản lý, cấp phát, sử dụng văn bằng, chứng chỉ đối
+với các đơn vị được phân công tổ chức in, quản lý, cấp phát, sử dụng văn bằng, chứng chỉ .
+     2. Các đơn vị, cá nhân chịu trách nhiệm in, quản lý, cấp phát hoặc sử dụng văn bằng,
+chứng chỉ có trách nhiệm phối hợp, tạo điều kiện thuận lợi cho công tác kiểm tra, thanh tra.
+Điều 30. Khen thưởng
+     Tổ chức, cá nhân có thành tích trong việc quản lý, cấp phát văn bằng, chứng chỉ được
+khen thưởng theo quy định của pháp luật.
+---
+                                          13
+Điều 31. Xử lý vi phạm
+      1. Người có thẩm quyền cấp văn bằng, chứng chỉ, người được cấp văn bằng, chứng chỉ
+có các hành vi vi phạm quy định về quản lý, cấp phát, sử dụng văn bằng, chứng chỉ thì bị xử
+phạt vi phạm hành chính theo quy định về xử phạt vi phạm hành chính trong lĩnh vực giáo
+dục; bồi thường thiệt hại theo quy định của pháp luật dân sự; tùy theo tính chất, mức độ vi
+phạm, có thể bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự.
+      2. Người thực hiện nhiệm vụ cấp bản sao văn bằng, chứng chỉ từ sổ gốc do thiếu tinh
+thần trách nhiệm hoặc cố ý làm trái các quy định của Quy chế này và các văn bản quy phạm
+pháp luật khác thì tuỳ theo mức độ vi phạm có thể bị xử lý kỷ luật hoặc truy cứu trách nhiệm
+hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.
+Điều 32. Tổ chức thực hiện
+     Trong quá trình tổ chức thực hiện, Quy chế này có thể được sửa đổi, bổ sung cho phù
+hợp với tình hình thực tế.
+                                                               HIỆU TRƯỞNG
+
+                                                                     Nguyễn Hoàng Tú Anh
+---
+                                                                            14
+                                                                         Phụ lục 1
+                                        QUY ĐỊNH CÁCH GHI SỐ VÀO SỔ GỐC CẤP PHÁT BẰNG TỐT NGHIỆP
+                                        ĐẠI HỌC, CHỨNG CHỈ CỦA TRƯỜNG ĐẠI HỌC CNTT
+                                         (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                    của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+1) Văn bằng đại học:
+     Cách ghi là: QSCZZHTXXXX
+     Trong đó:
+      ‑   QSC: Mã trường
+      ‑   ZZ : 02 số cuối của năm cấp bằng.
+      ‑   H: Loại chương trình đào tạo. Cụ thể:
+             + Văn bằng 1 ‑ Đại trà/Chương trình chuẩn:    Đ
+             + Văn bằng 1 ‑ Chất lượng cao:                C
+             + Văn bằng 1 ‑ Chương trình tiên tiến:        T
+             + Văn bằng 1 ‑ Tài năng:                      N
+             + Văn bằng 2 ‑ Đại trà/Chương trình chuẩn:    V
+             + Văn bằng 2 ‑ Chất lượng cao:                L
+             + Liên thông ‑ Đại trà/Chương trình chuẩn:    A
+             + Liên thông ‑ Chất lượng cao:                B
+      ‑   T: Hình thức đào tạo. Cụ thể:
+             + Chính quy:                                  Q
+             + Từ xa:                                      X
+      ‑  XXXX: Số thứ tự sinh viên tốt nghiệp theo một loại chương trình, hình thức đào tạo
+trong năm ZZ thì phải nối tiếp nhau.
+2) Chứng chỉ:
+     Cách ghi là: QSCZZYYYYXXXXX
+     Trong đó:
+      ‑   QSC: Mã trường
+      ‑   ZZ : 02 số cuối của năm cấp bằng.
+      ‑   YYYY: Viết tắt tên loại chứng chỉ. Cụ thể:
+          + Chứng chỉ Ứng dụng Công nghệ Thông tin Cơ bản: CCCB
+          + Chứng chỉ Ứng dụng Công nghệ Thông tin Nâng cao: CCNC
+      ‑   XXXXX: số thứ tự người học được cấp chứng chỉ theo một loại chứng chỉ trong
+          năm ZZ thì phải nối tiếp nhau.
+3) Văn bằng thạc sĩ:
+     Cách ghi là: QSCZZ8XXX
+     Trong đó:
+      ‑   QSC: Mã trường
+      ‑   ZZ: 02 số cuối của năm cấp bằng.
+      ‑   8: Viết tắt 1 ký số đầu mã ngành đào tạo thạc sĩ.
+      ‑   XXX: số thứ tự người học tốt nghiệp trong năm ZZ thì phải nối tiếp nhau.
+4) Văn bằng tiến sĩ:
+     Cách ghi là: QSCZZ9XXX
+---
+                                         15
+     Trong đó:
+      ‑  QSC: Mã trường
+      ‑  ZZ: 02 số cuối của năm cấp bằng.
+      ‑  9: Viết tắt 1 ký số đầu mã ngành đào tạo tiến sĩ.
+      ‑  XXX: số thứ tự người học tốt nghiệp trong năm ZZ thì phải nối tiếp nhau.
+5) Cách đánh số vào sổ cấp bản sao
+      Cách đánh số vào sổ cấp bản sao là: Số vào sổ gốc văn bằng, chứng chỉ ghép với ký
+hiệu “_Sn”; trong đó n là số tự nhiên liên tục từ nhỏ đến lớn theo từng văn bằng, chứng chỉ.
+---
+                                                                     16
+                                                                  Phụ lục 2
+                                        Mẫu PHỤ LỤC VĂN BẰNG ĐẠI HỌC HỆ CHÍNH QUY & TỪ XA (mặt trước)
+                                  (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                             của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+                                                                                         ĐẠl HỌC QUỐC GIA THÀNH PHỐ HỔ CHÍ MINH
+                                                                                           TRƯỜNG ĐẠl HỌC CÔNG NGHỆ THÔNG TIN
+                               UIT                                                PHỤ LỤC UĂN BẰNG DAI HOC
+                           TRƯỜNG ĐAI HOC                                              DIPLOMA SUPPLEMENT
+                        CÔNG NGHỆ THÔNG TIN
+           TOÀN DIỆN₀ SÁNG TAO₀ PHỤNG SỰ
+TRƯỜNG ĐẠl HỌC CÔNG NGHỆ THÔNG TIN, ĐH@G-HCM
+Khu phố 6, Phường Linh Trung; Thành phố Thủ Đức, Thành phố Hổ Chí Minh
+  (028) 3725 2002        https: / /wwwuit edu.vn/
+---
+                                                                                                       17
+                                                                                                    Phụ lục 2
+                                                                               Mẫu PHỤ LỤC VĂN BẰNG ĐẠI HỌC HỆ CHÍNH QUY (mặt sau)
+                                                             (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                                               của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+        VIETNAM NATIONAL UNIVERSITY HCMC                     SOCIALIST REPUBLIC OF VIETNAM                            ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                                                               Independence       Happiness                          TRƯỞNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                     Độc lập - Tự do - Hạnh
+      UNIVERSITY OF INFORMATION TECHNOLOGY                                Freedom                                                                                                            phúc
+                              DIPLOMA SUPPLEMENT                                                                                       PHỤ LỤC VĂN BẰNG ĐẠI HỌC
+ IDIPLOMA INFORMATION                                                                                         I. THÔNG TIN VĂN BẰNG                                   Chương trình học:
+ Full name:                                             Program type:                                         Họ và tên:
+ Student ID:                                            Mode of training:                                     Ngày , tháng; năm sinh:                                 Hình thức đào tạo:
+ Date of birth:                                         Language of training:                                 Mã số sinh viên                                         Ngôn ngữ đào tao:
+Place of birth:                                         Duration of training:                                 Nơi sinh:                                               Thời gian đào tạo:
+ Major:                                                      Academic year:                                   Ngành đào tao:                                          Khóa:
+ Major code:                                            Date of admission:                                    Mã ngành:                                               Ngày nhập học:
+ Specialty:                                             Date of graduation:                                   Chuyên ngành đào tao:                                   Ngày tốt nghiệp:
+                                                        Graduation degree Reg. #:                                                                                     Số hiệu vănbằng:
+ II ACADEMIC RECORD                                                                                           IL. KẾT QUẢ HỌC TẬP
+ No  Course   Course tite  Credits  Score   Grade     No     Course  Course ttle  Credits  Score  Grade       STT    Mã môn       Môn học       Sõ   Điểm  Điểm     STT   Mã môn     Môn học      Sõ  Điểm   Điểm
+       ID                                                      1D                                                     học                       TC    số    chữ            học                   TC    số     chữ
+ Graduation thesis title:                                    Ho Chi Minh City , monthday ,year                Tên đề tài khóa luận tốt nghiệp:                            TP. Hồ Chí Minh, ngày tháng năm
+ Grade Point Average:                                                    PRESIDENT                            Điểm trung bình chung tích lũy:                                    HIỆU TRƯỞNG
+ Graduation Rank:                                                         (Signed)                            Hạng tốt nghiệp/Xếp loại tốt nghiệp:
+Ghi chú:
+a) Phụ lục được cấp kèm theo văn bằng tốt nghiệp (Appendices are attached to the diploma)
+b) Chương trình học: ghi 1 trong 5 nội dung sau (Study program: write 1 of the following 5 contents)
+1) Chương trình đại trà (Regular Fulltime Program)                               2) Chương trình tài năng (Honor Program);              3) Chương trình tiên tiến (Advanced Program);
+4) Chương trình chất lượng cao (High Quality Program);         5) Chương trình chuẩn (Standard Program) (sử dụng từ khóa tuyển năm 2022);
+c) Ngôn ngữ đào tạo: Chương trình tiên tiến ghi Tiếng Anh (English); các chương trình còn lại ghi Tiếng Việt (Vietnamese)
+---
+                                                                                                       18
+                                                                                                    Phụ lục 3
+                                                                                 Mẫu PHỤ LỤC VĂN BẰNG ĐẠI HỌC HỆ TỪ XA (mặt sau)
+                                                              (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                                               của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+        VIETNAM NATIONAL UNIVERSITY HCMC                     SOCIALIST REPUBLIC OF VIETNAM                          ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+      UNIVERSITY OF INFORMATION TECHNOLOGY                    Independence       Happiness                         TRƯỞNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                     Độc lập - Tự do - Hạnh
+                                                                          Freedom                                                                                                          phúc
+                              DIPLOMA SUPPLEMENT                                                                                                 PHỤ LỤC VĂN BẰNG ĐẠI HỌC
+ IDIPLOMA INFORMATION                                                                                        I. THÔNG TIN VĂN BẰNG                                  Chương trình học:
+ Full name:                                             Program type:                                        Họ và tên:
+ Student ID:                                            Mode of training:                                    Ngày , tháng; năm sinh:                                 Hình thức đào tạo:
+ Date of birth:                                         Language of training:                                Mã số sinh viên                                        Ngôn ngữ đào tao:
+ Place of birth:                                        Duration of training:                                Nơi sinh:                                               Thời gian đào tạo:
+ Major:                                                 Academic year:                                       Ngành đào tao:                                          Khóa:
+ Major code:                                            Date of admission:                                   Mã ngành:                                               Ngày nhập học:
+ Specialty:                                             Date of graduation:                                  Chuyên ngành đào tao:                                   Ngày tốt nghiệp:
+                                                        Graduation degree Reg. #:                                                                                    Số hiệu vănbằng:
+ II ACADEMIC RECORD                                                                                          IL. KẾT QUẢ HỌC TẬP
+ No   Course  Course tite  Credits  Score   Grade     No  Course   Course ttle  Credits Score  Grade         STT    Mã môn       Môn học       Sõ  Điểm  Điểm     STT   Mã môn     Môn học      Sõ  Điểm  Điểm
+        ID                                                  1D                                                       học                       TC   số   chữ             học                    TC   số    chữ
+ Graduation thesis title:                                Ho Chi Minh City , monthday ,year                                                                              TP. Hồ Chí Minh, ngày thángnăm
+ Grade Point Average:                                                PRESIDENT                               Điểm trung bình chung tích lũy:                                   HIỆU TRƯỞNG
+ Graduation Rank:                                                     (Signed)                               Hạng tốt nghiệp/Xếp loại tốt nghiệp:
+Ghi chú:
+a) Phụ lục được cấp kèm theo văn bằng tốt nghiệp (Appendices are attached to the diploma)
+b) Chương trình học: nội dung tiếng Việt ghi Từ xa (nội dung tiếng Anh ghi Distance learning)
+c) Ngôn ngữ đào tạo: nội dung tiếng Việt ghi Tiếng Việt (nội dung tiếng Anh ghi Vietnamese)
+---
+                                                  19
+                                               Phụ lục 4
+                                 Mẫu PHỤ LỤC VĂN BẰNG THẠC SĨ/TIẾN SĨ
+                          (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                          của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+           ĐẠI HỌC QUỐC GIA TPHCM                                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+               TRƯỜNG ĐẠI HỌC                                        Độc lập - Tự do - Hạnh phúc
+             CÔNG NGHỆ THÔNG TIN
+                                   PHỤ LỤC VĂN BẰNG THẠC SĨ/ TIẾN SĨ
+                                       MASTER/DOCTOR SUPPLEMENT
+Họ và tên (Full name):
+Mã số học viên hoặc Nghiên cứu sinh (Student ID):
+Ngày, tháng, năm sinh (Date of birth)
+Nơi sinh (Place of birth):
+Quyết định trúng tuyển số (Admission Decision No): …………., ngày (date): …………..
+Ngành đào tạo (Major): ………….Mã ngành (Major code): ………….Khóa (Course): ………….
+Chương trình đào tạo (Training Program or Form of Training): (*)
+Ngôn ngữ đào tạo (Training language): Tiếng Việt (Vietnamese)
+Thời gian đào tạo (Duration of training): ………….
+Số hiệu văn bằng (Grad. Degree Reg. #): ………….
+                           KẾT QUẢ HỌC TẬP (ACADEMIC RECORD)
+   STT      Mã môn học           Môn học            Số tín chỉ       Điểm           Ghi chú
+ Number      Course ID        Course title           Credits         Score          Remark
+
+Điểm trung bình môn học (GPA of all subjects): ……………..
+Điểm luận văn/luận án (GPA of Thesis): ……………..
+Tên đề tài luận văn/luận án (Thesis Title) ……………..
+Bảo vệ ngày, tháng, năm (The Thesis was defended on): ……………..
+Hội đồng chấm luận văn/ luận án (The Thesis committee included)
+1.Chủ tịch (Chairman) …………….., đơn vị công tác (work at): ……………..
+2.Thư ký ( Secetary)…………….., đơn vị công tác (work at): ……………..
+3.Phản biện 1 (Examiner 1) …………….., đơn vị công tác (work at): ……………..
+4. Phản biện 2: ( Examiner 2) …………….., đơn vị công tác (work at): ……………..
+5. Ủy viên (Member) …………….., đơn vị công tác (work at): ……………..
+                                                                   TPHCM, ngày    tháng   năm
+                                                                         HIỆU TRƯỞNG
+(*) Ghi rõ chương trình đào tạo, phương thức đào tạo (nếu có)
+---
+                                                                20
+                                                             Phụ lục 5
+                                           Mẫu BẢN SAO VĂN BẰNG ĐẠI HỌC/THẠC SĨ/TIẾN SĨ
+    (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                        của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+     ĐẠI HỌC QUỐC GIA TP.HCM                       CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+            TRƯỜNG ĐẠI HỌC                           Độc lập – Tự do – Hạnh phúc
+     CÔNG NGHỆ THÔNG TIN
+                                           BẰNG KỸ SƯ/CỬ NHÂN/THẠC SĨ/TIẾN SĨ
+                                                  Tên chương trình (*)
+                                                     Tên ngành (**)
+                                        (BẢN SAO  )
+
+
+    Cấp cho:
+    Sinh ngày:                                  Nơi sinh:
+    Bậc học:                                    Ngành:
+    Khóa học:
+    Theo quyết định công nhận tốt nghiệp số: …, ngày … của Hiệu trưởng Trường
+    Đại học Công nghệ Thông tin – Đại học Quốc gia Tp.HCM.
+    Số hiệu văn bằng:                           Số vào sổ gốc:
+    Được trích từ sổ gốc cấp phát văn bằng tốt nghiệp.
+    Số vào sổ cấp bản sao:
+
+                                                Tp.HCM, ngày … tháng … năm …
+                                                     HIỆU TRƯỞNG
+
+
+
+
+(*): Đối với chương trình bình thường thì không ghi. Đối với chương trình đặc biệt ghi “Chương
+trình Tài năng” hoặc “Chương trình Tiên tiến”.
+(**): Ghi tên ngành đào tạo
+---
+                                                                      21
+                                                                   Phụ lục 6
+                                                             Mẫu BẢN SAO CHỨNG CHỈ
+    (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                              của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+      ĐẠI HỌC QUỐC GIA TP.HCM                             CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+             TRƯỜNG ĐẠI HỌC                                 Độc lập – Tự do – Hạnh phúc
+      CÔNG NGHỆ THÔNG  TIN
+                                                      CHỨNG CHỈ
+                                                 TÊN LOẠI CHỨNG CHỈ
+                                              (BẢN SAO  )
+
+
+    Cấp cho:
+    Sinh ngày:                                         Nơi sinh:
+    Đã được Trường Đại học Công nghệ Thông tin – ĐHQG‑HCM cấp chứng chỉ
+    (*)
+    Số hiệu chứng chỉ:                                 Số vào sổ gốc:
+    Được trích từ sổ gốc cấp chứng chỉ.
+    Số vào sổ cấp bản sao:
+
+                                                        Tp.HCM, ngày … tháng … năm …
+                                                           THỦ TRƯỞNG ĐƠN VỊ (**)
+                                                             (ký tên, đóng dấu)
+
+
+
+(*) Chọn 1 trong 4 nội dung sau:
+1) Chứng chỉ Ngoại ngữ: ghi Ngoại ngữ, Đạt loại
+2) Chứng chỉ ứng dụng công nghệ thông tin, kết quả Điểm trắc nghiệm, Điểm thực hành, tại Hội đồng thi
+(nếu không thành lập Hội đồng thi thì không ghi)
+3) Kỹ thuật viên: ghi Ngành, Thời gian đào tạo
+4) Tên các chứng chỉ khác do Trường cấp
+(**) Hiệu trưởng hoặc thủ trưởng đơn vị trực thuộc cấp chứng chỉ
+---
+                                           22
+                                        Phụ lục 7
+                  Mẫu GIẤY CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI (tiếng Việt)
+    (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                   của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+     ĐẠI HỌC QUỐC GIA TP.HCM                                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+            TRƯỜNG ĐẠI HỌC                                    Độc lập – Tự do – Hạnh phúc
+     CÔNG NGHỆ THÔNG TIN
+                               GIẤY CHỨNG NHẬN TỐT NGHIỆP
+                                        Tạm thời
+                                        ‑‑‑‑‑‑‑‑
+               Hiệu trưởng Trường Đại học Công nghệ Thông tin chứng nhận:
+Sinh viên   :                             MSSV       :
+Ngày sinh   :                             Nơi sinh   :
+Khoá        :                             Khoa       :
+Đã tốt nghiệp chương trình kỹ sư/cử nhân ngành/chuyên ngành … hệ … theo Quyết
+định công nhận tốt nghiệp số …, ngày … và đang trong thời gian chờ cấp bằng tốt
+nghiệp.
+Điểm trung bình chung tích lũy toàn khoá học: …
+Giấy  chứng  nhận  tốt  nghiệp  tạm  thời  có  giá  trị  sử dụng  trong  thời  gian  03  tháng
+kể từ ngày ký.
+                                         Tp. HCM, ngày     tháng   năm
+                                                HIỆU TRƯỞNG
+---
+                                              23
+                                           Phụ lục 8
+                      Mẫu GIẤY CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI (tiếng Anh)
+                 (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                   của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+                 VIETNAM NATIONAL UNIVERSITY HCMC                                 SOCIALIST REPUBLIC OF VIETNAM
+                  UNIVERSITY OF                                                Independence – Freedom - Happiness
+                      INFORMATION TECHNOLOGY
+                 TEMPORARY CERTIFICATE OF GRADUATION
+                                          ‑‑‑‑‑‑‑‑
+President of VNUHCM ‑ University of Information Technology certifies that
+Student          :                                              Student ID     :
+Date of birth    :                                              Place of birth
+                                                                               :
+Academic years:                                                 Faculty        :
+Has graduated with the Bachelor of Engineering/Science Degree in the major/field of
+…., with the form of training … under the Graduation Decision No….., dated on …,
+and is pending the issuance of the degree.
+Overall GPA: …
+This  temporary  certificate  of  Graduation  is  valid  in  03  months  from  the  date  of
+signature.
+                                                                Ho Chi Minh City, (month, day, year)
+                                                                              PRESIDENT
+---
+                                                                                      24
+                                                                                   Phụ lục 9
+                                                                       Mẫu SỔ GỐC CẤP BẰNG CỬ NHÂN/KỸ SƯ
+                                                                       (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                                       của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+        ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                                                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+        TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                                                  Độc lập – Tự do – Hạnh phúc
+                                                                       SỔ GỐC CẤP BẰNG CỬ NHÂN/KỸ SƯ
+Khóa học:………………
+Hình thức đào tạo:…………..
+Quyết định công nhận tốt nghiệp số …./…..ngày….tháng….năm…………..
+  Số      Họ và tên     Ngày tháng    Nơi     Giới    Dân     Quốc      Ngành      Năm tốt  Hạng tốt     Số hiệu    Số vào sổ    Người nhận văn
+  TT      người học      năm sinh     sinh    tính    tộc     tịch     đào tạo     nghiệp    nghiệp     văn bằng   gốc cấp văn    bằng ký và ghi   Ghi chú
+                                                                                                                      bằng          rõ họ tên
+
+
+
+                                                                                                                       TP. Hồ Chí Minh, ngày tháng năm
+                                                                                                                                          HIỆU TRƯỞNG
+                                                                                                                                 (ký, đóng dấu, ghi rõ họ tên)
+---
+                                                                                   25
+                                                                               Phụ lục 10
+                                                                       Mẫu SỔ GỐC CẤP BẰNG THẠC SĨ
+                                                                       (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                              của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+                        ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                     CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                        TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                       Độc lập – Tự do – Hạnh phúc
+                                                              SỔ GỐC CẤP BẰNG THẠC SĨ
+Hình thức đào tạo:…………..
+Quyết định công nhận tốt nghiệp, cấp bằng thạc sĩ số …./…..ngày….tháng….năm…………..
+                        Ngày                                            Quyết định    Ngày   Tên ngành      Số     Số vào    Người nhận      Loại
+  Số     Họ và tên      tháng    Nơi   Giới    Dân    Quốc     Khóa    thành lập hội            hoặc       hiệu     sổ gốc   văn bằng ký    chương      Ghi
+  TT     người học      năm      sinh  tính    tộc    tịch      học     đồng đánh      bảo     chuyên       văn    cấp văn  và ghi rõ họ   trình đào    chú
+                        sinh                                           giá luận văn    vệ    ngành đào     bằng     bằng         tên          tạo
+                                                                                                 tạo
+
+
+                                                                                                                            TP. Hồ Chí Minh, ngày tháng năm
+                                                                                                                                     HIỆU TRƯỞNG
+                                                                                                                            (ký, đóng dấu, ghi rõ họ tên)
+---
+                                                                                   26
+                                                                               Phụ lục 11
+                                                                       Mẫu SỔ GỐC CẤP BẰNG TIẾN SĨ
+                                                         (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                         của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+                     ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                     TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                            Độc lập – Tự do – Hạnh phúc
+                                                         SỔ GỐC CẤP BẰNG TIẾN SĨ
+Hình thức đào tạo:…………..
+Quyết định công nhận tốt nghiệp, cấp bằng tiến sĩ số …./…..ngày….tháng….năm…………..
+                     Ngày                                Quyết định     Ngày    Tên ngành      Quyết                            Người
+ Số     Họ và tên    tháng    Nơi   Giới   Dân    Quốc    thành lập            hoặc chuyên    định cấp  Số hiệu   Số vào sổ    nhận văn   Ghi
+ TT     người học     năm     sinh  tính   tộc    tịch    hội đồng       bảo    ngành đào      bằng    văn bằng    gốc cấp     bằng ký    chú
+                      sinh                                 đánh giá      vệ         tạo        tiến sĩ            văn bằng    và ghi rõ
+                                                            luận án                                                             họ tên
+
+Ghi chú: Quyết định thành lập Hội đồng đánh giá luận án và Quyết định cấp bằng tiến sĩ ghi rõ số, ngày tháng năm.
+                                                                                                                  TP. Hồ Chí Minh, ngày tháng năm
+                                                                                                                                       HIỆU TRƯỞNG
+                                                                                                                              (ký, đóng dấu, ghi rõ họ tên)
+---
+                                                                                                            27
+                                                                                                        Phụ lục 12
+                                                                                        Mẫu SỔ CẤP BẢN SAO BẰNG TỐT NGHIỆP ĐẠI HỌC
+                                     (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                      của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+      ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                                                                   CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+  TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                                                                         Độc lập – Tự do – Hạnh phúc
+                                                     SỔ CẤP BẢN SAO BẰNG TỐT NGHIỆP ĐẠI HỌC
+Số    Họ và tên    Ngày      Nơi     Giới   Dân    Quốc     Khóa     Năm tốt   Ngành    Xếp        Hình      Số Quyết    Số vào sổ   Số vào sổ     Số        Ngày      Người nhận    Ghi
+TT    người        tháng     sinh    tính   tộc    tịch     học      nghiệp    đào      loại tốt   thức      định công   gốc cấp     cấp bản sao   lượng     cấp bản   bản sao ký    chú
+      được cấp     năm                                                         tạo      nghiệp     đào tạo   nhận tốt    văn bằng    văn bằng      bản sao   sao       nhận, ghi rõ
+      bằng         sinh                                                                                      nghiệp                                                    họ tên
+
+
+                                                                                                                                      TP. Hồ Chí Minh, ngày tháng năm
+                                                                                                                                                                      HIỆU TRƯỞNG
+                                                                                                                                                             (ký, đóng dấu, ghi rõ họ tên)
+---
+                                                                                                    28
+                                                                                                Phụ lục 13
+                                                                            Mẫu SỔ CẤP BẢN SAO BẰNG TỐT NGHIỆP THẠC SĨ/ TIẾN SĨ
+                                   (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                                            của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+      ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                                                       CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+  TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                                                             Độc lập – Tự do – Hạnh phúc
+                                                                              SỔ CẤP BẢN SAO BẰNG TỐT NGHIỆP THẠC SĨ/ TIẾN SĨ
+Số    Họ và tên   Ngày     Nơi    Giới    Dân   Quốc    Khóa     Năm tốt    Ngành      Hình      Số Quyết    Số vào     Số vào     Số       Ngày      Người       Ghi
+TT    người       tháng    sinh   tính    tộc   tịch    học      nghiệp     đào tạo    thức      định công   sổ gốc     sổ cấp     lượng    cấp       nhận bản    chú
+      được cấp    năm                                                                  đào tạo   nhận tốt    cấp văn    bản sao    bản      bản       sao ký
+      bằng        sinh                                                                           nghiệp      bằng       văn        sao      sao       nhận, ghi
+                                                                                                                        bằng                          rõ họ tên
+
+
+                                                                                                                             TP. Hồ Chí Minh, ngày tháng năm
+                                                                                                                                                     HIỆU TRƯỞNG
+                                                                                                                                            (ký, đóng dấu, ghi rõ họ tên)
+---
+                                                                                 29
+                                                                             Phụ lục 14
+                                                                      Mẫu SỔ GỐC CẤP CHỨNG CHỈ
+                                   (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                   của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+      ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                                                     CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+  TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                                                           Độc lập – Tự do – Hạnh phúc
+                                                                 SỔ GỐC CẤP CHỨNG CHỈ
+Số    Họ và tên      Ngày tháng     Nơi     Giới       Dân tộc    Xếp loại / Điểm  Số hiệu chứng chỉ       Số vào sổ gốc     Người nhận chứng
+TT    người học      năm sinh       sinh    tính                  thi (nếu có)                             cấp chứng chỉ     chỉ ký và ghi rõ họ   Ghi chú
+                                                                                                                             tên
+
+
+                                                                                                                             TP. Hồ Chí Minh, ngày tháng năm
+                                                                                                                                                         THỦ TRƯỞNG ĐƠN VỊ
+                                                                                                                                                   (ký, đóng dấu, ghi rõ họ tên)
+---
+                                                                                              30
+                                                                                          Phụ lục 15
+                                                                                 Mẫu SỔ CẤP BẢN SAO CHỨNG CHỈ
+                                    (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                    của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+      ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                                                           CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+  TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                                                                 Độc lập – Tự do – Hạnh phúc
+                                                                SỔ CẤP BẢN SAO CHỨNG CHỈ
+Số     Họ và tên người      Ngày tháng    Nơi       Giới    Dân     Xếp loại /   Số hiệu       Số vào sổ gốc     Số lượng     Ngày cấp      Người nhận bản       Ghi
+TT     học                  năm sinh      sinh      tính    tộc     Điểm thi     chứng chỉ     cấp chứng chỉ     bản sao      bản sao       sao chứng chỉ ký     chú
+                                                                    (nếu có)                                                                và ghi rõ họ tên
+
+
+
+
+                                                                                                                                 TP. Hồ Chí Minh, ngày tháng năm
+                                                                                                                                                  THỦ TRƯỞNG ĐƠN VỊ
+                                                                                                                                            (ký, đóng dấu, ghi rõ họ tên)
+---
+                                                                          31
+                                                                      Phụ lục 16
+                                                Mẫu PHỤ LỤC SỔ GỐC CẤP VĂN BẰNG ĐẠI HỌC/THẠC SĨ/TIẾN SĨ
+                                (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                               của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+            ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                           CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+            TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                             Độc lập – Tự do – Hạnh phúc
+                                        PHỤ LỤC SỔ GỐC CẤP VĂN BẰNG ĐẠI HỌC/THẠC SĨ/TIẾN SĨ
+Số TT   Họ và tên    Ngày    Số hiệu văn Số hiệu văn bằng Số vào sổ gốc cấp    Nội dung được chỉnh      Người nhận văn bằng mới hoặc được
+        người học    tháng     bằng đã   được cấp lại (nếu  văn bằng mới (nếu     sửa/thay đổi       chỉnh sửa nội dung ký và ghi rõ họ tên   Ghi chú
+                   năm sinh   được cấp          có)              có)
+
+
+
+
+
+
+
+
+
+                                                                                 Tp.HCM, ngày ….. tháng .... năm ………….
+                                                                                              HIỆU TRƯỞNG
+                                                                                     (Ký, đóng dấu, ghi rõ họ tên)
+---
+                                                                                     32
+                                                                                 Phụ lục 17
+                                                                      Mẫu PHỤ LỤC SỔ GỐC CẤP CHỨNG CHỈ
+                                 (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+            ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH                                                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+            TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN                                                  Độc lập – Tự do – Hạnh phúc
+                                                         PHỤ LỤC SỔ GỐC CẤP CHỨNG CHỈ
+Số TT   Họ và tên     Ngày      Số hiệu    Số hiệu chứng chỉ  Số vào sổ gốc cấp    Nội dung được chỉnh      Người nhận chứng chỉ mới hoặc được
+        người học    tháng   chứng chỉ đã được cấp lại (nếu chứng chỉ mới (nếu        sửa/thay đổi          chỉnh sửa nội dung ký và ghi rõ họ tên   Ghi chú
+                   năm sinh    được cấp           có)                có)
+
+
+
+
+
+
+
+
+
+                                                                                     Tp.HCM, ngày ….. tháng .... năm ………….
+                                                                                               THỦ TRƯỞNG ĐƠN VỊ
+                                                                                         (Ký, đóng dấu, ghi rõ họ tên)
+---
+                                            33
+                                                                       Phụ lục 18
+                                        Mẫu BẰNG TỐT NGHIỆP ĐẠI HỌC dành cho các khóa tuyển trước ngày 01/7/2019
+                                                        và phương thức ghi nội dung trên văn bằng
+                                 (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                                   của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+1) Mẫu bằng
+                   SOCIALIST REPUBLIC OF VIET NAM                                CỘNG HÒA XÃ HỘl CHÚ NGHIA VIỆT NAM
+                   Independence  Freedom - Happiness                                  Độc lập Tự do Hạnh phúc
+                                 VIET NAM NATIONAL UNIVERSITY HO CHI MINH CITY ĐẠl HỌC QUỐC GIA THẢNH PHỐ HỔ CHÍ MINH
+                                 UNIVERSITY OF INFORMATION TECHNOLOGY             TRƯỜNGĐẠIHỌC CÔNG NGHỆ THÔNG TIN
+                                     has conferred the degree of                              cấpbằng
+                                         Bachelur uf Srienre                                  (ử nhân
+                                 (10)                                                           (1)
+                               (10a)                              (1a)
+               Upon:           (11)                             Cho:                            (2)
+               Date of birth:  (12)                             Ngày sinh:                      (3)
+               Degreeclassification: (13)                       Xếp loai tốt nghiệp:            (4)
+               Mode of study:  (14)                             Hinh thúc đào tao:              (5)
+                                                                 HÒA XAHOI CHUNGhI
+                                                                 ILTNAM
+                                                                CCNG
+                   Ho Chi Minh City ,  (15)                     TP. Hổ Chí Minh, ngày  tháng  nam(6)
+                                       Given under the seal of     HIỆU TRƯỚNG
+                                 UNIVERSITY OF INFORMATION TECHNOLOGY
+                                        Sô hỉệu/ No: bằngl      (8)
+                                        Số vào sổ cấp  Reg No:  (9)
+2) Phương thức ghi nội dung
+   -   (1), (1a):
+       + Đối với chương trình bình thường
+         •  (1) Ghi tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng tiếng
+            Việt. In chữ font Times New Roman, hoa (Small caps), đậm (Bold),  kích cỡ
+            (Size) 12, màu đen.
+         •  (1a) Không in.
+       + Đối với chương trình đặc biệt
+         •  (1) Ghi tên chương trình bằng tiếng Việt: “Chương trình Tài năng”, “Chương
+            trình Tiên tiến”. In chữ font Times New Roman, in hoa đầu từ, còn lại in thường,
+            đậm nghiêng (Bold Italic), kích cỡ (Size) 14, màu xanh nước biển.
+---
+                                      34
+     •  (1a) Ghi tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng tiếng
+        Việt. Hình thức như quy định ở mục (1).
+-   (2) Ghi họ tên của người được cấp văn bằng theo giấy khai sinh; in chữ font Times
+   New  Roman,  hoa  (All  caps),  đậm  (Bold),   kích  cỡ  (Size)  14,  màu  đen.  (Ví dụ:
+   NGUYỄN VĂN A).
+-  (3) Ghi ngày, tháng, năm sinh của người được cấp văn bằng theo giấy khai sinh. Nếu
+   ngày sinh từ ngày 1 đến ngày 9, tháng sinh là tháng 1 đến tháng 2 thì thêm số 0 phía
+   trước; ghi năm sinh đủ  04  chữ  số,  giữa ngày tháng năm có dấu  gạch  /  (Ví  dụ:
+   07/02/1981). In chữ font Times New Roman, đậm (Bold),  kích cỡ (Size) 13, màu đen.
+-  (4) Ghi xếp loại tốt nghiệp của người được cấp văn bằng: “Xuất sắc”, “Giỏi”, “Khá”,
+   “Trung bình khá” hoặc “Trung bình”. In chữ font Times New Roman, thường, đậm
+   (Bold), kích cỡ (Size) 13, màu đen.
+-  (5) Ghi hình thức đào tạo: “Chính quy” hoặc “Học từ xa”. In chữ  font Times New
+   Roman, đậm (Bold), kích cỡ (Size) 13, màu đen.
+-  (6) Ghi ngày, tháng, năm cấp văn bằng. In chữ font Times New Roman, đậm (Bold),
+   kích cỡ (Size) 10, màu đen.
+-  (7) Hiệu trưởng ký, ghi rõ học hàm (nếu có), học vị, họ tên và đóng dấu mộc đỏ theo
+   quy định. In chữ font Times New Roman, đậm (Bold), kích cỡ (Size) 13, màu đen.
+-  (8) Số hiệu văn bằng có sẵn.
+-  (9) Số vào sổ cấp bằng do Phòng Đào tạo Đại học cung cấp. In chữ font Times New
+   Roman, đậm (Bold), kích cỡ (Size) 10, màu đen.
+-  (10), (10a):
+   + Đối với chương trình bình thường
+     •  (10) Ghi “in” và tên ngành đào tạo mà người được cấp văn bằng đã theo học
+        bằng tiếng Anh. Hình thức in như quy định ở mục (1).
+     •  (10a) Không in
+   + Đối với chương trình đặc biệt
+     •  (10) “Chương trình tài năng” ghi “Honor Program”, “Chương trình Tiên tiến”
+        ghi “Advanced Program”. Hình thức in như quy định ở mục (1) tương ứng phần
+        dành cho chương trình đặc biệt.
+     •  (10a) Ghi “in” và tên ngành đào tạo mà người được cấp văn bằng đã theo học
+        bằng tiếng Anh. Hình thức in như quy định ở mục (1).
+-  (11) Ghi in hoa đầy đủ họ tên của người được cấp văn bằng như đã ghi ở mục (2) bằng
+   tiếng Việt không dấu. (Ví dụ: NGUYEN VAN A).
+-  (12) Ghi ngày tháng năm sinh của người được cấp văn bằng bằng tiếng Anh, cụ thể:
+   ghi tháng bằng chữ tiếng Anh, ghi ngày và năm bằng số  được ngăn cách bằng dấu
+   phẩy. (Ví dụ: tiếng Việt ghi “07/10/2005” thì tiếng Anh ghi “October 07, 2005”). Hình
+   thức in như quy định ở mục (3).
+-  (13) Ghi xếp loại tốt nghiệp của người được cấp văn bằng bằng tiếng Anh: loại “Xuất
+   sắc” ghi “Excellent”, loại “Giỏi” ghi “Very good”, loại “Khá” ghi “Good”, loại “Trung
+   bình khá” ghi “Average good”, loại “Trung bình” ghi “Ordinary”. Hình thức in như
+   quy định ở mục (4).
+-  (14) Ghi hình thức đào tạo bằng tiếng Anh: “Chính quy” ghi “Full‑time”, “Học từ xa”
+   ghi “Distance learning”. Hình thức in như quy định ở mục (5).
+-  (15) Ghi ngày tháng năm cấp văn bằng bằng tiếng Anh, như cách ghi ở mục (12). Hình
+   thức in như quy định ở mục (6).
+---
+                                                                 35
+                                       Phụ lục 19
+                                Mẫu BẰNG TỐT NGHIỆP ĐẠI HỌC dành cho các khóa tuyển từ ngày 01/7/2019
+                                              và phương thức ghi nội dung trên văn bằng
+                            (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                         của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+1) Mẫu bằng Cử nhân/Kỹ sư
+                               SOCIALIST REPUBLIC OF VIETNAM     CỘNG HÒA XÃ HỘl CHỦ NGHĨA VIỆT NAM
+                 Independence Freedom Happiness            Độc lập Tự do Hanh Phúc
+            VIET NAM NATIONAL UNIVERSITY HO CHI MINH CITY  ĐẠl HỌC QUÕC GIA THÀNH PHỐ HỔ CHÍ MINH
+                            UNIVERSITY OF INFORMATION TECHNOLOGY TRƯỜNG ĐẠl HỌC CỔNG NGHỆ THÔNG TIN
+                                has conferred the degree of                   cấp bằng
+                                    Tachelur nf Science       Ớử nhân
+                            (9)                                                 (1)
+                        (9a)                                                    (1a)
+           Upon:        {19}                       Cho:                          8}
+            Date ỏf birth:  12/                   Ngày sinh:
+            Ranking:                               Hạng tỗt nghiệp:
+                  Ho Chi MinhCity  (13)               Thành Hổ Chí Minh, ngày   (5)
+                                   Givenunder the seal of  phổ HIỆU TRƯỞNG tháng  nár
+                            UNIVERSITY OF INFORMATION TECHNOLOGY
+                                                                 (6)
+                                S6 hieu/ No;         (8)
+                                56 vởo sẩ góc cấp vẵn bắrg/RegNo:
+---
+                                              36
+                SOCIALIST REPUBLIC OF VIETNAM                CONG HÒA XẲ HÔl CHỦ NGHĨA VIỆT NAM
+                Independence Frcedom Happiness                    Đóc l'p Tự do Honh phúc
+             VIET NAM NATIONAL UNIVERSITY HO CHI MINH CITY ĐẠl HOC QUỖC GIA THANH PHỐ HỐ CHÍ MINH
+             UNIVERSITY OF INFORMATION TECHNOLOGY            TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THỔNG TIN
+                 has conferred the degree of                         cẩp bang
+                           Enginrrr
+                             (9)                                       (1)
+                            (9a)                                       (1a)
+            Upon:           (10)                       Cho:            (2)
+            Date of birth:  (11)                       Ngay sinh;      (3)
+            Ranking:        (12)                      Hang tỗt nghiêp: (4)
+                   Ho Chi Mỉnh City; (13)                 ThanhphóHó Chí Mỉnh; ngày  thang  nam (5)
+                   Given under the seal of                          HIỆU TRƯỞNG
+             UNIVERSITY OF INFORMATION TECHNOLOGY                        (6)
+                                   5o hlew No:            (8)
+                                   58 vao 58 g8c cớp van bởng /Reg No:
+2) Phương thức ghi nội dung
+   -   (1), (1a):
+       + Đối với chương trình bình thường
+            (1) Ghi tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng tiếng
+             Việt. In chữ  font Times New Roman, hoa (Small caps), đậm (Bold),  kích cỡ
+             (Size) 12, màu đen.
+            (1a) Không in.
+       + Đối với chương trình đặc biệt
+            (1) Ghi tên chương trình bằng tiếng Việt: “Chương trình Tài năng”, “Chương
+             trình Tiên tiến”. In chữ font Times New Roman, in hoa đầu từ, còn lại in thường,
+             đậm nghiêng (Bold Italic), kích cỡ (Size) 14, màu xanh nước biển.
+---
+                                         37
+          (1a) Ghi tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng tiếng
+           Việt. Hình thức như quy định ở mục (1).
+   -   (2) Ghi họ tên của người được cấp văn bằng theo giấy khai sinh; in chữ font Times
+      New  Roman,  hoa  (All  caps),  đậm  (Bold),   kích  cỡ  (Size)  14,  màu  đen.  (Ví dụ:
+      NGUYỄN VĂN A).
+   -  (3) Ghi ngày, tháng, năm sinh của người được cấp văn bằng theo giấy khai sinh hoặc
+      theo hộ chiếu (đối với người nước ngoài). Nếu ngày sinh từ ngày 1 đến ngày 9, tháng
+      sinh là tháng 1 đến tháng 2 thì thêm số 0 phía trước; ghi năm sinh đủ 04 chữ số, giữa
+      ngày tháng năm có dấu gạch / (Ví dụ: 07/02/1981). In chữ font Times New Roman,
+      đậm (Bold),  kích cỡ (Size) 13, màu đen.
+   -  (4) Ghi  hạng tốt nghiệp của người được cấp văn bằng: “Xuất sắc”, “Giỏi”, “Khá”,
+      “Trung bình khá” hoặc “Trung bình”. In chữ font Times New Roman, thường, đậm
+      (Bold), kích cỡ (Size) 13, màu đen.
+   -  (5) Ghi ngày, tháng, năm cấp văn bằng. In chữ font Times New Roman, đậm (Bold),
+      kích cỡ (Size) 10, màu đen.
+   -  (6) Hiệu trưởng ký, ghi rõ học hàm (nếu có), học vị, họ tên và đóng dấu mộc đỏ theo
+      quy định. In chữ font Times New Roman, đậm (Bold), kích cỡ (Size) 13, màu đen.
+   -  (7) Số hiệu văn bằng có sẵn.
+   -  (8) Số vào sổ cấp văn bằng do Phòng Đào tạo Đại học cung cấp. In chữ font Times
+      New Roman, đậm (Bold), kích cỡ (Size) 10, màu đen.
+   -  (9), (9a):
+      + Đối với chương trình bình thường
+          (9) Ghi “in” và tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng
+           tiếng Anh. Hình thức in như quy định ở mục (1).
+          (9a) Không in
+      + Đối với chương trình đặc biệt
+          (9) “Chương trình tài năng” ghi “Honor Program”, “Chương trình Tiên tiến” ghi
+           “Advanced Program”. Hình thức in như quy định ở mục (1) tương ứng phần dành
+           cho chương trình đặc biệt.
+          (9a) Ghi “in” và tên ngành đào tạo mà người được cấp văn bằng đã theo học
+           bằng tiếng Anh. Hình thức in như quy định ở mục (1).
+   -  (10) Ghi in hoa đầy đủ họ tên của người được cấp văn bằng như đã ghi ở mục (2) bằng
+      tiếng Việt không dấu. (Ví dụ: NGUYEN VAN A).
+   -  (11) Ghi ngày tháng năm sinh của người được cấp văn bằng bằng tiếng Anh, cụ thể:
+      ghi tháng bằng chữ tiếng Anh, ghi ngày và năm bằng số  được ngăn cách bằng dấu
+      phẩy. (Ví dụ: tiếng Việt ghi “07/10/2005” thì tiếng Anh ghi “October 07, 2005”). Hình
+      thức in như quy định ở mục (3).
+   -  (12) Ghi hạng tốt nghiệp của người được cấp văn bằng bằng tiếng Anh: loại “Xuất
+      sắc” ghi “Excellent”, loại “Giỏi” ghi “Very good”, loại “Khá” ghi “Good”, loại “Trung
+      bình khá” ghi “Average good”, loại “Trung bình” ghi “Ordinary”. Hình thức in như
+      quy định ở mục (4).
+   -  (13) Ghi ngày tháng năm cấp văn bằng bằng tiếng Anh, như cách ghi ở mục (11). Hình
+      thức in như quy định ở mục (5).
+Ghi chú:
+      Nếu người được cấp văn bằng là người nước ngoài thì ghi các thông tin tại điểm (2),
+      (3), (10), (11) theo hộ chiếu.
+---
+                                                                  38
+                                                              Phụ lục 20
+                                          Mẫu CHỨNG CHỈ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN CƠ BẢN,
+                                            CHỨNG CHỈ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN NÂNG CAO
+                                              và phương thức ghi nội dung trên chứng chỉ
+   (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023
+                                          của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+1) Mẫu chứng chỉ
+                                          CỘNG HÒA X- HỘl CHỦ NGHĨA VIỆT NAM
+                                     Đệc lâp Jự do Hanh phúc
+                                          CHỨNG CHỈ
+                                          ỨNG DỤNG CÔNG NGHỆ THÔNG TIN CƠ BẢN
+              Cẩp cho:         (1)
+              Sinh ngày:       (2)            Nơi sinh:      (3)
+              Đạt yêu cẩu bài thi ứng dungcông  thông tin cơ bản tại Hậi đổng thi:
+                                          nghệ
+                                          (4)
+              Kết quả: Điểm trắc nghiệm:  (5)     Điểm thực hành:              (6)
+                                                  (7)     ngày    tháng   năm (8)
+                                                                  (9)
+              Sổ hiệu:  (11)      (12)                           (10)
+              Số vào sổ cấp chứng chỉ:
+---
+                                          39
+                                          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+                                               Độc lập Tự do Hạnh phúc
+                                      CHỨNG CHỈ
+                                          ÚNG DỤNG CÔNG NGHẬ THÔNG TIN NÂNG CAO
+                        MÔ ĐUN:                 (13)
+          Cấp cho:            (1)
+          Sinh ngày:          (2)     Noi sinh:.              (3)
+          Đạt    cầu bài thiứngdụngcôngnghệthông  nângcao tai Hộiđồng
+             yêu                              tin                thi
+                                       (4)
+          Kết    Điểm trắc nghiệm:     (5)         Điểm thực hành      (6)
+             quả:
+                                                 (7)       ngày    tháng    năm  (8)
+                                                                 (9)
+          Số hiệu:   (11)
+          Số vào sổ cấp          (12)
+                     chúngchỉ:                                  (10)
+2) Phương thức ghi nội dung
+   ‑  (1) Ghi họ tên của người được cấp chứng chỉ theo giấy khai sinh; in chữ font Times
+      New Roman, hoa (All caps), đậm (Bold),  kích cỡ (Size) 13, màu đen.
+   ‑  (2) Ghi ngày, tháng, năm sinh theo giấy khai sinh. Nếu ngày sinh từ ngày 1 đến ngày
+      9, tháng sinh là tháng 1 đến tháng 2 thì ghi thêm số 0 phía trước; ghi năm sinh đầy đủ
+      04 chữ số, giữa ngày tháng năm có dấu gạch / (Ví dụ: 07/02/1981). In chữ font Times
+      New Roman, đậm (Bold),  kích cỡ (Size) 13, màu đen.
+   ‑  (3) Ghi nơi sinh của người được cấp chứng  chỉ  theo địa danh tỉnh, thành phố  trực
+      thuộc Trung ương căn cứ theo giấy khai sinh (kể cả trong trường hợp tại thời điểm cấp
+      chứng chỉ đã có sự thay đổi địa danh hành chính nên không còn địa danh tỉnh, thành
+      phố trực thuộc Trung ương khi khai sinh). In chữ font Times New Roman, đậm (Bold),
+      kích cỡ (Size) 13, màu đen.
+   ‑  (4) Ghi tên Hội đồng thi. Nếu không thành lập Hội đồng thì không ghi. In chữ font
+      Times New Roman, đậm (Bold),  kích cỡ (Size) 13, màu đen.
+   ‑  (5), (6) Ghi điểm thi của người được cấp chứng chỉ. In chữ font Times New Roman,
+      đậm (Bold),  kích cỡ (Size) 13, màu đen.
+   ‑  (7) Ghi địa danh tỉnh, thành phố trực thuộc Trung ương nơi cơ quan cấp chứng chỉ đặt
+      trụ sở chính. In chữ font Times New Roman, đậm (Bold),  kích cỡ (Size) 13, màu đen.
+   ‑  (8) Ghi ngày, tháng, năm cấp chứng chỉ. In chữ font Times New Roman, đậm (Bold),
+      kích cỡ (Size) 10, màu đen.
+   ‑  (9) Ghi HIỆU TRƯỞNG hoặc Thủ trưởng cơ sở đào tạo được ủy quyền cấp chứng
+      chỉ. In chữ font Times New Roman, đậm (Bold),  kích cỡ (Size) 13, màu đen.
+   ‑  (10) HIỆU TRƯỞNG hoặc Thủ trưởng cơ sở đào tạo được ủy quyền cấp chứng chỉ
+      ký, ghi rõ học hàm, học vị, họ tên và đóng dấu theo quy định.
+   ‑  (11) Do cơ quan in phôi chứng chỉ ghi khi cấp phôi.
+---
+                                        40
+‑   (12) Ghi số vào sổ gốc cấp chứng chỉ. In chữ font Times New Roman, đậm (Bold),
+    kích cỡ (Size) 13, màu đen.
+‑   (13) Ghi tên chương trình đào tạo  ngắn hạn.  In chữ  font Times New Roman, đậm
+    (Bold),  kích cỡ (Size) 13, màu đen.
+---
+                                             41
+                                         Phụ lục 21
+                                 Mẫu BẰNG TỐT NGHIỆP THẠC SĨ
+                          và phương thức ghi nội dung trên văn bằng
+       (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023  của
+                       Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+1) Mẫu bằng thạc sĩ:
+                 SOCIALIST REPUBLIC OF VIET NAM           CỘNG HÒA XẰ HỘl CHÚ NGHÍA VIỆT NAM
+                  Independence Freedom Happiness        Đóc lập Tự do Hạnh phúc
+       VIET NAM NATIONAL UNIVERSITY HO CHI MINH CITY    ĐẠl HỌC QUÓC GIA THẢNH PHỐ HỔ CHÍ MINH
+             UNIVERSITY OF INFORMATION TECHNOLOGY         TRƯỜNG ĐẠl HỌC CÔNG NGHỆ THÔNG TIN
+                has conferred the degree of                            cấpbàng
+                     Alaster uf Srience                                @har $ĩ
+                                                             (1)
+             Upon:                               Cho!
+              Date of birth:  (10)               Ngày sinh:
+                                                          oA  HoiCHu NGHĨA
+                                                           IỆT NAM
+                                                        CONG
+                   Ho Chí Minh City,  (11)              TP. Hổ Chi Minh, ngày  thảng nám (9)
+                     Given under the seal of                             HIỆU TRUỞNG
+              UNIVERSITY OF INFORMATION TECHNOLOGY
+                                                                (5)
+                                     Só hieul No:
+2) Phương thức ghi nội dung:
+       (1) Ghi tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng tiếng
+  Việt. In chữ font Times New Roman, hoa (small caps), đậm (Bold), kích cỡ (Size) 18,
+  màu đen.
+       (2) Ghi họ tên của người được cấp văn bằng theo giấy khai sinh, in chữ font
+  Times New Roman, hoa (All caps), đậm (Bold), kích cỡ (Size 18), màu đen. Ví dụ:
+  NGUYỄN VĂN A.
+       (3) Ghi ngày, tháng, năm sinh của người được cấp văn bằng theo giấy khai sinh
+  hoặc theo hộ chiếu (đối với người nước ngoài). Nếu ngày sinh từ ngày 1 đến ngày 9,
+  tháng sinh là tháng 1 đến tháng 2 thì thêm số 0 phía trước; ghi năm sinh đủ 04 chữ số,
+  giữa ngày tháng năm có dấu gạch.
+       (Ví dụ: 07/02/1981). In chữ font Times New Roman, đậm (Bold), kích cỡ (Size)
+  16, màu đen.
+       (4) Ghi ngày tháng năm cấp bằng. In chữ font Times New Roman, đậm (Bold),
+  kích cỡ (Size) 13, màu đen.
+       (5) Hiệu trưởng ký, ghi rõ học hàm (nếu có), học vị, họ tên và đóng mộc đỏ theo
+  quy định, in chữ font Times New Roman, đậm (Bold), kích cỡ (Size) 15, màu đen.
+       (6) Số hiệu văn bằng có sẵn.
+       (7) Số vào sổ cấp văn bằng do Phòng Đào tạo Sau đại học và Khoa học Công
+  nghệ cung cấp, in chữ font Times New Roman, đậm (Bold), kích cỡ (Size) 12, màu
+  đen.
+---
+                                   42
+     (8) Ghi “in” và tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng
+tiếng Anh. Hình thức in như quy định ở mục (1)
+     (9) Ghi in hoa đầy đủ họ tên của người được cấp văn bằng như đã ghi ở mục (2)
+bằng tiếng Việt không dấu. (Ví dụ: NGUYEN VAN A).
+     (10) Ghi ngày tháng năm sinh của người được cấp văn bằng bằng tiếng Anh, cụ
+thể: ghi tháng năm bằng chữ tiếng Anh, ghi ngày và năm bằng số được ngăn cách
+bằng dấu phẩy.
+     VD: tiếng Việt ghi 07/10/2005 thì tiếng Anh ghi October 07, 2005. Hình thức in
+như quy định ở mục (3)
+     (11) Ghi ngày tháng năm cấp văn bằng tiếng Anh như cách ghi ở mục 10. Hình
+thức in như quy định ở mục (4).
+     Ghi chú: Nếu người được cấp văn bằng là người nước ngoài thì ghi các thông tin
+tại điểm (2), (3), (10), (11) theo hộ chiếu.
+---
+                                                           43
+                                                       Phụ lục 22
+                                               Mẫu BẰNG TỐT NGHIỆP TIẾN SĨ
+                                        và phương thức ghi nội dung trên văn bằng
+            (Ban hành kèm theo Quyết định số: 172/QĐ-ĐHCNTT, ngày 08 tháng 3 năm 2023 của
+                                     Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+1) Mẫu bằng tiến sĩ:
+                    SOCIALIST REPUBLIC OF VIET NAM          CỘNG HỎA XA HỘl CHỦ NGHÍA VIỆT NAM
+                    Independence Freedom Happlness               Đ[c lap Tu do Hanh phủc
+            VIET NAM NATIONAL UNIVERSITY HO CHI MINH CITY ĐẠI HOC QUỐC GIA THẢNH PHỐ HỎ CHÍ MINH
+                 UNIVERSITY OF INFORMATION TECHNOLOGY       TRƯỜNG ĐẠl HỌC CÔNG NGHẸ THÔNG TIN
+                     has conferred che degree of                         cẩpbằng
+                         Dnrtur pf @hilosophy                            @iỀn 5ĩ
+            Upon:                               Cho:
+            Date of birth:  (10)                Ngày sinh:  HOA XẰ HỐlCHUNGKIA
+                 Ho Chi MinhCity                        VIETNAM    cháng
+                                                       TP. Hổ Chi Minh; ngày  nam
+                    Given under the seal of                 HIEU TRUỞNG
+             UNIVERSITY OF INFORMATION TECHNOLOGY
+                                     Sohlzu No: (6)
+                                     50 no5o cddbare RebNo;
+2) Phương thức ghi nội dung:
+        (1) Ghi tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng tiếng
+  Việt. In chữ font Times New Roman, hoa (small caps), đậm (Bold), kích cỡ (Size) 20,
+  màu đen.
+        (2) Ghi họ tên của người được cấp văn bằng theo giấy khai sinh, in chữ font
+  Times New Roman, hoa (All caps), đậm (Bold), kích cỡ (Size) 22, màu đen. Ví dụ:
+  NGUYỄN VĂN A.
+        (3) Ghi ngày, tháng, năm sinh của người được cấp văn bằng theo giấy khai sinh
+  hoặc theo hộ chiếu (đối với người nước ngoài). Nếu ngày sinh từ ngày 1 đến ngày 9,
+  tháng sinh là tháng 1 đến tháng 2 thì thêm số 0 phía trước; ghi năm sinh đủ 04 chữ số,
+  giữa ngày tháng năm có dấu gạch.
+        (Ví dụ: 07/02/1981). In chữ font Times New Roman, đậm (Bold), kích cỡ (Size)
+  18, màu đen.
+        (4) Ghi ngày tháng năm cấp bằng. In chữ font Times New Roman, đậm (Bold),
+  kích cỡ (Size) 15, màu đen.
+        (5) Hiệu trưởng ký, ghi rõ học hàm (nếu có), học vị, họ tên và đóng mộc đỏ theo
+  quy định, in chữ font Times New Roman, đậm (Bold), kích cỡ (Size) 18, màu đen.
+        (6) Số hiệu văn bằng có sẵn.
+---
+                                   44
+     (7) Số vào sổ cấp văn bằng do Phòng Đào tạo Sau đại học và Khoa học Công
+nghệ cung cấp, in chữ font Times New Roman, đậm (Bold), kích cỡ (Size) 14, màu
+đen.
+     (8) Ghi “in” và tên ngành đào tạo mà người được cấp văn bằng đã theo học bằng
+tiếng Anh. Hình thức in như quy định ở mục (1)
+     (9) Ghi in hoa đầy đủ họ tên của người được cấp văn bằng như đã ghi ở mục (2)
+bằng tiếng Việt không dấu. (Ví dụ: NGUYEN VAN A).
+     (10) Ghi ngày tháng năm sinh của người được cấp văn bằng bằng tiếng Anh, cụ
+thể: ghi tháng năm bằng chữ tiếng Anh, ghi ngày và năm bằng số được ngăn cách
+bằng dấu phẩy.
+     Ví dụ: tiếng Việt ghi 07/10/2005 thì tiếng Anh ghi October 07, 2005. Hình thức
+in như quy định ở mục (3)
+     (11) Ghi ngày tháng năm cấp văn bằng tiếng Anh như cách ghi ở mục 10. Hình
+thức in như quy định ở mục (4).
+     Ghi chú: Nếu người được cấp văn bằng là người nước ngoài thì ghi các thông tin
+tại điểm (2), (3), (10), (11) theo hộ chiếu.

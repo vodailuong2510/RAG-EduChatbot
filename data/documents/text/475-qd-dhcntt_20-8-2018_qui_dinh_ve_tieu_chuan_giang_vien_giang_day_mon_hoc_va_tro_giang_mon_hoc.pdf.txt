@@ -1,0 +1,270 @@
+ĐẠI HỌC QUỐC GIA TP.HCM                CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+       TRƯỜNG ĐẠI HỌC                      Độc lập – Tự do – Hạnh phúc
+  CÔNG NGHỆ THÔNG TIN
+     Số:  475/QĐ‑ĐHCNTT               Tp. Hồ Chí Minh, ngày 20  tháng 08  năm 2018
+                                 QUYẾT ĐỊNH
+      Về việc ban hành Quy định về tiêu chuẩn giảng viên giảng dạy môn học
+                                và trợ giảng môn học
+                            HIỆU TRƯỞNG TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+   Căn cứ Điều lệ Trường Đại học, ban hành kèm theo Quyết định số 70/2014/QĐ‑TTg ngày
+10/12/2014 của Thủ tướng Chính phủ;
+   Căn cứ  Quyết định  số  134/2006/QĐ‑TTg ngày 08 tháng 6 năm 2006 của  Thủ  tướng
+Chính  phủ  về  việc  thành  lập Trường Đại  học  Công  nghệ  Thông tin (Trường ĐH CNTT)
+thuộc Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG‑HCM);
+   Căn cứ Quyết định số 867/QĐ‑ĐHQG‑TCCB, ngày 17 tháng 8 năm 2016 của Giám đốc
+ĐHQG‑HCM ban hành Quy chế tổ chức và hoạt động của trường đại học thành viên và khoa
+trực thuộc ĐHQG‑HCM;
+   Căn cứ Quyết định số  813/QĐ‑ĐHCNTT‑ĐTĐH ngày 16 tháng 11 năm 2017 của Hiệu
+trưởng Trường ĐH CNTT về  việc ban hành Quy chế đào tạo theo học chế tín chỉ cho hệ đại
+học chính quy của Trường ĐH CNTT;
+   Xét đề nghị của Trưởng phòng Đào tạo Đại học,
+                                     QUYẾT ĐỊNH:
+   Điều 1. Ban hành kèm theo Quyết định này “Quy định về tiêu chuẩn giảng viên giảng dạy
+môn học và trợ giảng môn học”.
+   Điều 2. Quyết định có hiệu lực kể từ ngày ký. Quyết định này thay thế cho Quyết định số
+129/QĐ‑ĐHCNTT‑ĐTĐH ngày 30 tháng 8 năm 2016 của Hiệu trưởng Trường ĐH CNTT về
+việc quy định tạm thời tiêu chuẩn giảng viên giảng dạy môn học và trợ giảng môn học.
+   Điều 3. Các Ông/Bà Trưởng các Phòng, Ban, Khoa, Bộ môn, các đơn vị có liên quan của
+Trường Đại học Công nghệ Thông tin chịu trách nhiệm thi hành Quyết định này./.
+   Quyết định này có hiệu lực kể từ ngày ký./.
+     Nơi nhận:                                                  KT. HIỆU TRƯỞNG
+     ‑ Như Điều 3;                                              PHÓ HIỆU TRƯỞNG
+     ‑ Lưu: VT, ĐTĐH (Nh).                                          (Đã ký)
+
+
+                                                          Vũ Đức Lung
+---
+                                              QUY ĐỊNH
+             Về tiêu chuẩn giảng viên giảng dạy môn học và trợ giảng môn học
+             (Ban hành kèm theo Quyết định số 475/QĐ-ĐHCNTT ngày 20  tháng 08  năm 2018
+                   của Hiệu trưởng Trường Đại học Công nghệ Thông tin)
+Điều 1. Mục đích, phạm vi điều chỉnh và đối tượng áp dụng
+             1. Nhằm đảm bảo chất lượng giảng dạy các chương trình đào tạo đại học hệ chính quy của
+              Trường Đại học Công nghệ Thông tin (ĐHCNTT), văn bản này quy định về tiêu chuẩn giảng
+           viên và trợ giảng môn học, công tác bồi dưỡng giảng viên, quản lý phân công giảng dạy và
+mời giảng viên thỉnh giảng.
+              2. Văn bản này áp dụng đối với cán bộ giảng dạy, khoa, bộ môn  và các đơn vị khác của
+Trường ĐHCNTT có liên quan đến những công tác tại Khoản 1 Điều 1 này.
+Điều 2. Từ ngữ sử dụng và chữ viết tắt
+                  1. Đơn vị quản lý môn học (ĐVQLMH): Khoa, bộ môn, tổ môn học hoặc một đơn vị khác
+              của Trường được giao nhiệm vụ quản lý về mặt chuyên môn đối với một môn học theo Danh
+mục các môn học đại học của Trường.
+ 2. Giảng  viên  thỉnh  giảng:  Giảng  viên  hoặc  trợ  giảng  không  phải  là  cán  bộ cơ hữu  của
+Trường ĐHCNTT.
+   3. Khảo sát giảng dạy: Khảo sát lấy ý kiến phản hồi từ người học về hoạt động giảng dạy
+của giảng viên quy định tại Quyết định số 08/QĐ‑ĐHCNTT‑ĐBCL ngày 17 tháng 12 năm
+2013 của Hiệu trưởng Trường ĐHCNTT.
+   4. Hệ  thống  Moodle:  Hệ  thống  hỗ  trợ  học  tập  online  của Trường  tại            địa  chỉ
+courses.uit.edu.vn.
+Điều 3. Tiêu chuẩn và trách nhiệm của giảng viên giảng dạy môn học (GVMH)
+   1. GVMH phải đáp ứng tất cả những điều kiện sau:
+        a. Có trình độ  thạc sĩ trở  lên  với  chuyên  ngành  phù  hợp  môn  học,  trừ  giảng  viên
+        giảng dạy ngoại ngữ có trình độ đại học trở lên với chuyên ngành phù hợp.
+        b. Có chứng chỉ nghiệp vụ sư phạm.
+        c. Đáp ứng một trong các điều kiện sau:
+             i.            Có kết quả nghiên cứu liên quan đến môn học phụ trách được thể hiện qua:
+             luận văn tốt nghiệp trình độ đại học/thạc sĩ/tiến sĩ; bài báo khoa học đăng trên
+           các  kỷ  yếu  hội  nghị  chuyên  ngành  hoặc  tạp  chí  có  uy  tín;  sách đã xuất  bản;
+             hoặc đề tài nghiên cứu khoa học đã được nghiệm thu;
+            ii. Có kinh nghiệm làm việc từ 03 năm trở lên liên quan đến môn học.
+        d. Đáp ứng một trong các điều kiện sau:
+             i.          Hoàn thành kiến tập giảng dạy được quy định tại Điều 6 của quy định này và
+             được giảng viên hướng dẫn kiến tập nhận xét là đạt yêu cầu;
+            ii.           Đã học và thi đạt môn học tương đương trong quá trình học tập hoặc từ một
+             khóa học có uy tín được Trường công nhận.
+                GVMH có trình độ tiến sĩ hoặc môn học được mở lần đầu tiên tại trường thì không cần
+      đáp ứng điều kiện tại Điểm d Khoản 1 Điều 3.
+                                              1/6
+---
+   2. GVMH có trách nhiệm:
+        a. Giảng dạy chính và phối hợp chặt chẽ với TGMH (nếu có) để đạt chất lượng giảng
+        dạy tốt nhất.
+        b. Nắm vững đề cương môn học và giảng dạy theo đề cương môn học. Nếu có thay
+        đổi so với đề cương môn học thì GVMH có trách nhiệm làm việc với ĐVQLMH để
+        cập nhật đề cương môn học trước khi giảng dạy.
+        c. Giảng dạy đủ số tiết học theo thời khóa biểu, thực hiện báo nghỉ và dạy bù đúng
+        theo quy định của Trường.
+        d. Cung cấp đề cương môn học, tài liệu giảng dạy và tập tin trình chiếu bài giảng ‑
+        slides (nếu có sử dụng) và hỗ trợ sinh viên học tập thông qua hệ thống Moodle.
+        e. Ra đề thi, tham gia coi thi, chấm thi và nộp điểm theo quy định của Trường.
+Điều 4. Tiêu chuẩn và trách nhiệm của trợ giảng môn học (TGMH)
+   1. TGMH phải đáp ứng tất cả những điều kiện sau:
+        a. Có trình độ đại học trở lên hoặc là sinh viên năm cuối khóa của Trường.
+        b. Đáp ứng một trong các các điều kiện sau:
+             i.   Có kết quả nghiên cứu liên quan đến môn học phụ trách được thể hiện qua:
+             luận văn tốt nghiệp trình độ đại học/thạc sĩ/tiến sĩ; bài báo khoa học đăng trên
+             các  kỷ  yếu  hội  nghị  chuyên  ngành  hoặc  tạp chí có uy tín; sách đã xuất  bản;
+             hoặc đề tài nghiên cứu khoa học đã được nghiệm thu;
+            ii.  Đã học và thi đạt môn học tương đương trong quá trình học tập hoặc từ một
+             khóa học có uy tín được Trường công nhận. Trường hợp TGMH chưa có trình
+             độ đại học thì phải có kết quả học môn học đó đạt từ loại Giỏi trở lên.
+        c. Đáp ứng một trong các điều kiện sau:
+             i. Hoàn thành kiến tập giảng dạy được quy định tại Điều 6 của quy định này và
+             được giảng viên hướng dẫn kiến tập nhận xét là đạt yêu cầu;
+            ii.  Đã học và thi đạt môn học tương đương trong quá trình học tập hoặc từ một
+             khóa học có uy tín được Trường công nhận.
+       TGMH có trình độ tiến sĩ hoặc môn học được mở lần đầu tiên tại trường thì không cần
+      đáp ứng điều kiện tại Điểm c Khoản 1 Điều 4 này.
+   2. TGMH bao gồm: trợ giảng lý thuyết (TGLT) và trợ giảng thực hành (TGTH)
+        a. Trách nhiệm chung của TGMH:
+        ‑        Nắm vững đề cương môn học, phối hợp chặt chẽ  với GVMH để  đạt chất lượng
+        giảng dạy tốt nhất.
+        ‑  Hỗ trợ sinh viên học tập thông qua hệ thống Moodle.
+     Ngoài ra,
+        b. TGTH có trách nhiệm:
+        ‑  Giảng dạy thực hành theo đề cương môn học.
+        ‑  Giảng dạy đủ số tiết học theo thời khóa biểu, thực hiện báo nghỉ và dạy bù đúng
+        theo quy định của Trường.
+        ‑  Ra đề thi và chấm thi thực hành, tham gia coi thi và nộp điểm theo quy định của
+        Trường.
+                                              2/6
+---
+            c. TGLT có trách nhiệm:
+            ‑     Hỗ trợ GVMH trong các hoạt động giảng dạy, bao gồm: chuẩn bị bài giảng, phụ
+            đạo, hướng dẫn bài tập, thảo luận và chấm bài.
+            ‑ Tham gia giờ học lý thuyết hoặc trực tại phòng làm việc để hỗ trợ sinh viên với
+           thời lượng bằng hai phần ba số tiết lý thuyết của môn học (chưa quy đổi). Lịch dạy
+         hoặc lịch trực được thông báo công khai cho sinh viên biết trên trang thông tin điện
+            tử của Trường.
+    Điều 5. Điều kiện đề xuất TGLT
+        GVMH thuộc một trong các trường hợp sau thì được đề xuất có TGLT:
+            ‑  Có chức danh là giáo sư, phó giáo sư; hoặc
+            ‑  Là giảng viên cao cấp, giảng viên chính; hoặc
+            ‑  Có  trình độ tiến sĩ và có khối lượng công tác chuyên môn (giảng dạy và nghiên
+           cứu khoa học) trong năm liền trước lớn hơn hoặc bằng hai lần định mức giờ nghĩa vụ
+            của giảng viên.
+        Đồng thời thỏa một trong các điều kiện sau đây:
+            ‑  Lớp học được giảng dạy bằng tiếng nước ngoài;
+            ‑  Lớp  học  hệ  chính quy chương trình tài năng, chất lượng cao, chương trình tiên
+            tiến có sĩ số lớp ≥ 30 sinh viên;
+            ‑  Lớp học hệ chính quy đại trà có sĩ số lớp từ 80 sinh viên trở lên;
+            ‑  Trường hợp đặc biệt do Hiệu trưởng xem xét và quyết định.
+    Điều 6. Kiến tập giảng dạy
+        1. Kiến tập giảng dạy là chế độ tập huấn giảng viên của Trường nhằm tạo điều kiện cho
+        giảng viên cơ hữu của Trường học hỏi kinh nghiệm và phương pháp giảng dạy một môn học
+cụ thể từ giảng viên khác (gọi là giảng viên hướng dẫn kiến tập) để có thể đủ điều kiện giảng
+     dạy môn học đó. Giảng viên hướng dẫn kiến tập phải là giảng viên đủ tiêu chuẩn giảng dạy
+    môn học theo quy định tại Điều 3 của quy định này.
+         2. Mọi giảng viên cơ hữu của trường đều có quyền đăng ký tham gia kiến tập giảng dạy
+       đối với môn học phụ trách bởi khoa/bộ môn quản lý giảng viên hoặc khoa/bộ môn mà giảng
+    viên đăng ký sinh hoạt chuyên môn (đối với giảng viên làm công tác kiêm nhiệm).
+       3. Giảng viên kiến tập có trách nhiệm tham dự ít nhất 80% số giờ học lý thuyết và thực
+    hành của môn học trong thời gian một học kỳ. Sau khi hoàn thành kiến tập, giảng viên kiến
+    tập thực hiện và gửi báo cáo kiến tập (theo mẫu) có nhận xét của giảng viên hướng dẫn cho
+    ĐVQLMH.
+       4. Giảng viên kiến tập không có thù lao giảng dạy như  GVMH và TGMH.
+     5. Giảng viên hướng dẫn kiến tập có trách nhiệm theo dõi để đánh giá chất lượng kiến tập
+    và được hưởng chế độ bồi dưỡng theo quy định.
+     6. Kết quả thực hiện kiến tập là một thông tin tham khảo trong đánh giá hoàn thành nhiệm
+    vụ năm học.
+    Điều 7. Quy hoạch giảng dạy
+          1. Mỗi môn học có danh sách tất cả những người có thể tham gia giảng dạy (GVMH hoặc
+    TGMH). Tập hợp các danh sách này được gọi chung là quy hoạch giảng dạy.
+                                                  3/6
+---
+            2. Khoa, bộ môn và các ĐVQLMH khác có trách nhiệm xây dựng và cập nhật quy hoạch
+         giảng dạy cho những môn học mà đơn vị quản lý, đáp ứng những yêu cầu sau đây.
+                 a. Giảng viên có tên trong quy hoạch giảng dạy phải đáp ứng các tiêu chuẩn tương
+                  ứng tại Điều 3 và Điều 4  của quy định này. Trường hợp giảng viên thỉnh giảng là
+                 chuyên  gia  hay  nhà  khoa  học  có  uy  tín  rộng rãi được  Hiệu trưởng  mời đích danh
+              bằng thư mời thì được đưa trực  tiếp  vào  quy  hoạch  giảng  dạy theo đề  xuất  của
+                     ĐVQLMH và không nhất thiết phải nộp hồ  sơ giảng viên thỉnh giảng cho Trường.
+                 Những trường hợp đặc biệt khác do Hiệu trưởng xem xét và quyết định.
+                     b. GVMH/TGMH có kết quả khảo sát giảng dạy chưa được sinh viên hài lòng và có
+               nhiều nhận xét không tốt (theo quy định hiện hành về khảo sát giảng dạy)  trong hai
+               lần liên tiếp thì  bị đưa ra khỏi quy hoạch giảng dạy của môn học đó trong  một học
+                      kỳ; Để  được bổ sung trở  lại vào quy hoạch giảng dạy, GVMH/TGMH này cần gửi
+                 minh chứng cho Trường thấy sự chuẩn bị tốt hơn cho việc giảng dạy/trợ giảng thông
+                         qua ĐVQLMH.  ĐVQLMH có trách nhiệm kiểm tra và đề nghị cập nhật quy hoạch
+      giảng  dạy.  Người  bị  đưa ra khỏi  quy  hoạch  giảng  dạy  của  môn  học  quá  3  lần  thì
+                 không được bổ sung trở lại.
+          3. Quy  hoạch  giảng  dạy được  Hiệu trưởng  quyết  định  phê  duyệt  theo đề  nghị  của
+            ĐVQLMH và Phòng Đào tạo Đại học. Trong trường hợp cần thiết, Trường có thể tổ chức hội
+             đồng thẩm định hồ sơ hoặc tổ chức hoạt động phù hợp nhằm kiểm tra năng lực giảng viên
+               (chẳng hạn như yêu cầu giảng thử) đối với GVMH và TGMH được đề nghị bổ sung vào quy
+           hoạch. Hội đồng thẩm định có 3 hoặc 5 thành viên bao gồm: chủ tịch hội đồng, thư ký hội
+      đồng và các  ủy viên.  Thành viên Hội đồng  thẩm định  phải có trình độ thạc sĩ trở lên. Hội
+         đồng thẩm định có những thành phần sau đây: đại diện ĐVQLMH, giảng viên đủ tiêu chuẩn
+         giảng dạy môn học; trường hợp cần thiết có thể mời thêm các thành phần khác.
+            4. Quy hoạch giảng dạy được công bố công khai đối với tất cả các giảng viên của Trường
+         ĐHCNTT.
+         Điều 8. Quy trình phân công giảng dạy
+            1. Phòng Đào tạo Đại học chủ trì việc phối hợp với các ĐVQLMH để xây dựng kế hoạch
+         giảng dạy và thời khóa biểu năm học/học kỳ.
+                      2. Trưởng ĐVQLMH có trách nhiệm phân công GVMH, TGMH và mời giảng viên thỉnh
+        giảng (nếu cần thiết), đối với những môn học mà đơn vị đó quản lý theo nguyên tắc tại Điều
+           9 của quy định này. Việc phân công giảng dạy và mời giảng viên thỉnh giảng phải đáp ứng
+         những nguyên tắc tại Điều 5 và Điều 9 của quy định này và phải tham khảo ý kiến của các
+             trưởng bộ môn trực thuộc (nếu có). ĐVQLMH có trách nhiệm xây dựng quy trình phân công
+         giảng dạy chi tiết và báo cáo cho Hiệu trưởng thông qua Phòng Đào tạo Đại học.
+3. Kết  quả  phân  công  giảng  dạy  của  học  kỳ  phải được  công  bố  công  khai  cho  toàn  thể
+         giảng viên của ĐVQLMH biết chậm nhất là 4 tuần trước khi bắt đầu giảng dạy học kỳ.
+         Điều 9. Nguyên tắc phân công giảng dạy và mời giảng viên thỉnh giảng
+1. Chỉ  phân  công  giảng  dạy  hoặc  mời  giảng  đối  với  những  giảng  viên/trợ  giảng  có  tên
+             trong quy hoạch giảng dạy môn học. Người có tên trong danh sách quy hoạch GVMH có thể
+         tham gia giảng dạy với vị trí TGMH.
+                                                       4/6
+---
+               2. Trường hợp giảng viên cơ hữu của Trường không đáp ứng yêu cầu giảng dạy đối với
+         một môn học (về số lượng hoặc chất lượng) thì ĐVQLMH có trách nhiệm mời giảng viên
+         thỉnh giảng để giảng dạy cho môn học đó. Ngoài ra, Trường khuyến khích việc mời các nhà
+         giáo, nhà khoa học có uy tín trong nước, nhà khoa học là người Việt Nam định cư ở  nước
+         ngoài và nhà khoa học người nước ngoài đến giảng dạy.
+                        3. Đối với môn học có nhiều GVMH thì ĐVQLMH phân công 01 GVMH chính. GVMH
+         chính có trách nhiệm chủ trì việc phối hợp với các  GVMH  khác để đề xuất với ĐVQLMH
+         chỉnh sửa nội dung đề cương môn học trước khi bắt đầu giảng dạy (nếu cần); chủ trì việc làm
+         đề kiểm tra, đề  thi tập trung; và chủ trì họp các giảng viên giảng dạy môn học đột xuất khi
+         cần nhằm đảm bảo việc giảng dạy đạt chất lượng tốt nhất.
+           4. Số  lượng  GVMH  và  TGMH  của  mỗi  lớp được  thực  hiện theo quy định  chung  của
+         trường.
+                   5. Không phân công 01 cán bộ giảng dạy đảm nhiệm đồng thời vị trí GVMH và TGMH
+         cho cùng một lớp.
+            6. Ưu tiên phân công giảng dạy đối với:
+                 a. Giảng viên được sinh viên đánh giá cao trong các khảo sát giảng dạy;
+                 b. Giảng viên tốt nghiệp tiến sĩ tại các trường đại học nước ngoài có uy tín;
+               c. Các đối tượng sau có độ ưu tiên giảm dần theo thứ tự: (1) Giảng viên cơ hữu của
+                      ĐVQLMH, (2) Giảng viên làm công tác kiêm nhiệm đăng ký sinh hoạt chuyên môn
+                tại  ĐVQLMH, (3)  Giảng viên cơ hữu  khác  của trường, (4) Giảng viên thỉnh giảng
+                 (ngoài trường).
+         Điều 10. Quản lý giảng viên thỉnh giảng
+1. Giảng  viên  thỉnh  giảng  phải đáp ứng  các  tiêu  chuẩn  và  có  trách  nhiệm đối  với  việc
+         giảng dạy như giảng viên cơ hữu của Trường được quy định tại Điều 3 và Điều 4 của quy
+         định này.
+            2. Mỗi giảng viên thỉnh giảng phải có hồ sơ gồm:
+                 a. Lý lịch khoa học (được cấp trong vòng 3 tháng);
+                 b. Bản sao bằng cấp, chứng chỉ;
+                 c. Bản sao các giấy tờ khác chứng minh đủ tiêu chuẩn giảng dạy môn học.
+               3. ĐVQLMH có trách nhiệm kiểm tra, đảm bảo các yêu cầu về tiêu chuẩn giảng viên và
+         gửi hồ sơ của giảng viên thỉnh giảng về Phòng Đào tạo Đại học để lưu trữ, quản lý trước khi
+         giảng viên thỉnh giảng bắt đầu giảng dạy.
+            4. ĐVQLMH có trách nhiệm truyền đạt đến giảng viên thỉnh giảng các thông báo, thông
+         tin của nhà trường liên quan đến việc giảng dạy.
+            5. Phòng Đào tạo Đại học làm hợp đồng giảng dạy cho giảng viên thỉnh giảng.
+         Điều 11.  Các hành vi giảng viên giảng dạy môn học và trợ giảng môn học không được
+         làm
+            1. Xúc phạm danh dự, nhân phẩm, xâm phạm thân thể của người học;
+          2. Gian lận trong hoạt động đào tạo, nghiên cứu khoa học; Cố ý đánh giá sai kết quả học
+         tập, rèn luyện của người học;
+            3. Ép buộc người học học thêm.
+                                                       5/6
+---
+  4. Các hành vi vi phạm pháp luật khác.
+Điều 12. Tổ chức thực hiện
+  1. Các khoa, bộ môn và các đơn vị quản lý môn học khác có trách nhiệm xây dựng, rà soát
+và gửi hồ sơ giảng viên cho Phòng Đào tạo Đại học để đề nghị cập nhật quy hoạch giảng dạy
+(nếu có) trước mỗi học kỳ.
+  2. Các khoa, bộ môn và các ĐVQLMH khác có trách nhiệm phân công giảng dạy và mời
+giảng viên thỉnh giảng đúng quy định tại Điều 8 và Điều 9, tổ chức thực hiện chế độ Kiến tập
+giảng dạy tại Điều 6 của quy định này.
+  3. Phòng Đào tạo Đại học có trách nhiệm chủ trì và hỗ trợ các khoa, bộ môn triển khai
+thực hiện quy định này.
+  4. Phòng Kế hoạch‑Tài chính có trách nhiệm phối hợp, kiểm tra để thực hiện nghĩa vụ tài
+chính đối với những người tham gia giảng dạy và hỗ trợ giảng dạy.
+  5. Phòng Thanh tra Pháp chế  và Đảm bảo chất lượng có trách nhiệm thanh tra, giám sát
+việc thực hiện quy định này.
+                                                              KT. HIỆU TRƯỞNG
+                                                              PHÓ HIỆU TRƯỞNG
+                                                                                                            (Đã ký)
+
+                                                               Vũ Đức Lung
+                                              6/6

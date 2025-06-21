@@ -1,0 +1,127 @@
+Theo: https://support.office.com/vi-vn/article/c%C3%A1c-vai-tr%C3%B2-trong-cu%E1%BB%99c-
+h%E1%BB%8Dp-nh%C3%B3m-c16fa7d0-1666-4dde-8686-0a0bfe16e019
+ Vai trò trong một cuộc họp nhóm
+  Nhóm Microsoft
+  Nếu bạn đangtổ chức một cuộchọpvới nhiều người tham dự,bạn có thể muốn phâncôngvai trò cho từng
+ người tham gia để xác định ai có thể làm gì trong cuộchọp.
+ Có hai vai trò để lựa chọn: người trình bày và  tham dự . Người thuyết trình có thể làm bất cứ điều gì
+                                       người
+  cần làm trong một cuộchọp;trong khi vai trò của  tham dự được kiểm soát nhiều hơn.
+                                           người
+  Dướiđâylà các khảnăngcụ thể của từng vai trò:
+  Khảnăng                                          Người tổ     Người trình    Người tham
+                                                   chức         bày            dự
+   Nói và chia sẻ video
+   Tham gia trò chuyện trong cuộchọp
+   Chia sẻ nộidung
+   Xem riêngmột tệp PowerPoint được chia sẻ bởi người
+   khác
+   Kiểm soát bản trình bày PowerPoint của người khác
+   Tắttiếngnhững     tham gia khác
+                người
+   Xóangườitham gia
+   Kết nạpngườitừ sảnh
+   Thayđổi vai trò củanhững   tham gia khác
+                         người
+   Bắt đầu hoặc dừng ghi âm
+---
+ Thay đổiᵛᵃⁱtrò cuộc họp
+Trước một cuộchọp
+Bạn sẽ cần gửi lời mờihọptrước khi bạn có thể phâncôngvai trò
+Khi bạn đã hoàn thành việc đó,hãytruycập Lịch  nhấp vào cuộc họp bạn vừa tạo và chọnTùychọn
+cuộc họp
+Điều này sẽ đưa bạn đến một trang web, nơi bạn sẽ thấy một vài lựa chọn trong mục Ai có thể trình bày?
+ Ai có thể trình bày?  Chuyện gì xảy ra
+ Tất cả mọi người      Bất cứ ai có quyềntruycập vào liên kết cuộc họp sẽ tham gia cuộchọpvới tư cách
+                       làngười thuyết trình.
+ Những        trong    Chỉ những người trong org của bạn sẽ là người thuyết trình: Những người tham
+        người
+ tổ chức của tôi       gia bên ngoài sẽ tham gia với tư cách làngườitham dự.
+ Người cụ thể         Chỉnhữngngười bạn chọn từ danh sáchnhững     được mời mới có mặt. Mọi
+                                                              người
+                     ngườikhác sẽ tham gia với tư cách người tham dự.
+ Chỉ có tôi           Chỉ có người tổ chức sẽ là người dẫn chương trình. Tất cả những  tham gia
+                                                                             người
+                     khác sẽ tham gia với tư cách người tham dự.
+Một vài điều cần ghi nhớ:
+  Bạn sẽ cần gửi lời mời họp trực tiếp tới bất kỳ ai bạn muốn chọn làm  thuyết trình
+                                                             người
+  Bạn sẽkhôngthể chọn ai đó từ một     khác làm     dẫn chương trình.
+                                 người         người
+   Lưu ý: Khảnăngchọnngườỉthuyết trình cụ thể chưa khả dụng cho các cuộc họp kênh.
+---
+ Trong một cuộchọp
+ Có hai cách để thay đổi vai trò của ai đó trong khi cuộc họpđangdiễn ra:
+   Chuyển đến Lịch A nhấp vào cuộc họp và chọnTùychọn cuộc họp . Sửdụng menu thả xuống cho Ai
+ có thể trình bày? để chọn một thuyết trình mới.
+                          người
+    Lưu ý: Nếu cuộc họpđangdiễn ra, bất kỳ thay đổi nào bạn thực hiện trong tùy chọn Cuộc họp sẽ được áp
+    dụng cho tất cả các cuộchọp.
+ 2. Nhấp vào Hiển thị người tham gia trong các điều khiển cuộchọpđể xem danh sách những
+                                                                            người
+                                                                                 trong
+ cuộchọp.
+     Di chuột qua tên của người có vai trò bạn muốn thay đổi và nhấp vàoTùychọn khác  Từ đó, chọn
+  Make resenter hoặc Tạo một ttendee
+    Ghi chú:
+      Nếu cuộc họp đang diễn ra, việc phâncôngvai trò được thực hiện theo cách này sẽ chỉ áp dụng cho sự
+      diễn ra liên tục của cuộc họp. Đối với các lần xuất hiện trong tương lai,ngườitham gia sẽ giữ vai trò được
+      chỉ định cho họ trên trang Tùy chọn cuộc họp
+      Nếu ai đó rời khỏi cuộc họp và sau đó tham gia lại cuộc họp, họ sẽ tham gia lại với vai trò cuối cùng mà họ
+      được giao.
+                    ----------------------------------------------
+                               Các bước thực hiện cụ thể
+              Cấu hình mặc định chuyển sinh viên về quyền người tham dự.
+Bước 1: Lên lịch cuộc họp
+                         Bạn muốn thêm chủ đề?
+                                       HU
+                                      Họp ngay
+                           01 Bật   Tat   # Lên lịch cuộc họp
+---
+Bước 2: Đặt lịch dạy/họp
+       Thêm tiêu đề
+       Thêm người dự bắt buộc (Nên để trống)                                          Tùychọn
+       11-03-2020              23.00           11-03-2020               23.30       30 phút       Cả ngày
+       Không lặp lại
+       Thêm kênh   (Tìm Lớp cần đặt lịch dạy)
+       Thêm vị trí
+        B   I U & | 5  A          AA    Đoạn văn    Ix | < >5 = !| , @ =
+        Nhập chi tiết cho cuộc họp mới này
+Bước 3: Cấu hình lại cuộc họp. Sau khi hoàn thành bước 2, trở lại nhóm để cấu hình phân quyền
+cho người tham gia
+ HU   Hổ trợ UIT 15.20
+      Test
+              Test              năm 2020 @ 15.30
+              Thứ Tư; ngày 11 tháng
+3 trả lai từ ban
+      Cuộc họp đã bẳt đầu
+6 Trả lai
+ Bước 3: Tùy chọn cài đặt người trình bày
+                           Ban dà đặt trang tnái tnanhdung làm phiền. Bạn sẽ chỉ nhận được thông báo về những tin nhắn khẩn cãp và tin nhắn từ
+          Test   Trò chuyện  Chi tiẽt  Trợ lý Lập lịch biểu  Ghi chú cuộc họp Bảng trắng
+          Hủy bỏ cuộc họp  Múi    (UTC+07.00) Bangkok Hà Nội, Jakarta  Tùy_
+                              giở:                                     chon cuộc họp
+             Test
+             Thêm     dự bảt buộc
+                 người                                                                            Tùy chon
+             11-03-2020                15.30       11-03-2020             16.00       30 phút       Cả ngày
+Bước 4: Chỉ định người trình bày
+---
+     Tùy chọn cuộc họp
+     Ai có thể đi qua phòng đợi?                         Mọi ngưởi
+     Ai có thể trinh bày?                                Chỉ tôi
+                                                                               Lưu
+
+Khi sinh viên tham gia vào lớp học sẽ ở quyền người tham dự.
+Khi có nhu cầu nâng quyền cho SV chia sẻ màn hình hoặc các thao tác khác thì nâng lên quyền diễn giả
+                            Mọi người
+                             Mời người nào đó
+                            Diễn giả (1)
+                                  Đào Lộc Binh
+                                  Nguzi to chức
+                            Người dự (1)
+                             HU   Hỗ trợ UIT
+                                              Tắt tiếng người tham gia
+                                              Ghim
+                                              Xóangưởitham gia
+                                              Đặt làm diễn giả

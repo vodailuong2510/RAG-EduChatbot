@@ -1,0 +1,130 @@
+          ĐẠI HỌC QUỐC GIA TP. HCM
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+LT TH
+CSC21 Tin học Đại cương 5                                  4                        1 
+PHIL2 Triết học Mác-Lênin 5                                  5 
+MAT21 Toán cao cấp A1 4 4
+MAT23 Đại số Tuyến tính 4 4
+PHY01 Vật lý đại cương A1 3 3
+Anh văn 1
+Giáo dục thể chất 1
+Giáo dục Quốc phòng
+Tổng Học Kỳ 1             21                    20                        1 
+DSAL1 Cấu trúc dữ liệu & giải thuật               4                      3                        1 
+MLPE2 Kinh tế chính trị Mác-Lênin               5                      5 
+DBSS1 Cơ sở dữ liệu               4                      3                        1 
+CARC1 Kiến trúc máy tính               3                      3 
+OOPT1 Lập trình hướng đối tượng               4                      3                        1 
+MAT22 Toán cao cấp A2 4                      3                        1 
+Anh văn 2 Tính riêng
+Giáo dục thể chất 2 Tính riêng
+Tổng Học Kỳ 2             24                    20                        4 
+OSYS1 Hệ điều hành               4                      3                        1 
+WINP1 Lập trình trên Windows               4                      3                        1 
+PHY22 Vật lý đại cương A2 4 3                        1 
+MAT04 Cấu trúc  rời rạc 4 4
+CSKI1 Kỹ năng truyền thông và 
+làm việc nhóm               4                      4 
+CNET1 Mạng máy tính               4                      3                        1 
+Anh văn 3 Tính riêng
+Tổng Học Kỳ 3             24                    20                        4 
+NT110 Tín hiệu và mạch               3                      3 
+NT103 Hệ điều hành Linux               4                      3                        1 
+NT104 Lý thuyết Thông tin               3                      3 
+NT105 Truyền dữ liệu               4                      3                        1 
+SE103 Các phương pháp lập trình               3                      2                        1 
+Tổng Học Kỳ 4             17                    14                        3 
+I
+GIAI ĐOẠN 1
+Tên học phần
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ĐỘC LẬP-TỰ DO-HẠNH PHÚC
+KỸ SƯ NGÀNH MẠNG MÁY TÍNH VÀ TRUYỀN THÔNG 
+CHƯƠNG TRÌNH ĐÀO TẠO KHÓA 1
+LỚP MMT01 KHÓA HỌC 2006-2011
+Tính riêng
+Tính riêng
+GIAI ĐOẠN 2
+Tính riêng
+Chi tiết TCSỐ 
+TC 
+Học 
+kỳ Mã học phần
+III
+II
+IV
+NT102 Điện tử cho công nghệ thông tin               4                      3                        1 
+NT111 Thiết bị mạng và truyền thông 
+Đa phương tiện               4                      3                        1 
+NT107 Xử lý tín hiệu số               4                      3                        1 
+NT106 Lập trình mạng căn bản               3                      2                        1 
+NT108 Mạng truyền thông và di động               3                      3 
+Tổng Học Kỳ 5             18                    14                        4 
+NT101 An toàn Mạng máy tính               4                      3                        1 
+VCPL1 Đường lối cách mạng của 
+Đảng CSVN               3                      3 
+NT112 Công nghệ mạng Viễn thông               4                      3                        1 
+NT201 Phân tích và thiết kế Hệ thống               3                      3 
+NT109 Lập trình ứng dụng Mạng               3                      3 
+NT202 Đồ án môn học Lập trình ứng dụng  
+Mạng               2                        2 
+Tổng Học Kỳ 6             19                    15                        2 
+ITEM1 Nhập môn quản trị doanh nghiệp               2                      2 
+NT113 Thiết kế Mạng               3                      2                        1 
+Học phần chuyên ngành               3                      2                        1 
+Học phần chuyên ngành               3                      2                        1 
+Học phần tự chọn               3                      2                        1 
+SOCI1 Chủ nghĩa Xã hội Khoa học               3                      3 
+Tổng Học Kỳ 7             17                    28                        8 
+NT501 Thực tập doanh nghiệp               3                        3 
+SMET2 Phương pháp luận 
+sáng tạo KH-CN               2                      2 
+HCMT1 Tư tưởng Hồ Chí Minh               2                      2 
+Học phần chuyên ngành               3                      2                        1 
+Học phần tự chọn               3                      2                        1 
+NT203 Đồ án chuyên ngành               2                        2 
+Tổng Học Kỳ 8             15                      8                        7 
+Lựa chọn 1 Khóa luận tốt nghiệp             10 
+Môn tốt nghiệp 1               3                      2                        1 
+Môn tốt nghiệp 2               3                      2                        1 
+Đồ án tốt nghiệp               4                      4 
+Tổng Học Kỳ 9             10 
+   Tổng cộng 165    
+IX
+V
+VI
+VII
+VIII
+Lựa chọn 2
+LT TH
+NT301 Quản trị hệ thống mạng 3 2 1
+NT302
+Xây dựng chuẩn chính sách an toàn 
+thông tin trong doanh nghiệp 3 2 1
+NT303 Công nghệ thoại IP 3 2 1
+NT395
+Phát triển ứng dụng trên thiết bị di 
+động 3 2 1
+NT304
+Ứng dụng truyền thông và An ninh 
+Thông tin 3 2 1
+LT TH
+NT502 Thương mại Điện tử và Triển khai 
+ứng dụng 3 2 1
+NT507 Xây dựng ứng dụng Web 3 2 1
+NT503 Bảo mật Internet 3 2 1
+NT504 An toàn mạng máy tính nâng cao 3 2 1
+Tên học phần
+Chi tiết TC
+Các môn tự chọn/tốt nghiệp:  
+Hiệu trưởng 
+GS. TSKH. Hoàng Văn Kiếm
+TP Hồ Chí Minh, ngày     tháng     năm
+Mã học phần Chi tiết TC
+Tên học phần SỐ 
+TC 
+SỐ 
+TC 
+Mã học phần
+Các môn chuyên ngành: sinh viên được chọn 3 môn chuyên ngành và có thể 
+học 1 môn tự chọn trong các môn sau

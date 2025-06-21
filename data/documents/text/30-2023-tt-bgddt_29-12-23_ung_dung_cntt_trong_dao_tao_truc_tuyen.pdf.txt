@@ -1,0 +1,260 @@
+                                                            ĐẠI HỌC QUÓC GIA TP.HCM
+                                                                  CÔNG VĂN ĐẾN
+                                                            Số đến:   186
+   BỘGIÁO DUC VÀĐÀOTẠO                                      Ngày đến:  10/01/2024
+                                  CỘNG HOÀ XÃ HỘICHỦ NGHĨA VIỆT NAM
+                                       Độc lập Tự do Hanh phúc
+   Số:     12023/TT-BGDĐT          Hà Nội, ngày   tháng    năm 2023
+                              THÔNG TU'
+                Quy định về ứng dụngcôngnghệ thông tin
+             trong đào tạo trực tuyến đối với  dục đại học
+                                          giáo
+     Căn cứ Luật Giáo dục ngày 14tháng06 năm 2019;
+     Căn cứ Luật Giáo dục đại học ngày 18 tháng 06 năm 2012; Luật sửa đổi, bổ
+     sung một số điều của Luật Giáo dục đại học ngày 19tháng 11 năm 2018;
+            Căn cứ LuậtCôngnghệthôngtin ngày 29 tháng 06 năm 2006;
+          Căn cứ Nghị định số 86/2022/NĐ-CP ngày 24 tháng 10 năm 2022 của Chính
+      phủ quy định chứcnăng,nhiệm vụ;quyềnhạn và cơ cấu tổ chức của Bộ Giáo dục
+ và Đào tạo;
+            Căn cứ Nghị định số 127/2018/NĐ-CP ngày 21tháng9 năm 2018 của Chính
+    quy định trách nhiệm quản lý nhà nước về dục;
+phủ                                      giáo
+            Căn cứ Nghị định số 72/2013/NĐ-CP ngày 15tháng 7 năm 2013 của Chính
+     phủvêquảnlý, cung cấp; sửdungdịch vụ Internet vàthông tin trên mạng;
+             Căn cứ Nghị định số 64/2007/N-CP ngày 10tháng04 năm 2007 của Chính
+phủvềúng dung côngnghệthông tin trong hoatđộngcủa cơ quan nhà nước;
+     Theo đề nghị của Cục trưởng Cục Côngnghệthông tin;
+ côngBộ trưởng Bộ Giáo dục và Đào tạo ban hànhThôngtư quy định vềứngdụng
+     nghệ thông tin trong đào tạo trực đối với
+                                  tuyến       giáodục đại học.
+                               Chương I
+                          QUY ĐỊNH CHUNG
+     Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+        1  Thông tư này quy định về ứng dụngcôngnghệthôngtin trong đào tao trực
+       tuyếnbao gồm: nguyên tắc, nội dung,yêu cầu tối thiểu về ứng dụngcôngnghệ
+ thôngtin trong đào tạo trựctuyếnđối vớigiáodục đại học.
+     2 Thôngtư này áp dụng đối với các cơ sở         dục đại học; trường của cơ
+                                          giáo
+ quan nhà nước, tổ chức chính trị, tổ chức chính trị xã hội, lực lượng vũ trang
+  nhân dân được phép đào tạo các trình độ của giáo dục đại học; viện hàn lâm và
+      viện do ThủtướngChínhphủthành lập theo quy định của Luật Khoa học và công
+   nghệđược phép đào tạo trình độ tiến sĩ; cơ sởgiáodục đại học nước ngoài thực
+ hiện các chương trình liên kết đào tạo các trình độ củagiáodục đại học(sau đây
+ gọichunglà các cơ sở đào tạo); các tổ chức và cá nhân có liên quan.
+---
+       Điều 2. Giải thích từ ngữ
+       Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
+            1. Đào tao trựctuyếnlà hoạt động đào tạo (gồm hoạtđộng dạy ,hướng dẫn,
+       học tập, đánh giá) được tổ chức trên môi trường sốthôngqua hệ thống dào tạo
+  trựctuyến.                   đồng bộ là hoạt động dào tạo trực tuyến; ở đó người
+      2. Đào tạo trựctuyến                                           một thời điểm
+  dạy vàngười học cùng tham gia các hoạt động đào tạo tại cùng
+  (thời gian thực) trên cùng một không gian học tập.
+        3. Đào tao trực  khôngđồng            độngđào tạo trực tuyến,
+                     tuyến           bộ là hoạt                                 đó
+         ngườihọc có thể chủđộngtham gia các hoạt động đào tạo trựctuyếntrên cơ sở
+  kế hoạch dạyhọc củangườidạy .
+           thốngđào tạo trực tuyến là hệ thống gồm các           mềm, hệ thống học
+        4. Hệ                                      phần
+  liệu và hạtầngcông nghệthôngtin cho phép    lý và tổ chức đào tạothông
+  môi trường Internet.                   quản                                  qua
+        5. Học liệu đào tao trực  là tập hợp các tài liệu và tài nguyên được thiết
+  kế dể hỗ trợ             tuyến                  nghiên cứu trong môi trường trực
+             quátrình học tập, giảng dạy và
+tuyếnnhư: Giáo trình, bài giảng trực tuyến; hình ảnh và biểu đỗ, tài liệu điện tử,
+  tài liệu tham khảo,  mếm và ứng dụng học tập, tài liệu hướng dẫn;            mềm
+                  phần  bài kiểm tra đánh giá.                 phần
+  mô phỏng, thí nghiệm ả0,
+                 Điều 3. Nguyên tắc, yêu cầu chung về ứng dụng công nghệ thông tin
+  trong đào tao trựctuyến
+         1 . Pháthuytính chủ động, tự chiu trách nhiệm và trách nhiệmgiảitrình của
+  cơ sở đào tao trong đào tao trựctuyến:
+       2. Đào tạo trực tuyến phải bảo đảm chất Iượng theo yêu cầu của chương trình
+      dào tạo đã được ban hành; quy trình, nộidung và chất lượng đào tạo trựctuyến
+ phải liên tục được cải thiện; luôn cập nhật công nghệ tiêntiến,phù hợpnhất để
+ triển khai đào tạo trực tuyến.
+           3 . Bảo đảmcông bằngtrong tiếp cận, tham gia các hoạt động đào tạo trực
+ tuyến, lấy lợi ích củangườihọc làm trung tâm.
+         4. Cơ sở đào tao có thể tự đầu tư hoặc thuê dịch vụ công nghệthôngtin đối
+   với hạtầng kỹ thuật bảo đảm cho tổ chức triển khai đào tạo trực tuyến; tuân thủ
+      các quy định bảo đảm an toànthông tin, an toànthông tin cá nhân; an ninhmạng
+  và sở hữu trí tuệ theo các quy định của pháp luật.
+            5 Bảo đảm đáp ứng đầy đủ các yêu cầu tối thiểu theo quy định của Thông
+  tư này .
+      Điều 4. Nội dung đào tạo trựctuyến
+      Giám đốc, Hiệu trưởng cơ sở đào tạoquyếtđịnh môn học, họcphầntrong
+     các chương trình đào tao của đơn vị thực hiện đào tao trựctuyếntrên cơ sở các
+     quy định của Quy chế đào tao các trình độ do Bộ trưởng Bộ Giáo dục và Đào tạo
+---
+                                  3
+                                ban hành. Nộidungđào tao trựctuyếncó khốilượng,nộidung và cấu trúc kiến
+ thức tương đương với các họcphầnthuộc chương trình đào tạo.
+                                                               Chương II
+                                           YÊU CẦU TỐI THIỂU VỀ ỨNG DỤNG CÔNG NGHỆ THÔNG TIN
+                                                        TRONG ĐÀO TẠO TRỰC TUYẾN
+     Điều 5. Hệ thống     mềm đào tạo trực
+                     phần                 tuyến
+       1. Cơ sở đào tạo sử dụngriênghoặc kết hợp sửdunggiữa cácphầnmềm quy
+định tại Khoản 2, Khoản 3, Khoản 4, Khoản 5 của Điều này.
+     2. Phần mềm tổ chức đào tạo trực  đồng bộ có chức năng tối thiểu sau:
+                                 tuyến                đồng
+     9 Giúpngườidạytổ chức các hoạtdộngđào tạo trực tuyến  bộ; hướng
+dẫn, giao nhiệm vụ học tậpđồng thời cho tẩt cảngườihọc tham dựtrongcùng
+   mộtkhônggian học tậpthông qua kênh hình, kênhtiếng,kênh chữ, chuyển tải
+học liệu dào tao đến ngườihọc.
+     b) Giúp                    học tham gia các hoạt động đào tạo trực tuyến;tương
+đổi thông  người                     dạy và những                tác, trao
+         tin theo thời gian thực vớingười              ngườihọc khác trong
+cùng một không gian học tập.
+       3. Phần mềm tổ chức đào tạo trực tuyến không đồng bộ có chứcnăngtối
+thiểu sau:
+          a) Giúpngườidạy lên kế hoạch đào tạo trựctuyếnkhôngđồngbộ,chuyển
+tải học liệu tới người học, giao nhiệm vụ học tập và kiểm tra, đánh giá kết quả học
+tập của người học; theo dõivàhỗ trợngườihọc khai thác nội dunghọc tập; tư
+vấn; hỗ trợ, trả lời câu hỏi vàgiảiđáp thẳc mắc củangườihọc.
+   b) Cho phépngườihọc truy cập, khai thác nội dung học tập; thực hiện các
+hoạt động học tập và kiểm tra,đánh giá theo yêu cầu của ngườidạy; đặt câu hỏi
+và trả lời câu hỏi đối với ngườidạy và cácngười học khác trongcùngkhông gian
+ học tập-
+     Cho phép cơ sở đào taoquảnlý hồ sơ, tiến trình học tập; kếtquảhọc tập
+củangười học và các hoạt động dạy củangườidạy;ghi nhận một cách trung thực,
+chính xác  trình học tập củatừng    học;hỗ trợ         lý cácthôngtin khác
+         quá                   người         quản
+theo yêu cầu cơ sở đào tạo và cơ quanquảnlýgiáodục.
+                                4 Phần mềmquảnlý nội dung học tập trựctuyếnbao gồm các chức năng
+    phầnmềm tổ chức đào tạo trực    không,đồng
+như                           tuyến           bộ (quy định tại Khoản 3
+Điều này) và chức năng cho phépngườidạy thiết kế nội dung học tập, học liệu
+dào tao trựctuyến.
+       5. Phần mềm đào tạo trực tuyến mở đại chúng (MOOC) bao gồm các chức
+năng như hệ thống phần mềm tổ chức dào tạo trực_     khôngđồngbộ (theo quy
+dịnh tại Khoản 3 Điều này) và chứcnăng    tuyến
+                                       cung cấp đadạng về nội dung và hình
+thức tổ chức khóa học trực tuyến; được áp dụng đào tạo trựctuyếntrên quy mô
+lớn về người học, ngườidạy, cơ sở đào tao.
+---
+           Điều 6. Học liệu đào tao trực
+                                      tuyến
+       1. Nội dungcủa học liệu đào tao trực tuyến phải đáp ứng các yêu cầu của
+      chương trình đào tạo; có tính sư phạm; dễdùng,đápứng được nhu cầu tự học của
+      người học .
+      2. Có giải pháp đánh giá, kiểm soát để thường xuyên cập nhậtnâng caochất
+      Iượng của học liệu.
+       3. Học liệu đào tao trực tuyến phảiđược tổ chức thẩm định trước khi đưa
+            dụng: Cơ sở đào tạo có thể tự xây dựng hoặchợp
+       vào sử                                        tác với các cơ sở đào tạo
+      trong phát triển, chia sẻ sử dụng học liệu và các khoáhọctrựctuyến.
+           Điều 7. Nhân Iực triển khai đào tạo trựctuyến
+           1. Nhân lực triển khai đào tao trựctuyếngồm:người dạy,đội ngũquảntri,
+vận hành hệthống;đội ngũ thiết kế và sản xuất học liệu; đội ngũ cố vấn và giáo
+       Vụ.
+           2. Ngườidạyphải có kỹ năng đào tao trực tuyến như:quảnlý, định hướng,
+      hướng dẫn và giải đáp người học qua phương, thức đào tạo trực tuyến; sử dụng
+      thành thạo hệthống quảnlý học tập trựctuyến và các phương tiệncông nghệ
+       thôngtin phục vụ đào tao trực
+                                 tuyến.
+           3. Đội ngũ                  thống đào tạo trực     phải am hiểu các
+         thống       quảntrị, vận hành hệ               tuyến
+      hệ    ứng dụngcôngnghệ thông tin liên quan đến dào tạo trực tuyến của cơ
+      sở đào tạo; được hướng dẫn, chuyển giao công nghệ đểquảntrị, vận hành hệ
+      thốngcôngnghệthôngtin đảm bảo hoạt động ổn định, an toàn.
+ 4. Đội ngũ thiết kế và sản xuất học liệu phải am hiểu quy trình thiết kế, quy
+      trình sản xuất học liệu; sử dụng thành thạo cáccông cụ để tổ chức thiết kế, xây
+      dựng học liệu phục vụ đào tạo trực
+                                     tuyến.
+           5. Đội ngũ làm cố vấn và giáo vụ học tập phải am hiểu các hoạt động của
+       đào tao trựctuyến; thực hiện hướng dẫnngườihọc biết cách tham gia và sử dụng
+      các ứng dụngcôngnghệ thông tin trước khi tổ chức các khóa dào tạo trực tuyến,
+      theo dõi quản lýquátrình học tập của người học.
+           Điều 8. Hạtầngvà an toànthôngtin đối với hệ thống đào tạo trực tuyến
+           1. Hạtầngcủa hệ thống đào tạo tryc  phải đáp ứng các nhu cầu về quản
+                                          tuyến
+      lý, khai thác sử dụng cho các hoạtđộngđào tạo trực tuyến; bảo đảm đủ băng
+      thông, đủnănglực máy chủ; đáp ứng các điều kiện về an toànthôngtin theo quy
+      dịnh.
+           2  Cơ sở đào tạophảitriển khaigiảipháp bảo đảm các quy định về an toàn
+      thôngtin mạng, sở hữu dữ liệu; khai thác, sử dụng dữ liệu và bảo vệ thông tin cá
+      nhân trong đào tao trựctuyến.
+          Điều 9. Bảo đảm truy cập của ngườidùng
+        Người học,ngườidạyphải được đảm bảo về thiết bị học trực tuyến; kết nối
+      Internet để tham gia các hoạt động dào tạo trực
+                                               tuyến.
+---
+                                        5
+         Điều 10. Bảo đảm chất Iượng đào tạo trực tuyến
+       Cơ sở đào tạo chịu trách nhiệm về chấtlượngvà thực hiện các giải pháp bảo
+    dảm chất lượng đào tạo trực tuyến:
+        1. Có quy định để bảo đảm chất Iượng dào tạo trực tuyến theo yêu cầu của
+ chương trình dào tạo và kiểm định chất Iượng chương trình đào tạo theo quy định
+    hiện hành của Bộ trưởng Bộ Giáo dục và Đào tạo.
+          2. Nội dung khóa học được thiết kế và cập nhật thường xuyên để bảo đảm
+    bảo phù hợp với nhu cầu củangườihọc .
+      3 . Cógiảipháp hỗtrợvà trả lời yêu cầu của người học, người dạy; có cơ chế
+  tiếp nhận và giải đáp ý kiến từ người học; ngườidạy và các tổ chức, cá nhân có
+    liên quan để dolườngsự hài lòngcủangười sử dụng.
+         Điều 11. Quy chế tổ chức đào tạo trực
+                                             tuyến
+        Giám đốc, Hiệu trưởng cơ sở đào tạo tổ chức xây dựng và ban hành quy chế
+    tổ chức đào tạo trực  nhằm tổ chức; quản lý đào tạo trực tuyến có chất lượng
+                      tuyến
+    và hiệu quả, trong đó có các quy định về:
+      1 . Nội dung đào tạo trực tuyến; phương thức tổ chứcdạyhọc, thi, kiểm tra,
+    dánh giá kếtquảđào tao.                      các hệ thốngcông nghệ thông tin
+         2. Quản lý, vận hành, khai thác sửdụng
+    trong đào tạo trựctuyến:
+                  3 Nănglực chuyên môn, kỹnănggiảngdạyvà kỹnăngcông nghệthôngtin
+    cho đội ngũ nhân Iực triển khai đào tạo trực tuyến.
+    4. Sở hữu trí tuệ của học liệu, sở hữu dữ liệu; bảo vệ dữ liệu vàthôngtin cá
+    nhân, xác thực danh tính, mã hóa dữ liệu và quản lý  truycập.
+           Công                    thống           quyền
+         5 .thống nhận tín chỉ trên hệ   đào tạo trực tuyến của cơ sở đào tạo và
+    các hệ      đào tao trựctuyếnkhác .
+      lòng 6 Tiếp nhận, phản hồi ý kiến củangườihọc, ngườidạy và đánh giá sự hài
+         của ngườidùngtrongquátrình đào tạo trực tuyến:
+        7. Quy trình lưu trữ hồ sơ,giám sát, kiểm tra đảm bảo chất Iượng dào tạo
+    trực tuyến; quy trình cải thiện nâng cao chấtlượngdào tạo trực tuyến.
+         8. Các quy định có liên quan khác .
+                                   Chương III
+             TỔ CHỨC THỰC HIỆN VÀ ĐIỀU KHOẢN THI HÀNH
+         Điều 12. Trách nhiệm của Giám đốc, Hiệu trưởng các cơ sở đào tạo
+       1. Chịu trách nhiệm tổ chức triển khai hoạt động ứng dụng công nghệ thông
+tin trong đào tạo trực tuyến theo quy định tại Thông tư này và quy định của pháp
+    luật có liên quan.
+---
+          2. Quyết dịnh áp dụng phương thức đào tạo trực tuyến; xác định mụctiêu,
+     yêu cầu cần đạt của nội dung đào tạo trựctuyếnđể bảo dảm chất lượng dào tạo;
+        chịu trách nhiệm về chương trình, nội dung,chất Iượng đào tạo trựctuyến
+             3. Tạo điều kiện để ngườidạy, đội ngũquảntrị hệ thống, đội ngũ hỗ trợ
+        kỹ thuật; đội ngũ cố vấn học tập; đội ngũ thiết kế và sản xuất học liệu được tham
+        gia các lớp bồi dưỡng nghiệp vụ chuyên môn đáp ứng yêu cầu củacôngviệc được
+        giao.
+             4. Tổ chức đánhgiáhiệuquảviệc ứng dụng công nghệ thông tin trong đào
+        tạo trực tuyếnthôngqua kênhphảnhồi củangườihọc,ngườidạy ,cán bộ hỗ trợ
+        dể có các biện pháp diều chỉnh phù hợp; thực hiện chế dộ báo cáo theo yêu cầu
+        của Bộ Giáo dục và Đào tạo
+             5. Ban hành quy chế tổ chức dào tạo trựctuyến.
+            Điều 13. Hiệu lực thi hành
+             1 .Thông tư này có hiệu lực kể từ ngày tháng   năm 2024.
+                   2Thông tư nàythaythếThôngtư số 12/2016/TT-BGDĐT ngày 22tháng 4
+        năm 2016 quy định ứng dụngcôngnghệ thông tin trong    lý, tổ chức đào tạo
+                                                           quản
+        qua mạng.
+            Điều 14. Trách nhiệm thi hành
+               Chánh Văn phòng, Cục trưởng CụcCôngnghệthông tin,Thủ trưởng đơn vị
+        có liên quan thuộc Bộ Giáo dục và Đào tạo; Giám dốc, Hiệu trưởng các cơ sở đào
+        tạo có triển khai hoạt động đào tạo trựctuyếnchịu trách nhiệm thi hành Thông tu
+        này./ .
+         Nơi nhận:                                       KT. BỘ TRƯỞNG
+          Văn phòng Chính phủ;                             THỨ TRƯỞNG
+          Văn phòng Quốc hội;
+          Uỷ ban VHGD của Quốc hội;
+          Ban TuyêngiáoTrung ưong;                       Jeu
+          Các Bộ; cơ quan ngang Bộ;
+          Cục Kiểm tra văn bản QPPL (Bộ Tư pháp);
+          Kiểm toán Nhà nước;
+          Côngbáo;                                     Hoàng Minh Sơn
+          Website Chính phủ;
+          Website Bộ Giáo dục và Đào tao;
+          Như Điều 14 (để thực hiện);
+          Lưu: VT, Vụ PC, Cuc CNTT.
+Dyc

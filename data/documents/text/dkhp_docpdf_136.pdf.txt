@@ -1,0 +1,270 @@
+ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH
+  TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+        9
+              HƯỚNG DẪN
+    ĐĂNG KÝ HỌC PHẦN – PHIÊN BẢN MỚI
+           Tp. Hồ Chí Minh, 08/2023
+---
+                           MỤC LỤC
+1.   Đăng nhập ................................................................................................. 3
+2.   Xác nhận Lớp được hỗ trợ đăng ký từ Phòng ĐTĐH/CTĐB .............. 4
+3.   Đăng ký học phần ..................................................................................... 5
+4.   Xóa đăng ký học phần.............................................................................. 8
+---
+                                         NỘI DUNG
+1. Đăng nhập
+    -   Truy cập vào trang https://dkhp.uit.edu.vn
+    -   Dùng tài khoản chứng thực để đăng nhập
+                                          UIT ĐKHP
+                    Đăng nhập vào hệ thống
+                     Mã sinh viên
+                         88888
+                     Mật khẩu
+                     Quên mật khẩu?                             Đăng nhập
+    -   Sau khi đăng nhập xong, màn hình xuất hiện như sau:
+        Uit ĐKHP  Dashboard  Đăng kỷ Học phẩn  Danh sảch Lởp Đa Đăng kỷ  Xảc nhân Đăng kỷ Học phắn   Nguyễn Văn A
+                                     HỆ THỔNG THỬ NGHIỆM TRANG ĐĂNG KÝ HỌC PHẨNTRƯỜNG ĐẠI HỌC
+                                     CỒNG NGHỆ THÔNG TIN
+                                                                          HƯỚNG DẴN ĐĂNG KÝ HỌC PHẮN:  Thông tin cá nhân
+                                       Nhẩn vào trinh đơn Đăng ký Hoc phẩn
+                                       Chon các Iớp cân đăng kỷ
+                                       Nhẩn vào nút Đăng
+                                       Chở hệ thong xử lỳ và hoàn thành xửlỷ                     dang
+                                       Sau khi có kêt quả xử lý, sinh vỉên kỉêm tra và thfc hỉện chon  kỷ tiepquay lai bưởc
+                                           HƯỚNG DẪN XÁC NHẬN CÁC LỚP ĐÃ ĐƯỢC HỖ TRỢ ĐĂNG KÝ:
+                                       Nhấn vào trỉnh đơn Xác nhân Đăng ký Hocphan
+                                       Kỉểm tra thông tin danh sách Iớp đẳ được hỗ trợ đăng ký
+                                       Nhấn vào nút Đổng để xác nhận Đổng vởi danh sách; hoặc Khôngđổng để không tỉểp
+                                       nhân danh sách đà đăng kỷ
+                                       Khi hêt thờigianxác nhân, những sinh viên đả xác nhân sẽ đươc giữ lai và tiển hanh đăng ký
+                                       thêm hoăc xóa đăng kỷ hocphanđể chon lớp khác. Các sinh viên khỏng thưc hiên hoẳc
+                                       khôngđổng thì hệthổng sẽ xóa những Iớp đã được hỗ trợ đẳng ký và vẩn tỉển hảnh tham
+                                       gia đăng kỷ mởi bỈnh thường.
+---
+2. Xác nhận Lớp được hỗ trợ đăng ký từ Phòng ĐTĐH/CTĐB
+   o   Bước 1: Vào menu Xác nhận Đăng ký Học Phần
+   o   Bước 2: Kiểm tra kỹ danh sách đăng ký
+   o   Bước 3: Nhấn button Đồng ý nếu muốn xác nhận, không làm gì nếu không muốn xác nhận.
+       Sau thời gian xác nhận, sinh viên nào đã xác nhận đồng ý sẽ giữ  lại ĐKHP, sinh viên không
+       thực hiện sẽ bị xóa đăng ký học phần. Sinh viên dù đồng ý hay không vẫn có thể tiến hành
+       Đăng ký học phần bình thường.
+UIt ĐKHP  Dashboard  Đăng kỷ Học phẩn  Danh sách Lởp Đã Đăng kỷ  Xác nhận Đăng ký Học phẩn
+              Xác Nhận Lớp Đã đăng ký                                                                              Thờỉ gian Xác nhậnĐăngký họcphẩn đã kết thúc!
+               Mã Lop       Mã MHI Tên MH                     Thởi Gian hoc                                        So tin chi             ĐĐKISS
+               CS116.011    CS116                             Thứ 5, Tiết 123, Giảng viên: Nguyễn Vinh Tiệp, Cách  tuẩn_từ 11/09/2023 đển  7/70
+                            Lập trinh Python cho May hoc      30/12/2023
+               CS116.011.1  CS116                             Thứ Tiết  Giảngviên: Nguyễn Vỉnh Tiệp, Cách   tuẩn, từ 11/09/2023 đển        7/70
+                            Lập trinh Python cho Máy hoc      30/12/2023
+               CS221,011    CS221                             Thứ 6, Tiết 678, Giảng viên: Nguyễn ThịQuỷ ,Cách tuẩn, từ 11/09/2023 dên     6/70
+                            Xử lỷ ngôn ngữ tự nhiên           30/12/2023
+               CS221.011.1  CS221                             Thử Tiết  Giảng viên: Nguyễn Thị Quý, Cách tuẩn từ 11/09/2023 đến            6/70
+                            Xử lỷ ngôn ngữ tự nhiên           30/12/2023
+               CS431.011    CS431                             Thứ Tiểt 123, Giảng viên: Nguyễn Vinh Tiệp, Cách     tuẩn, từ 11/09/2023 đển 3/70
+                            Các kĩ thuât hoc sâu và ửng dung  25/11/2023
+               CS431,011,1  CS431                             Thứ Tỉết  Gỉàng viên: Nguyễn Vinh Tỉệp, Cách  tuẩn, từ 11/09/2023 đến        3/70
+                            Các kĩ thuật học sâu và ửngdung   25/11/2023
+               5E357.012    SE357                             Thử 3 Tiết 1234, Giảng viên: Nguyễn Công Hoan, Cách 2 tuẩn; từ 18/09/2023    1/70
+                            Kỹ thuật phán tỈch yêu cau        đên 06/01/2024
+               SE357.012.1  SE357                             Thứ Tiết  Giảng viên: Nguyễn Công Hoan, Quan Chí Khánh An, Cách tuẩn,        1/70
+                            Kỹ thuât phản tich yêu cau        18/09/2023 dến 30/12/2023
+---
+3. Đăng ký học phần
+Các bước đăng ký học phần:
+      o     Bước 1: Chuyển sang menu Đăng ký Học phần.
+              UIT ĐKHP     Dashboard   Đăng ký Học phần  Danh sách Lớp Đã Đăng ký  Xác nhận Đăng ký Học phần
+                   Nhap vào Mã mổn học hoặc mẫ Iớp để tìm kỉếm, nhiều Iởp cach nhau dấu phẩy, khoang tráng, xuống dòng hoặc dấu chấm phẩy ( ; Inlr)
+                           Mã lớp                     Môn học                 SoTC                             Thời gian học                               Đã ĐKISĩ
+                                                                                                                                                              sỗ
+                      BUS1125.011     BUS1125 Khởi nghỉệp kinh doanh                 Thứ 5, Tiết 1234, Giảng viên: None, Cách  tuần; từ 11/09/2023 đến        0/100
+                                                                                     30/12/2023
+                      CE121.011       CE121 Lý thuyết mạch điện                      Thứ 4, Tiet 6789, Giảng viên: None, Cách  tuan, từ 11/09/2023 đẽn        1/60
+                                                                                     02/12/2023
+                      CE121.011.1     CE121  Lý thuyết mạch diện                     Thử 4, Tiết 12345, Giảng viên: None, Cách 2 tuần, từ 25/09/2023 đến      1/30
+                                                                                     09/12/2023
+                      CE121.011.2     CE121  Lý thuyết mạch điện                     Thứ 4, Tiet 12345, Giảng viên: None, Cách 2 tuan, tử 02/10/2023 dẽn      0/30
+                                                                                     30/12/2023
+                      CE408.011       CE408  Đồ án chuyên ngành Thiết kế vi mạch và  Thứ  Tiết * Giảng viên: None, Cách tuàn, từ 11/09/2023 đến 30/12/2023    0/100
+                                      phần cứng
+                      CE412.011       CE412  Đồ án chuyên ngành Hệ thõng nhúng và    Thử  Tiết * Giảng viên: None, Cách tuan, từ 11/09/2023 dến 30/12/2023    0/100
+                                      Iot
+                      CS106.011       CS106     Trí tuệ nhân tạo                     Thứ 6, Tiết 678, Giáng viên: Lương Ngọc Hoàng, Cách tuan, từ 11/09/2023  0/50
+                                                                                     dến 30/12/2023
+                      CS106.011.1     CS106     Trí tuệ nhân tao                     Thứ  Tiết Giảng viên: Lương Ngọc Hoàng, Cách tuần, từ 11/09/2023 đến     0/50
+                                                                                     30/12/2023
+                                                                     Vui lòng chọn ít nhẩt 1 dòng để đăng ký
+                                 Hình 1: Giao diện chính khi đăng ký học phần
+      o     Bước 2: Tìm kiếm danh sách mã lớp cần đăng ký bằng thanh tìm kiếm.
+              UIT ĐKHP     Dashboard   Đăng ký Học phần  Danh sách Lớp Đã Đăng ký  Xác nhận Đăng ký Học phần
+                   ITOO5.013; IT007.011  Nhạp mà lớp vào 0 tim kiêm & dây
+                         Mã lớp              Môn học            SôTC                              Thờỉ gian học                            Đã ĐKISĩ sõ
+                      1To5.013     IToo5     Nhập môn mạng máy tính   Thứ 4, Tiết 678, Giảng viên: None, Cách tuần, từ 11/09/2023 đến 30/12/2023           9/64
+                      1T005.013.1  IToo5     Nhập môn mạng mảy tinh   Thử 4 Tiết 12345Giangviên: None, Cách 2 tuần, từ 25/09/2023 đẽn 09/12/2023           3/32
+                      1T0o5.013.2  Itoo5     Nhập môn mạng máy tính   Thứ 4, Tiẽt 12345, Giảng viên: None, Cách 2 tuần, từ 02/10/2023 đẽn 30/12/2023       6/32
+                      1TOo7.011    IToo7  Hệ điều hành                Thứ 2, Tiết 123, Giảng viên: None; Cách tuần, từ 11/09/2023 đến 30/12/2023           7/60
+                      1T0o7.011.1  Itoo7  Hệ điều hành                Thứ 2, Tiết 67890,Giảngviên: None, Cách 2 tuần, từ 25/09/2023 đến 09/12/2023         5/30
+                      1TOo7.011.2  IToo7  Hệ điều hành                Thứ 2, Tiết 67890, Giảng viên: None, Cách 2 tuần, từ 02/10/2023 đến 30/12/2023       2/30
+                                          Hình 2: Hướng dẫn tìm kiếm mã                                        lớp
+      o     Bước 3: Chọn các lớp cần đăng ký.
+              UIT ĐKHP     Dashboard   Đfngký Học phần  Danh sảch Lởp ĐãĐfngký  Xác nhận Đăng kỷ Học phần
+                   1TOo5.013; IT007.011
+                         Mã lớp              Môn học            SôTC                              Thờỉ gian học                                            Đã ĐKISĩ sỗ
+              1       1TOo5.013    IToo5     Nhập môn mạng máy tinh   Thứ 4, Tiết 678, Giảng viên: None, Cách  tuần, từ 11/09/2023 đến 30/12/2023          9/64
+              8       1TOo5.013.1  IToo5     Nhập môn mạng mảy tinh   Thứ 4, Tiẽt 12345, Giàng viên: None, Cách 2 tuần, từ 25/09/2023 đến 09/12/2023       3/32
+              8       1t0o5.013.2  IToo5     Nhập môn mạng máy tính   Thứ 4, Tiết 12345, Giảng viên: None, Cách 2 tuần, từ 02/10/2023 đến 30/12/2023       6/32
+              :       ITOo7.011    ITOo7  Hệ điều hành                Thứ 2, Tiẽt 123, Giáng viên: None, Cách  tuần, từ 11/09/2023 đến 30/12/2023          7/60
+              ẵ       1TOo7.011.1  IToo7  Hệ đieu hành                Thứ 2, Tiết 67890, Giảng viên: None, Cách 2 tuần, từ 25/09/2023 đến 09/12/2023       5/30
+                      IT007.011.2  IToo7  Hệ điều hành                Thứ 2, Tiết 67890, Giảng viên: None, Cách 2 tuần, từ 02/10/2023 đến 30/12/2023       2/30
+                                              Hình 3: Hướ ng dẫn chọn mã                            lớp
+---
+o  Bước 4: Bấm nút đăng ký sau khi xem xong danh sách các lớp đã chọn ở
+   ngay bên dưới.
+    UIt ĐKHP  Dashboard  Đăng ký Học phần  Danh sách Lớp Đã Đăng ký  Xác nhận Đăng ký Học phần
+       IT005.013; IT007.011
+          Mã lớp              Môn học  SôTC           Thời gian học   Đã ĐKISĩ sỗ
+         1T005.013    IToo5   Nhập môn mạng máy tính  Thứ 4, Tiết 678, Giảng viên: None, Cách tuần; từ 11/09/2023 đến 30/12/2023      9/64
+         1T0o5.013.1  IToo5   Nhập môn mạng mảy tính  Thứ 4, Tiết 12345, Giảng viên: None, Cách 2 tuan, từ 25/09/2023 đẽn 09/12/2023  3/32
+         1t0o5.013.2  IToo5   Nhập môn mạng máy tính  Thứ 4, Tiết 12345, Giảng viên: None; Cách 2 tuần, từ 02/10/2023 đến 30/12/2023  6/32
+         ITOO7.011    ITOo7  Hệ điều hành             Thứ 2, Tiết 123, Giảng viên: None, Cách tuan, tử 11/09/2023 den 30/12/2023      7/60
+         1TOO7.011.1  IToo7  Hệ điều hành             Thứ 2, Tiết 67890, Giảng viên: None, Cách 2 tuần,  25/09/2023 đến 09/12/2023    5/30
+         ITOo7.011.2  IToo7  Hệ dieu hành             Thứ 2, Tiết 67890, Giảng viên: None, Cách 2 tuan, từ 02/10/2023 đến 30/12/2023  2/30
+                               Danh sach lớp đà chon s- hỉẻn thl ở dảy
+                               ITOo5.013  IT0o5.013.1  IT0O7.011  1TO07.011,1  Nút dảng ký ở đây  Đăng ký 4 Iớp
+                      Hình 4: Hướng dẫn đăng ký       các lớp đã chọn
+o  Bước 5: Gồm 2 bước nhỏ
+   - Nếu các lớp chọn không vấn đề gì, hệ thống sẽ tiến hành ghi nhận.
+   - Nếu có vấn đề            lỗi thì sẽ thông báo lỗi như sau....
+    Thôngbáo lỗi
+    Mã môn học ITOO5 xuãt hiện hơn 2 lần, Mỗi môn học chỉ được chọn 1 nếu
+    không có lớp thực hành, và 2 nếu cả lớp THvà LT
+              Hình 5: Hiển thị thông báo lỗi khi đăng ký lớp
+   - Nếu ghi nhận thành công sẽ thông báo như sau:/... và chờ kết quả xử lý...
+        Thông báo
+         Thôngtin đăng ký ĐÃ ĐƯỢC hệ thống ghi nhận, vui lòng chờ kết quả xử lý
+      Hình 6: Hiển thị đăng ký thành công và được hệ  thống ghi nh ận
+---
+o     Bước 6: Kiểm tra kết quả đăng ký học phần trả về.
+                                              KẾT QUẢ ĐĂNG KÝ
+                 1Lớp Thànhcông                                                                  công
+          ITO07.011.1, IT007.011: Đăng ký thành
+                 1 Lớp bị lỗi
+          1T0o5.013.1 Trùng lịch học với 1E103.011. (Thứ 4, Tiết 1,
+           2, 3, 4)
+                           Hình 7: Kết quả              trả    về khi đăng ký học phần
+o     Bước 7: Hoàn tất đăng ký học phần:
+        UIT ĐKHP    Dashboard  Đáng ký Hoc phan  Danh sách Lớp Đà Đáng ký            Xác nhậnĐangký Hpc phần
+           Danh Sách Lớp học Đã Đăng ký
+                  Kalop               Ma MHI Ten MH                             Thoi Gian hoc                                     60tin chi  Bk ss
+                  1E103.011           IE103                                     Thử 4  Tiet 1234 Ciáng vien: Nguyễn Cia Tuan Anh, Cach (uan; từ         5/100
+                                      Quan theng tin                            11/c9/2023 den 02/12/2023
+                  1E103,011,1         1e1o3                                     Thử  Tiet 67890 Giangviên: Tran Quoc Khanh, Cach  tuan,tu                5/50
+                                      Quan lỷ tncng tin                         25/09/2023 den 02/12/2023
+                  1E104.012           1E104                                     Thử 3 Tiêt 2345, Giang viên: Võ Tan KhoaCich    tuân, ti 11/09/2025 dên 7/100
+                                      oternat' Công nghe Wet                    02/12/2023
+                  1E704.012.1         1E104  Côrg nghe Wet                      Th. 3 Tiet 67890, Giang viên: Tâ Quoc Huy, Cách   tuan, tif 25/09/2022   7/50
+                                      Irterualva                                áen 02/12/2023
+                  1E106.011           IE106          Qurg                       Thứ   Tiet 6789, Giàng vien: Huynh Van Tin, Cách  tuan, tử 11/09/2023    5/80
+                                      Tnict ke giao cisnnguc} (                 áến 02/12/2023
+                  IE106.011.1         IE106                                     Thử  Tiet Ciáng vien: Huynh Ván Tín, Cách tuan, tử 18/09/2023 đen        5/80
+                                      Tniet Ke giao dicn nguci curg             23/12/2023
+                  1E307,011           IE307                                     Thử   Tiet 6789, Giảng vỈen: VI Ngoc Tan, Cach  tuan  11/09/2023 den    2/100
+                                      Cong rghe lap trinn da nen tang cno 4ng_  02/12/2023
+                         HÌnh 8: Danh sách các lớp đăng ký thành công
+---
+4. Xóa đăng ký học phần
+Các bước xoá các lớp đã đăng ký học phần:
+      o      Bước 1: Chuyển sang menu Danh sách L
+                                                                                                ớp đã đăng ký.
+               UIT ĐKHP      Dashboard    Đăng kỷ Hoc phan  Danh sách Lớp Đã Đăng ký       Xác nhận Đăng ký Học phần
+                   Danh Sách Lớp học Đã Đăng ký
+                            Mà Lơp               Mà MHI Tên MH                             Thoi Gian hoc                                        Só tin chi  ĐaĐKISS
+                            IE103.011            1E103                                     Thứ 4, Tiết 1234, Giảng viên: Nguyễn Gia Tuấn Anh, Cách tuan, từ          5/100
+                                                 Quản lý thông tin                         11/09/2023 đến 02/12/2023
+                            1E103.011.1          IE103                                     Thứ 6, Tiết 67890,Giảngviên: Trân Quôc Khánh, Cách 2 tuần, từ              5/50
+                                                 Quản lỷ thông tin                         25/09/2023 đến 02/12/2023
+                            IE104.012            1E104                                     Thứ 3, Tiết 2345, Giảng viên: Võ Tấn Khoa, Cách  tuan, từ 11/09/2023 den  6/100
+                                                 Internet va cong nghé Web                 02/12/2023
+                                                                                           Thứ 3, Tiết 67890, Giảng viên: Tô Quõc
+                            1E104.012.1          IE104                                                          Huy,Cach 2 tuần, từ 25/09/2023                        6/50
+                                                 Internet và công nghệ Web                 đến 02/12/2023
+                            IE106.011            IE1O6                                     Thứ 4, Tiết 6789, Giảng viên: Huỳnh Van Tín, Cách tuan, từ 11/09/2023      6/80
+                                                 Thiết kế giao diện người dùng             đến 02/12/2023
+                            1E106.011.1          IE1O6                                     Thứ Tiết Giáng viên: Huỳnh Văn Tín, Cách tuán, từ 18/09/2023 đến            /80
+                                                 Thiêt kể giao diện người dùng             23/12/2023
+                            1E307.011            1E307                                     Thứ 5, Tiết 6789, Giảng viên: Võ Ngọc Tân; Cách  tuan; từ 11/09/2023 đến  4/100
+                                                 Công nghệ Iập trinh đa nentảngcho ứng-.   02/12/2023
+                            1E307.011.1          IE307                                     Thứ 6, Tiết 12345, Giáng viên: Phạm Nhật Duy; Cách 2 tuần, từ              4/50
+                                                 Công nghệ lập trinh da nền tảng choung .  25/09/2023 đẽn 02/12/2023
+                            5E347.011            SE347                                     Thử 7, Tiết 2345, Giàng viên: Trần Thị Hồng Yến, Cách tuàn, từ             5/70
+                                                 Công nghệ Web va ửng dung                 11/09/2023 đến 09/12/2023
+                                                                            Anh chị chưa chọn Iớp nào để XÓA
+                                     Hình 1: Giao diện danh sách lớp đã đăng ký
+      o      Bước 2: Chọn các lớp cần xoá đăng ký.
+               Uit ĐKHP      Dashboard    Đẽng ký Học phần  Danh sách Lớp Đã Đăng ký       Xác nhận Đăng ký Học phần
+                   Danh Sách Lớp học Đã Đăng ký
+                            Mã Lởp               Me MHI Ten MH                             Thai Gian hoc                                        56 tin chi  ĐãĐKISS
+                            IE103.011            IE103                                     Thử  Tiêt 1234, Giảng viên: Nguyén Gia Tuan Anh, Cách tuan, tử            5/100
+                                                 Quan ly thong tin                         11/09/2023 đến 02/12/2023
+                            1E103.0111           IE103                                     Thử 6 Tiêt 67890, Giảng viên: Trản Quóc Khảnh, Cách tuản, -ừ               5/50
+                                                 Quan ly thong tin                         25/09/2023 đen 02/12/2023
+                1           IE104.012            IE104                                     Thử 3 Tiêt 2345, Giảng vien: Võ Tan Khoa,Cảch    tuan, từ 11/09/2023 đẽn  6/100
+                                                 Internet vEcông nghệ Web        02/12/2023
+                            IE104.012.1          IE104   công nghệ Web                     Thừ 3, Tiết 67890, Giang viên: Tò Quóc Huy, Cảch  (uantu 25/09/2023        6/50
+                1                                Internet va                               đen 02/12/2023
+                            IE10ê.011            1E106                                     Thử  Tiet 6789, Ciang viên: Huynh Vàn Tin, Cảch   tuán, tử 11/09/2023      6/80
+                                                 Thiẽt ke giao dien ngưởì dúng             đen 02/12/2023
+                            IE1O6,011,1          IE106                                     Thử Tiêt Giang viên: Huynh Van Tín, Cach tuan     18/09/2023 đến           6/80
+                                                 Thiet ke gi20 dien ngưdi dủng             23/12/2023
+               5            IE307.011            1E307                                     Thử 5Tiet 6789Giảng vièn: Võ Ngọc Tân, Cảch tuan, từ 11/09/2023 den       4/100
+                                                 Congnghe IeP trinh da nen tang cho ung.   02/12/2023
+                            IE307,.011,1         1E307                                     Thứ  Tiêt 12345, Giảng viên: Phạm Nhât Duy, Cách    tuan từ                4/50
+                                                 Congnghe Izp trinh da nen tang cho ung    25/09/2023 đẽn 02/12/2023
+                            E347,011             SE347                                     Thử 7, Tiêt 2345, Giảng viên: Tran Thị Hồng Yẽn, Cảch tuan                 5/70
+                                                 Công nghc Web và ửng dụng                 11/09/2023 đến 09/12/2023
+                                                                            Anh chi chưa chon lớp nào để XÓA
+                                         Hình 2: Hướng dẫn chọn mã                                l ớp cần xóa
+---
+o   Bước 3: Bấm xóa sau khi xem xong danh sách các lớp đã chọn ở ngay bên
+    dưới.
+     UIT ĐKHP  Dashboard  Đăng kỷ Hoc phần  Danh sách Lởp Đã Đăng kỷ  Xác nhận Đăng kỷ Học phản
+             1E103.011.1  1E103                                  Thứ 6, Tiet 67890, Giảng viên: Tran Quốc Khanh, Cach 2 tuan, từ         5/50
+                          Quan lý thẩng tin                      25/09/2023 đến 02/12/2023
+            1E104.012     1E104                                  Thứ 3, Tiet 2345, Giảng viên: Võ Tan KhoaCách  {uan, từ 11/09/2023 đẽn  6/100
+                          Internet và công nghe Web              02/12/2023
+            1E104.012.1   1E104                                  Thứ 3, Tiết 67890Giàngviên: Tô Quóc Huy, Cảch 2 tuần,từ 25/09/2023      6/50
+                          Internet va cong nghệ Web              den02/12/2023
+            IE106,011     IE106                                  Thử 4 Tiểt 6789, Giảng viên: Huỷnh Ván Tín, Cách tuan,từ 11/09/2023     6/80
+                          Tniet ke giao dỉện ngưci dùng          đên02/12/2023
+             1E106.011.1  IE106                                  Thừ Tiêt  Giảng viên: Huynh Văn Tín, Cảch    (uan tử 18/09/2023 đen     6/80
+                          Thict kể giao diệnⁿᵍᵘᶜˡdủng            23/12/2023
+            1E307.011     IE307                                  Thử 5Tỉết 6789, Giàng vỉên: Võ Ngọc Tân, Cảch  tuần, từ 11/09/2023 den  4/100
+                          Congnghe lâp trinh da nentongchoung    02/12/2023
+            1E307,011.1   IE307                                  Thứ 6, Tiet 12345, Giáng viên: Phạm NhatDuyCách tuan, từ                4/50
+                        Cêng nghệ lập trinh đa nềniangcho(ing -  25/09/2023 đến 02/12/2023
+             1T007.011    IToo7                                  Thử 2, Tiẽr 123, Giang viên: None, Cảch tuàn, từ 11/09/2023 đến         14/60
+                          Hệ đleu hanh                           30/12/2023
+             IT0O7.011.1  IToo7                                  Thử 2, Tiet 67890, Giảng viên: None, Cach tuan, từ 25/09/2023 đến       11/30
+                          He dreu hành                           09/12/2023
+             5E347.011    SE347                                  Thứ 7, Tiet 2345, Giáng viên: Tran Thi HồngYen, Cach tuan,              6/70
+                          Congnghe Web và ung dung               11/09/2023 áến 09/12/2023
+                  Dant sach các lop can xóa  1TO07.011           1T007.011.1                                    Nút xoa ở dày  Xoa2 lớp
+                  khi chon sẽ hiễn thi ở dây
+                    Hì nh 3: Hướng dẫn xóa các lớp đã chọn
+o   Bước 4 gồm 2 bước nhỏ:
+    - Nếu các lớp chọn không vấn đề gì, hệ thống sẽ tiến hành ghi nhận.
+    - Nếu có vấn đề    lỗi thì sẽ thông báo lỗi màu đỏ như sau
+             Có lỗi xảy ra
+             Lớp 1E104.012.1 đã có trong danh sách xóa.
+                    Hình 4: Hiển thị   lỗi khi chọn lớ p để      xóa
+    - Nếu ghi nhận thành công sẽ thông báo màu xanh... và chờ kết quả xử lý...
+     Thông báo     dăngký ĐÃ ĐƯỢC hệthốngghi nhận, vui lòng chờ kết
+     Thông tin xóa                                                                                              quả
+     xử lý
+         Hì nh 6: Hiển thị  xóa thành công và được hệ            thống ghi nhận
+---
+o  Bước 5: Kiểm tra kết quả xoá đăng ký học phần trả về.
+  KẾT QUẢ XÓA GẦN NHẤT
+     2 Lớp Thành công
+  ITOO7.011,1T007.011.1: Xóa thành công:
+  ITOO7.011.1,1T007.011: Xóa thành công:
+     0 Lớp bị lỗi
+            Hình 7: Kết quả trả về khi xóa đăng ký học phần

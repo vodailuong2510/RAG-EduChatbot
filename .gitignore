@@ -2,6 +2,5 @@
 *.pyc
 .env
 *.png
-*.txt
 *.jpg
 *.jpeg
