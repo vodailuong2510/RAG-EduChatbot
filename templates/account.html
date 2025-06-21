@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Quản lý tài khoản</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+    .transition-opacity {
+      transition: opacity 0.3s ease-in-out;
+    }
+    .modal-backdrop {
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+  </style>
+  <script>
+    let currentPage = 1;
+    let totalPages = 1;
+    let currentSearch = '';
+    let searchTimeout = null;
+
+    async function loadAccounts(page = 1, search = '') {
+      try {
+        // Temporary mock data for demonstration
+        const mockData = {
+          accounts: [
+            {
+              name: "Nguyễn Văn A",
+              email: "nguyenvana@gmail.com",
+              avatar: "https://ui-avatars.com/api/?name=Nguyen+Van+A&background=random",
+              provider: "google",
+              created_at: "2024-03-15",
+              role: "user"
+            },
+            {
+              name: "Trần Thị B",
+              email: "tranthib@gmail.com",
+              avatar: "https://ui-avatars.com/api/?name=Tran+Thi+B&background=random",
+              provider: "facebook",
+              created_at: "2024-03-14",
+              role: "admin"
+            },
+            {
+              name: "Lê Văn C",
+              email: "levanc@gmail.com",
+              avatar: "https://ui-avatars.com/api/?name=Le+Van+C&background=random",
+              provider: "google",
+              created_at: "2024-03-13",
+              role: "user"
+            },
+            {
+              name: "Phạm Thị D",
+              email: "phamthid@gmail.com",
+              avatar: "https://ui-avatars.com/api/?name=Pham+Thi+D&background=random",
+              provider: "facebook",
+              created_at: "2024-03-12",
+              role: "user"
+            },
+            {
+              name: "Hoàng Văn E",
+              email: "hoangvane@gmail.com",
+              avatar: "https://ui-avatars.com/api/?name=Hoang+Van+E&background=random",
+              provider: "google",
+              created_at: "2024-03-11",
+              role: "user"
+            }
+          ],
+          pagination: {
+            current_page: page,
+            total_pages: 2
+          }
+        };
+
+        // Filter accounts based on search term
+        if (search) {
+          mockData.accounts = mockData.accounts.filter(account => 
+            account.name.toLowerCase().includes(search.toLowerCase()) ||
+            account.email.toLowerCase().includes(search.toLowerCase())
+          );
+        }
+
+        const data = mockData;
+        
+        const tbody = document.querySelector('tbody');
+        tbody.innerHTML = '';
+        
+        if (data.accounts.length === 0) {
+          tbody.innerHTML = `
+            <tr>
+              <td colspan="5" class="px-6 py-4 text-center text-gray-500">
+                ${search ? 'Không tìm thấy tài khoản phù hợp' : 'Chưa có tài khoản nào'}
+              </td>
+            </tr>
+          `;
+        } else {
+          data.accounts.forEach(account => {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+              <td class="px-6 py-4 whitespace-nowrap text-left">
+                <div class="flex items-center">
+                  <img class="h-8 w-8 rounded-full mr-3" src="${account.avatar || '/static/default-avatar.png'}" alt="${account.name}">
+                  <div>
+                    <div class="font-medium text-gray-900">${account.name}</div>
+                    <div class="text-gray-500 text-sm">${account.email}</div>
+                  </div>
+                </div>
+              </td>
+              <td class="px-6 py-4 whitespace-nowrap text-center">
+                <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${account.provider === 'google' ? 'bg-red-100 text-red-800' : account.provider === 'facebook' ? 'bg-blue-100 text-blue-800' : 'bg-gray-100 text-gray-800'}">
+                  ${account.provider}
+                </span>
+              </td>
+              <td class="px-6 py-4 whitespace-nowrap text-center text-gray-700">${account.created_at}</td>
+              <td class="px-6 py-4 whitespace-nowrap text-center">
+                <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${account.role === 'admin' ? 'bg-indigo-100 text-indigo-800' : 'bg-green-100 text-green-800'}">
+                  ${account.role}
+                </span>
+              </td>
+              <td class="px-6 py-4 whitespace-nowrap text-center">
+                <button 
+                  onclick="toggleRole('${account.email}')"
+                  class="text-indigo-600 hover:text-indigo-900 focus:outline-none"
+                >
+                  <i class="fas fa-exchange-alt"></i>
+                </button>
+              </td>
+            `;
+            tbody.appendChild(tr);
+          });
+        }
+
+        // Update pagination
+        currentPage = data.pagination.current_page;
+        totalPages = data.pagination.total_pages;
+        updatePagination();
+      } catch (error) {
+        console.error('Error loading accounts:', error);
+        showNotification('Error loading accounts', 'error');
+      }
+    }
+
+    function handleSearch(event) {
+      const searchInput = event.target;
+      const searchTerm = searchInput.value.trim();
+      
+      if (searchTimeout) {
+        clearTimeout(searchTimeout);
+      }
+      
+      searchTimeout = setTimeout(() => {
+        currentSearch = searchTerm;
+        loadAccounts(1, searchTerm);
+      }, 300);
+    }
+
+    function updatePagination() {
+      const paginationNav = document.querySelector('nav[aria-label="Pagination"]');
+      let paginationHTML = '';
+
+      // Previous button
+      paginationHTML += `
+        <button type="button" 
+          class="px-3 py-1 rounded border ${currentPage === 1 ? 'border-gray-300 text-gray-400 cursor-not-allowed' : 'border-gray-300 hover:border-indigo-600 hover:text-indigo-600'}"
+          aria-label="Previous page"
+          ${currentPage === 1 ? 'disabled' : `onclick="loadAccounts(currentPage - 1, currentSearch)"`}
+        >
+          <i class="fas fa-chevron-left"></i>
+        </button>
+      `;
+
+      // Page numbers
+      for (let i = 1; i <= totalPages; i++) {
+        if (
+          i === 1 || 
+          i === totalPages || 
+          (i >= currentPage - 1 && i <= currentPage + 1)
+        ) {
+          paginationHTML += `
+            <button type="button"
+              class="px-3 py-1 rounded border ${i === currentPage ? 'border-indigo-600 bg-indigo-50 text-indigo-600' : 'border-gray-300 hover:border-indigo-600 hover:text-indigo-600'}"
+              ${i === currentPage ? 'aria-current="page"' : ''}
+              onclick="loadAccounts(${i}, currentSearch)"
+            >
+              ${i}
+            </button>
+          `;
+        } else if (
+          (i === currentPage - 2 && currentPage > 3) ||
+          (i === currentPage + 2 && currentPage < totalPages - 2)
+        ) {
+          paginationHTML += `
+            <button type="button" class="px-3 py-1" disabled>...</button>
+          `;
+        }
+      }
+
+      // Next button
+      paginationHTML += `
+        <button type="button"
+          class="px-3 py-1 rounded border ${currentPage === totalPages ? 'border-gray-300 text-gray-400 cursor-not-allowed' : 'border-gray-300 hover:border-indigo-600 hover:text-indigo-600'}"
+          aria-label="Next page"
+          ${currentPage === totalPages ? 'disabled' : `onclick="loadAccounts(currentPage + 1, currentSearch)"`}
+        >
+          <i class="fas fa-chevron-right"></i>
+        </button>
+      `;
+
+      paginationNav.innerHTML = paginationHTML;
+    }
+
+    async function toggleRole(email) {
+      try {
+        const response = await fetch('/admin/accounts/toggle-role', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({ email })
+        });
+
+        if (response.ok) {
+          showNotification('Vai trò đã được cập nhật thành công', 'success');
+          loadAccounts(currentPage, currentSearch);
+        } else {
+          const data = await response.json();
+          showNotification(data.error || 'Không thể cập nhật vai trò', 'error');
+        }
+      } catch (error) {
+        console.error('Error toggling role:', error);
+        showNotification('Lỗi khi cập nhật vai trò', 'error');
+      }
+    }
+
+    function showNotification(message, type = 'success') {
+      const notification = document.createElement('div');
+      notification.className = `fixed top-4 right-4 px-6 py-3 rounded-lg text-white ${
+        type === 'success' ? 'bg-green-500' : 'bg-red-500'
+      } transition-opacity duration-300`;
+      notification.textContent = message;
+
+      document.body.appendChild(notification);
+
+      setTimeout(() => {
+        notification.style.opacity = '0';
+        setTimeout(() => {
+          notification.remove();
+        }, 300);
+      }, 3000);
+    }
+
+    async function handleLogout() {
+      try {
+        const response = await fetch('/auth/logout');
+        if (response.ok) {
+          window.location.href = '/login';
+        } else {
+          showNotification('Lỗi khi đăng xuất', 'error');
+        }
+      } catch (error) {
+        console.error('Error logging out:', error);
+        showNotification('Lỗi khi đăng xuất', 'error');
+      }
+    }
+
+    // Load accounts when page loads
+    document.addEventListener('DOMContentLoaded', () => loadAccounts(1, ''));
+  </script>
+</head>
+<body class="bg-white text-gray-900 min-h-screen flex flex-col">
+  <div class="flex flex-1 min-h-0">
+    <!-- Sidebar -->
+    <aside class="flex flex-col w-[280px] bg-[#2a2a2a] text-white">
+      <div class="flex items-center justify-between px-6 py-5 border-b border-gray-800">
+        <span class="font-semibold text-base leading-5">Xin chào, Admin</span>
+        <button
+          aria-label="Menu"
+          class="lg:hidden text-gray-300 hover:text-white focus:outline-none focus:ring-2 focus:ring-indigo-500 rounded"
+        >
+          <i class="fas fa-bars text-lg"></i>
+        </button>
+      </div>
+      <nav class="flex flex-col flex-1 px-4 py-6 space-y-1 text-sm font-medium">
+        <a
+          href="/chat-redirect"
+          class="flex items-center px-3 py-2 rounded-md hover:bg-gray-800 hover:text-indigo-400 cursor-pointer">
+          <i class="fas fa-robot mr-3 text-lg"></i>
+          Chatbot
+        </a>
+        <a
+          href="/admin"
+          class="flex items-center px-3 py-2 rounded-md hover:bg-gray-800 hover:text-indigo-400 cursor-pointer">
+          <i class="fas fa-database mr-3 text-lg"></i>
+          Quản lý dữ liệu
+        </a>
+        <a
+          href="#"
+          class="flex items-center px-3 py-2 rounded-md bg-indigo-900 text-indigo-400 cursor-pointer"
+          aria-current="page">
+          <i class="fas fa-users mr-3 text-lg"></i>
+          Quản lý tài khoản
+        </a>
+      </nav>
+      <div class="border-t border-gray-800 px-6 py-4">
+        <div class="text-xs uppercase mb-2 text-gray-400">ADMIN</div>
+        <div class="text-sm font-semibold truncate">vodailuong2510@gmail.com</div>
+        <button
+          type="button"
+          onclick="handleLogout()"
+          class="mt-3 w-full bg-indigo-600 hover:bg-indigo-700 text-white text-sm font-semibold py-2 rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+          Đăng xuất
+        </button>
+      </div>
+      <div class="px-6 py-3 border-t border-gray-800 font-semibold text-sm select-none text-indigo-400">
+        CEDUIT Chatbot
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <main class="flex-1 p-6 overflow-auto">
+      <h1 class="text-indigo-600 font-semibold text-2xl mb-6">Quản lý tài khoản</h1>
+
+      <div class="flex items-center mb-6 max-w-full space-x-4">
+        <div class="relative flex-grow min-w-0">
+          <input
+            type="text"
+            placeholder="Tìm kiếm tài khoản..."
+            class="w-full border border-gray-300 rounded-md py-2 pl-10 pr-4 text-sm placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
+            oninput="handleSearch(event)"
+          />
+          <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-gray-400">
+            <i class="fas fa-search text-sm"></i>
+          </div>
+        </div>
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="min-w-full border border-gray-200 divide-y divide-gray-200 text-sm">
+          <thead class="bg-gray-50">
+            <tr>
+              <th scope="col" class="px-6 py-3 text-left font-bold text-gray-600">
+                Người dùng
+              </th>
+              <th scope="col" class="px-6 py-3 text-center font-bold text-gray-600">
+                Đăng nhập qua
+              </th>
+              <th scope="col" class="px-6 py-3 text-center font-bold text-gray-600">
+                Ngày tạo
+              </th>
+              <th scope="col" class="px-6 py-3 text-center font-bold text-gray-600">
+                Vai trò
+              </th>
+              <th scope="col" class="px-6 py-3 text-center font-bold text-gray-600">
+                Thao tác
+              </th>
+            </tr>
+          </thead>
+          <tbody class="bg-white divide-y divide-gray-200">
+            <!-- Accounts will be loaded dynamically via JavaScript -->
+          </tbody>
+        </table>
+      </div>
+
+      <nav class="mt-6 flex justify-center space-x-2 text-gray-600 text-sm font-semibold select-none" aria-label="Pagination">
+        <!-- Pagination will be updated dynamically via JavaScript -->
+      </nav>
+    </main>
+  </div>
+</body>
+</html> 

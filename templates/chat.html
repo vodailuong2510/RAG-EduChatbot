@@ -1,0 +1,655 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>CEDUIT</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet"/>
+
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="icon" type="image/png" href="/static/logo.png">
+
+    <style>
+        /* .sidebar {
+            transition: width 0.3s ease-in-out;
+            width: 280px;
+            overflow-x: hidden;
+        }
+        .sidebar.collapsed {
+            width: 60px;
+        }
+        .sidebar-content {
+            transition: opacity 0.2s ease-in-out;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+        .sidebar.collapsed .sidebar-content {
+            opacity: 0;
+            width: 0;
+        }
+        .main-content {
+            transition: margin-left 0.3s ease-in-out;
+            margin-left: 280px;
+        }
+        .main-content.collapsed {
+            margin-left: 60px;
+        }
+        .sidebar-icons {
+            position: absolute;
+            right: 0;
+            top: 0;
+            padding: 1rem;
+        }
+        .sidebar-icons button {
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        } */
+    </style>
+</head>
+<body class="bg-gray-100 text-black h-screen flex">
+    <!-- Sidebar -->
+    <div id="sidebar" class="sidebar text-white">
+        <div>
+            <div class="sidebar-icons">
+                <button onclick="toggleSidebar()" class="p-2 hover:bg-gray-700 rounded-lg transition-colors">
+                    <i id="toggle-icon-collapsed" class="fas fa-bars fa-lg"></i>
+                </button>
+            </div>
+
+            <div class="flex items-center justify-between mb-6">
+                <h1 class="text-xl font-semibold sidebar-content">CEDUIT</h1>
+                <button onclick="toggleSidebar()" class="p-2 hover:bg-gray-700 rounded-lg transition-colors">
+                    <i id="toggle-icon" class="fas fa-bars fa-lg"></i>
+                </button>
+            </div>
+            <hr class="border-gray-300 mb-6"/>
+
+            <div class="mb-6">
+                <div class="flex items-center mb-4 cursor-pointer" onclick="createNewChat()">
+                    <i class="fas fa-comment text-xl mr-2"></i>
+                    <span class="sidebar-content">Đoạn chat mới</span>
+                </div>
+            </div>
+            <div class="flex items-center mb-3">
+                <div id="search-container" class="flex items-center w-full">
+                    <div id="search-button" class="flex items-center cursor-pointer" onclick="toggleSearchBar()">
+                        <i class="fas fa-search text-lg mr-2"></i>
+                        <span class="sidebar-content">Tìm kiếm</span>
+                    </div>
+                    <div id="search-bar" class="hidden flex-grow sidebar-content">
+                        <input type="text" id="search-input" class="w-full bg-gray-700 text-white rounded px-2 py-1 text-sm" 
+                               placeholder="Tìm kiếm đoạn chat..." 
+                               onkeyup="searchChats()" />
+                    </div>
+                </div>
+            </div>
+            <div id="chat-list" class="sidebar-content">
+                <!-- Chat history will be loaded here -->
+            </div>
+        </div>
+
+        <div class="settings" onclick="window.location.href='/admin-redirect'">
+            <i class="fas fa-cog text-xl mr-2"></i>
+            <span class="sidebar-content">Cài đặt</span>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div id="main-content" class="main-content flex flex-col justify-center items-center bg-gray-100 relative">
+        <div class="absolute top-4 right-4 flex space-x-4">
+            <button><i class="fas fa-share-square text-xl"></i></button>
+            <div class="user-dropdown">
+                <button id="user-button" class="bg-white rounded-full p-2">
+                    <img id="user-avatar-button" class="w-8 h-8 rounded-full object-cover" src="/static/default-avatar.png" alt="User Avatar">
+                </button>
+                <div class="dropdown-content">
+                    <div id="user-info" class="user-info">
+                        <img id="user-avatar" class="user-avatar" src="/static/default-avatar.png" alt="User Avatar">
+                        <div id="user-name" class="font-semibold">Loading...</div>
+                        <div id="user-email" class="text-sm text-gray-500">Loading...</div>
+                    </div>
+                    <a href="/auth/logout"><i class="fas fa-sign-out-alt mr-2"></i>Đăng xuất</a>
+                </div>
+            </div>
+        </div>
+        <h1  id="welcome-message" class="text-2xl font-semibold mb-8">Mình có thể giúp gì cho bạn?</h1>
+        <div id="chat-container" class="w-full max-w-4xl flex flex-col space-y-4">
+            <!-- Chat responses will be appended here -->
+        </div>
+        <div id="chat-box" class="w-full max-w-4xl flex items-end">
+            <div class="bg-white p-4 rounded-3xl shadow-lg flex items-center space-x-4 w-full">
+                <textarea id="user-input" class="bg-transparent flex-grow text-black outline-none w-full h-auto min-h-[40px] resize-none p-2" placeholder="Câu hỏi của bạn là gì?" rows="1"></textarea>
+                <button onclick="sendMessage()" class="shrink-0 flex items-center justify-center h-10 w-10 self-end mb-2">
+                    <i class="fas fa-paper-plane text-xl"></i>
+                </button>
+            </div>
+        </div>
+        <div class="absolute bottom-4 right-4">
+            <div class="relative">
+                <i class="fas fa-question-circle text-xl cursor-pointer" onclick="toggleHelpMenu()"></i>
+                <div id="help-menu" class="absolute bottom-full right-0 mb-2 w-48 bg-white rounded-lg shadow-lg p-2 hidden">
+                    <a href="/terms-redirect" class="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded">Điều khoản sử dụng</a>
+                    <a href="/privacy-redirect" class="block px-4 py-2 text-gray-700 hover:bg-gray-100 rounded">Chính sách bảo mật</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 text-center">
+            <p class="text-sm text-gray-600">CEDUIT có thể mắc lỗi khi trả lời. Nếu có thắc mắc hãy liên hệ với chúng tôi.</p>
+        </div>
+    </div>
+
+    <script>
+        let currentChatId = null;
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            fetchUserData();
+            createNewChat();
+            loadChats();
+        });
+
+        async function fetchUserData() {
+            try {
+                const response = await fetch("/auth/me");
+                if (response.status === 401) {
+                    // Redirect to login if unauthorized
+                    window.location.href = "/login-redirect";
+                    return;
+                }
+                
+                const userData = await response.json();
+                
+                // Update user info in dropdown
+                document.getElementById('user-name').textContent = userData.name || 'Anonymous User';
+                document.getElementById('user-email').textContent = userData.email || '';
+                
+                if (userData.avatar) {
+                    document.getElementById('user-avatar').src = userData.avatar;
+                    document.getElementById('user-avatar-button').src = userData.avatar;
+                }
+                
+                // Store user ID for chat functionality
+                window.userId = userData.sub;
+            } catch (error) {
+                console.error("Error fetching user data:", error);
+            }
+        }
+
+        async function loadChats() {
+            try {
+                const response = await fetch("/chats");
+                if (response.ok) {
+                    const chats = await response.json();
+                    const chatList = document.getElementById('chat-list');
+                    chatList.innerHTML = '';
+                    
+                    if (chats.length > 0) {
+                        // Group chats by date
+                        const groupedChats = groupChatsByDate(chats);
+                        
+                        for (const [date, dateChats] of Object.entries(groupedChats)) {
+                            const dateHeader = document.createElement('h2');
+                            dateHeader.className = 'text-sm text-gray-200 mb-2';
+                            dateHeader.textContent = date;
+                            chatList.appendChild(dateHeader);
+                            
+                            dateChats.forEach(chat => {
+                                const chatItem = document.createElement('div');
+                                chatItem.className = 'chat-item flex items-center justify-between mb-2 p-2 rounded hover:bg-gray-700 cursor-pointer';
+                                chatItem.onclick = () => loadChat(chat.chat_id);
+                                
+                                const chatTitle = document.createElement('p');
+                                chatTitle.className = 'truncate';
+                                chatTitle.textContent = chat.title;
+                                
+                                const deleteButton = document.createElement('button');
+                                deleteButton.innerHTML = '<i class="fas fa-trash"></i>';
+                                deleteButton.className = 'delete-button';
+                                deleteButton.onclick = (e) => {
+                                    e.stopPropagation();
+                                    deleteChat(chat.chat_id);
+                                };
+                                
+                                chatItem.appendChild(chatTitle);
+                                chatItem.appendChild(deleteButton);
+                                chatList.appendChild(chatItem);
+                            });
+                        }
+                    }
+                }
+            } catch (error) {
+                console.error("Error loading chats:", error);
+            }
+        }
+
+        function groupChatsByDate(chats) {
+            const groups = {};
+            const today = new Date();
+            const yesterday = new Date(today);
+            yesterday.setDate(yesterday.getDate() - 1);
+            
+            chats.forEach(chat => {
+                const chatDate = new Date(chat.updated_at);
+                let dateKey;
+                
+                if (chatDate.toDateString() === today.toDateString()) {
+                    dateKey = 'Hôm nay';
+                } else if (chatDate.toDateString() === yesterday.toDateString()) {
+                    dateKey = 'Hôm qua';
+                } else {
+                    dateKey = chatDate.toLocaleDateString('vi-VN', { 
+                        year: 'numeric', 
+                        month: 'long', 
+                        day: 'numeric' 
+                    });
+                }
+                
+                if (!groups[dateKey]) {
+                    groups[dateKey] = [];
+                }
+                groups[dateKey].push(chat);
+            });
+            
+            return groups;
+        }
+
+        async function createNewChat() {
+            // Reset UI for new chat
+            currentChatId = null;
+            const chatContainer = document.getElementById('chat-container');
+            const welcomeMessage = document.getElementById('welcome-message');
+            
+            chatContainer.innerHTML = '';
+            welcomeMessage.style.display = 'block';
+            chatContainer.classList.remove('has-messages');
+            
+            // Focus on the input field
+            document.getElementById('user-input').focus();
+        }
+
+        async function loadChat(chatId) {
+            currentChatId = chatId;
+            const chatContainer = document.getElementById('chat-container');
+            const welcomeMessage = document.getElementById('welcome-message');
+            
+            try {
+                const response = await fetch(`/chats/${chatId}/messages`);
+                if (response.ok) {
+                    const messages = await response.json();
+                    chatContainer.innerHTML = '';
+                    
+                    if (messages.length > 0) {
+                        welcomeMessage.style.display = 'none';
+                        chatContainer.classList.add('has-messages');
+                        
+                        messages.reverse().forEach(msg => {
+                            const messageBlock = document.createElement('div');
+                            messageBlock.className = `response-block ${msg.role === 'user' ? 'user' : 'system'}`;
+                            
+                            if (msg.role === 'user') {
+                                messageBlock.innerHTML = msg.content.replace(/\n/g, '<br>');
+                            } else {
+                                messageBlock.innerHTML = applyTailwindClasses(marked.parse(msg.content));
+                            }
+                            
+                            chatContainer.appendChild(messageBlock);
+                        });
+                        
+                        // Automatically scroll to the bottom after loading messages
+                        setTimeout(() => {
+                            chatContainer.scrollTop = chatContainer.scrollHeight;
+                        }, 100);
+                    } else {
+                        welcomeMessage.style.display = 'block';
+                        chatContainer.classList.remove('has-messages');
+                    }
+                }
+            } catch (error) {
+                console.error("Error loading chat messages:", error);
+            }
+        }
+
+        async function deleteChat(chatId) {
+            if (!confirm('Bạn có chắc chắn muốn xóa đoạn chat này?')) {
+                return;
+            }
+            
+            try {
+                const response = await fetch(`/chats/${chatId}`, {
+                    method: "DELETE",
+                    credentials: 'include'
+                });
+                
+                if (response.ok) {
+                    await loadChats();
+                    if (currentChatId === chatId) {
+                        currentChatId = null;
+                        const chatContainer = document.getElementById('chat-container');
+                        const welcomeMessage = document.getElementById('welcome-message');
+                        chatContainer.innerHTML = '';
+                        welcomeMessage.style.display = 'block';
+                        chatContainer.classList.remove('has-messages');
+                    }
+                }
+            } catch (error) {
+                console.error("Error deleting chat:", error);
+            }
+        }
+
+        function toggleSidebar() {
+            const sidebar = document.getElementById('sidebar');
+            const mainContent = document.getElementById('main-content');
+            const toggleIcon = document.getElementById('toggle-icon');
+            const toggleIconCollapsed = document.getElementById('toggle-icon-collapsed');
+
+            sidebar.classList.toggle('collapsed');
+            mainContent.classList.toggle('collapsed');
+
+            if (sidebar.classList.contains('collapsed')) {
+                toggleIcon.style.display = 'none';
+                toggleIconCollapsed.style.display = 'block';
+            } else {
+                toggleIcon.style.display = 'block';
+                toggleIconCollapsed.style.display = 'none';
+            }
+        }
+
+        function disableInput(disable) {
+            const userInput = document.getElementById('user-input');
+            const sendButton = document.querySelector('button[onclick="sendMessage()"]');
+            
+            userInput.disabled = disable;
+            sendButton.disabled = disable;
+            
+            if (disable) {
+                userInput.placeholder = "Đang chờ phản hồi...";
+                sendButton.classList.add('opacity-50', 'cursor-not-allowed');
+            } else {
+                userInput.placeholder = "Câu hỏi của bạn là gì?";
+                sendButton.classList.remove('opacity-50', 'cursor-not-allowed');
+            }
+        }
+
+        async function sendMessage() {
+            const userInput = document.getElementById('user-input');
+            const chatContainer = document.getElementById('chat-container');
+            const welcomeMessage = document.getElementById('welcome-message');
+
+            if (userInput.value.trim() !== "") {
+                disableInput(true);
+                
+                if (chatContainer.children.length === 0) {
+                    welcomeMessage.style.display = 'none';
+                    chatContainer.classList.add('has-messages');
+                }
+
+                const userResponse = document.createElement('div');
+                userResponse.className = 'response-block user';
+                userResponse.innerHTML = userInput.value.replace(/\n/g, '<br>');
+                chatContainer.appendChild(userResponse);
+
+                const userMessage = userInput.value;
+                userInput.value = "";
+
+                const typingIndicator = document.createElement('div');
+                typingIndicator.className = 'response-block system typing-indicator';
+                typingIndicator.innerHTML = '<span></span><span></span><span></span>';
+                chatContainer.appendChild(typingIndicator);
+
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+
+                try {
+                    const response = await fetch("/chat", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({ 
+                            message: userMessage,
+                            chat_id: currentChatId,
+                            user_id: window.userId
+                        }),
+                        credentials: 'include'
+                    });
+
+                    if (response.status === 401) {
+                        chatContainer.removeChild(typingIndicator);
+                        disableInput(false);
+                        window.location.href = "/login-redirect";
+                        return;
+                    }
+
+                    // Lấy chat_id từ header nếu chưa có
+                    if (!currentChatId) {
+                        const headerChatId = response.headers.get("X-Chat-ID");
+                        if (headerChatId) {
+                            currentChatId = headerChatId;
+                            console.log("Got chat ID from header:", currentChatId);
+                        }
+                    }
+
+                    const systemResponse = document.createElement('div');
+                    systemResponse.className = 'response-block system';
+                    chatContainer.appendChild(systemResponse);
+                    
+                    const reader = response.body.getReader();
+                    const decoder = new TextDecoder();
+                    let fullResponse = '';
+                    let isFirstChunk = true;
+
+                    while (true) {
+                        const {done, value} = await reader.read();
+                        if (done) break;
+                        
+                        const chunk = decoder.decode(value);
+                        fullResponse += chunk;
+                        systemResponse.innerHTML = applyTailwindClasses(marked.parse(fullResponse));
+
+                        if (isFirstChunk) {
+                            chatContainer.removeChild(typingIndicator);
+                            isFirstChunk = false;
+                        }
+
+                        chatContainer.scrollTop = chatContainer.scrollHeight;
+                    }
+                    
+                    await loadChats(); 
+                    disableInput(false);
+                } catch (error) {
+                    console.error("Error sending message:", error);
+                    const errorResponse = document.createElement('div');
+                    errorResponse.className = 'response-block system';
+                    errorResponse.innerHTML = '<p class="text-red-500">Có lỗi xảy ra khi kết nối với máy chủ. Vui lòng thử lại sau.</p>';
+                    chatContainer.appendChild(errorResponse);
+                    
+                    if (typingIndicator.parentNode === chatContainer) {
+                        chatContainer.removeChild(typingIndicator);
+                    }
+                    
+                    disableInput(false);
+                }
+
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
+        }
+
+        function applyTailwindClasses(htmlContent) {
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = htmlContent;
+
+            tempDiv.querySelectorAll('h1').forEach(el => el.className = 'text-2xl font-bold mb-4');
+            tempDiv.querySelectorAll('h2').forEach(el => el.className = 'text-xl font-semibold mb-3');
+            tempDiv.querySelectorAll('h3').forEach(el => el.className = 'text-lg font-medium mb-2');
+            tempDiv.querySelectorAll('p').forEach(el => el.className = 'mb-4 text-gray-700');
+            tempDiv.querySelectorAll('ul').forEach(el => el.className = 'list-disc list-inside mb-4 pl-4');
+            tempDiv.querySelectorAll('li').forEach(el => el.className = 'mb-2');
+            tempDiv.querySelectorAll('a').forEach(el => el.className = 'text-blue-500 underline hover:text-blue-700');
+            tempDiv.querySelectorAll('blockquote').forEach(el => el.className = 'border-l-4 border-gray-400 italic pl-4 text-gray-600');
+            tempDiv.querySelectorAll('table').forEach(el => el.className = 'border-collapse border border-gray-300 w-full my-4');
+            tempDiv.querySelectorAll('th, td').forEach(el => el.className = 'border border-gray-300 px-4 py-2 text-left');
+
+            return tempDiv.innerHTML;
+        }
+
+        document.getElementById('user-input').addEventListener('keydown', function(event) {
+            if (event.key === 'Enter') {
+                if (event.shiftKey) {
+                    const start = this.selectionStart;
+                    const end = this.selectionEnd;
+                    const value = this.value;
+                    
+                    this.value = value.substring(0, start) + '\n' + value.substring(end);
+                    
+                    this.selectionStart = this.selectionEnd = start + 1;
+                } else {
+                    event.preventDefault();
+                    sendMessage();
+                }
+            }
+        });
+
+        document.getElementById('user-input').addEventListener('input', function() {
+            this.style.height = 'auto'; 
+            this.style.height = (this.scrollHeight) + 'px';
+        });
+
+        function toggleHelpMenu() {
+            const menu = document.getElementById('help-menu');
+            menu.classList.toggle('hidden');
+        }
+
+        document.addEventListener('click', function(event) {
+            const menu = document.getElementById('help-menu');
+            const icon = event.target.closest('.fa-question-circle');
+            
+            if (!icon && !menu.contains(event.target)) {
+                menu.classList.add('hidden');
+            }
+        });
+
+        // Thêm các hàm tìm kiếm
+        function toggleSearchBar() {
+            const searchButton = document.getElementById('search-button');
+            const searchBar = document.getElementById('search-bar');
+            const searchInput = document.getElementById('search-input');
+            const searchText = searchButton.querySelector('span');
+            
+            if (searchBar.classList.contains('hidden')) {
+                // Hiện thanh tìm kiếm và ẩn chữ "Tìm kiếm"
+                searchBar.classList.remove('hidden');
+                searchBar.classList.add('active');
+                searchText.style.display = 'none';
+                searchInput.focus();
+            } else {
+                // Ẩn thanh tìm kiếm và hiện chữ "Tìm kiếm"
+                searchBar.classList.add('hidden');
+                searchBar.classList.remove('active');
+                searchText.style.display = '';
+                searchInput.value = '';
+                searchChats(); // Reset lại danh sách chat
+                
+                // Xóa thông báo "Không tìm thấy kết quả" nếu có
+                const noResults = document.getElementById('no-results');
+                if (noResults) {
+                    noResults.remove();
+                }
+            }
+        }
+        
+        function searchChats() {
+            const searchInput = document.getElementById('search-input');
+            const searchTerm = searchInput.value.toLowerCase().trim();
+            
+            // Lấy tất cả các chat item
+            const chatItems = document.querySelectorAll('#chat-list .chat-item');
+            const dateHeaders = document.querySelectorAll('#chat-list h2');
+            
+            // Nếu không có từ khóa tìm kiếm, hiển thị tất cả
+            if (!searchTerm) {
+                chatItems.forEach(item => {
+                    item.style.display = '';
+                });
+                dateHeaders.forEach(header => {
+                    header.style.display = '';
+                });
+                return;
+            }
+            
+            // Ẩn tất cả các date headers trước
+            dateHeaders.forEach(header => {
+                header.style.display = 'none';
+            });
+            
+            // Tìm kiếm và hiển thị các chat phù hợp
+            let foundItems = 0;
+            chatItems.forEach(item => {
+                const chatTitle = item.querySelector('p').textContent.toLowerCase();
+                if (chatTitle.includes(searchTerm)) {
+                    item.style.display = '';
+                    foundItems++;
+                    
+                    // Hiển thị date header của chat item này
+                    let currentElement = item.previousElementSibling;
+                    while (currentElement) {
+                        if (currentElement.tagName === 'H2') {
+                            currentElement.style.display = '';
+                            break;
+                        }
+                        currentElement = currentElement.previousElementSibling;
+                    }
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+            
+            // Nếu không tìm thấy kết quả nào
+            if (foundItems === 0) {
+                const chatList = document.getElementById('chat-list');
+                if (!document.getElementById('no-results')) {
+                    const noResults = document.createElement('div');
+                    noResults.id = 'no-results';
+                    noResults.className = 'text-center text-gray-400 mt-4';
+                    noResults.textContent = 'Không tìm thấy kết quả';
+                    chatList.appendChild(noResults);
+                }
+            } else {
+                const noResults = document.getElementById('no-results');
+                if (noResults) {
+                    noResults.remove();
+                }
+            }
+        }
+        
+        // Thêm sự kiện ESC để đóng thanh tìm kiếm
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                const searchBar = document.getElementById('search-bar');
+                if (!searchBar.classList.contains('hidden')) {
+                    toggleSearchBar();
+                }
+            }
+        });
+        
+        // Thêm sự kiện click để đóng thanh tìm kiếm khi click ra ngoài
+        document.addEventListener('click', function(event) {
+            const searchBar = document.getElementById('search-bar');
+            const searchButton = document.getElementById('search-button');
+            const searchContainer = document.getElementById('search-container');
+            
+            // Nếu thanh tìm kiếm đang mở và click không phải vào thanh tìm kiếm hoặc nút tìm kiếm
+            if (!searchBar.classList.contains('hidden') && 
+                !searchBar.contains(event.target) && 
+                !searchButton.contains(event.target) &&
+                !searchContainer.contains(event.target)) {
+                toggleSearchBar();
+            }
+        });
+    </script>
+</body>
+</html>
